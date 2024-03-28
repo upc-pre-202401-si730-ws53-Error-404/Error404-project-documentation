@@ -68,6 +68,7 @@ URL del repositorio del proyecto:
 2.3.3. [User Journey Mapping](#2.3.3.)<br>
 2.3.4. [Empathy Mapping](#2.3.4.)<br>
 2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
+2.4. [***Ubiquitous Language***](#2.4.)<br>
 3. [**Capítulo III: Requirements Specification**](#3.)<br>
 3.1. [***To-Be Scenario Mapping***](#3.1.)<br>
 3.2. [***User Stories***](#3.2.)<br>
