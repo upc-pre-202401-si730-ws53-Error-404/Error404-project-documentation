@@ -116,6 +116,7 @@ URL del repositorio del proyecto:
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+
 **Misión:** 
 
 **Visión:** 
