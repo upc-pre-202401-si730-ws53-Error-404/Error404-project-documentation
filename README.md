@@ -112,11 +112,117 @@ URL del repositorio del proyecto:
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+<div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+Nuestra startup, AgriCulture, tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
 
-**Misión:** 
+Para lograrlo, hemos desarrollado una plataforma que organiza y simplifica la gestión de cultivos para nuestros usuarios. Cada cultivo se sigue a lo largo de su ciclo fenológico, y además, mantenemos registros históricos para determinar las temporadas óptimas de siembra y cosecha de diferentes insumos. Esto permite una trazabilidad efectiva y ayuda a nuestros usuarios a alcanzar sus metas a largo plazo.
 
-**Visión:** 
+En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, democratizando el acceso a herramientas eficientes y fomentando el éxito de todos los involucrados.
+
+**Misión:** Ofrecer una solución integral de gestión agrícola que trascienda los límites tradicionales y que se encuentre disponible para todo el público.
+
+**Visión:** ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en lo que respecta a la gestión agrícola en los próximos años por su accesibilidad y facilidad de uso. 
+Mientras que como startup, AgriCulture, busca ser reconocido como un equipo autosustentable y capaz de brindar soluciones innovadoras en el campo de la agricultura moderna.
+
+##### Logotipo de la Startup:
+
+##### Logotipo del servicio
+
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
+
+||Perfiles de los integrantes del equipo|
+| :--------| :--------: |
+|||
+|||
+|||
+|||
+|||
+
+<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+##### What (Qué)
+###### ¿Cuál es el problema?
+
+
+##### Where (Dónde)
+###### ¿A dónde se dirige?
+
+###### ¿Dónde surge el problema?
+
+##### Who (Quién)
+###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
+
+##### Why (Por qué)
+###### ¿Cuál es la causa del problema?
+
+
+#### 2H
+##### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+
+###### ¿?
+
+
+##### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+
+###### ¿?
+
+
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
+
+##### **Problem Statement:** 
+
+
+
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
+
+##### **Business Assumptions:**
+1. **
+2. **
+3. **
+4. **
+5. **
+6. **
+7. **
+8. **
+9. **
+10. **
+
+##### **User Assumptions:**
+###### **¿Quién es el usuario?**   
+
+###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+
+###### **¿Qué características son importantes?**
+
+###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+
+###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
+###### **Feature Assumptions:**
+
+**Creemos que** 
+
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+* **Hypothesis Statement 01:**
+
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+
+<div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
+
+<div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
+
+
+<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
+
+<div id='2.1.'><h3> 2.1. Competidores</h3></div>
+
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
