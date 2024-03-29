@@ -128,13 +128,9 @@ En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, 
 Mientras que como startup, AgriCulture, busca ser reconocido como un equipo autosustentable y capaz de brindar soluciones innovadoras en el campo de la agricultura moderna.
 
 ##### Logotipo de la Startup:
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/AgriCulture.png
-style="display: block; 
-width=30%"/>
+
 ##### Logotipo del servicio
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogo.png
-style="display: block; 
-width=30%"/>
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogo.png width="50%" height="50%">
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
 ||Perfiles de los integrantes del equipo|
