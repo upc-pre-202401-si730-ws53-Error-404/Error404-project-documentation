@@ -129,13 +129,14 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 
 ##### Logotipo de la Startup:
 
-##### Logotipo del servicio
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogo.png width="50%" height="50%">
+##### Logotipo del producto
+
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50%" height="50%">
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
-||Perfiles de los integrantes del equipo|
-| :--------| :--------: |
-|||
+|Descripción de los perfiles de los integrantes del equipo|Foto del integrante|
+| :--------:| :--------: |
+|Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg>|
 |||
 |||
 |||
@@ -146,7 +147,11 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 
 ##### What (Qué)
 ###### ¿Cuál es el problema?
+El problema radica en la ausencia de alguna herramienta que permita gestionar, medir y seguir los cultivos para el público general; puesto que la mayoría de estas herramientas son software empresariales hechos a la medida. A pesar de la diversa información que pueda existir en internet sobre como gestionar adecuadamente un cultivo, buscar dicha información y que la fuente sea confiable es complicado, además que causa una pérdida del tiempo al usuario, puesto que debe indagar estos datos adecuadamente.
 
+##### When (Cuando)
+###### ¿Cuándo sucede el problema?
+El reto se presenta cuando agricultores, tanto principiantes como profesionales, requieren una herramienta para gestionar sus cultivos de manera eficiente, teniendo en cuenta aspectos como el entorno, los procesos fenológicos de sus cultivos, los cambios climáticos y la temporada propicia para el cultivo. Lamentablemente, gran parte de las herramientas existentes en este campo están diseñadas para empresas y no están al alcance de todos. 
 
 ##### Where (Dónde)
 ###### ¿A dónde se dirige?
