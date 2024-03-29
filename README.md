@@ -104,6 +104,18 @@ URL del repositorio del proyecto:
 4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
 
+## Student Outcomes
+|Criterio especifico|Acciones realizadas|Conclusiones|
+|-|:-|-|
+|||
+|||
+
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+**Misión:** 
+
+**Visión:** 
