@@ -143,6 +143,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+
 ##### What (Qué)
 ###### ¿Cuál es el problema?
 
