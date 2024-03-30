@@ -155,14 +155,18 @@ El reto se presenta cuando agricultores, tanto principiantes como profesionales,
 
 ##### Where (Dónde)
 ###### ¿A dónde se dirige?
+Nuestra solución esta dirigida a aquellos individuos ,que sin importar su experiencia en el sector agrícola, quieren incorporar una herramienta de gestión agrícola sencilla y moderna.
 
 ###### ¿Dónde surge el problema?
+El problema surge durante el proceso de crecimiento de los cultivos, desde la germinación de la semilla hasta la cosecha, al haber una ausencia de gestión, el cultivo puede sufrir diversas consecuencias negativas.
 
 ##### Who (Quién)
 ###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
+Los involucrados serían los usuarios del sistema, los cuales se separarían en nuestros segmentos objetivos, profesionales del campo de agricultura y aquellos principiantes o que tienen un pequeño cultivo en su hogar. La solución la utilizará aquel que desee gestionar sus cultivos de una manera más eficaz, siguiendo sus procesos fenológicos y tener un fecha aproximada de cuando estaría listo para la cosecha; esto puedo ser utilizado tanto por profesionales como principiantes del sector agrícola.
 
 ##### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
+
 
 
 #### 2H
