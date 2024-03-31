@@ -308,4 +308,14 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 
+
+<div id='4.'><h2>Capítulo 4: Product Design</h2></div>
+<div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
+
+
+<div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
+
+
+
+
 <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
