@@ -200,7 +200,7 @@ Chaquitaclla, nuestra solución, tiene como objetivo proporcionar a los agricult
 
 El problema surge al registrar las características de cada cultivo de forma individual. Los métodos tradicionales de gestión, como los registros en papel y las hojas de cálculo, pueden llevar a omitir detalles cruciales. Por ejemplo, no considerar el proceso fenológico en el que se encuentra un cultivo o evaluar si la temporada actual es la más adecuada para él.
 
-A pesar de los prejuicios sobre la implementación de tecnología en la agricultura, los datos estadísticos demuestran que aquellos que han adoptado herramientas digitales, como sistemas de gestión de cultivos, han obtenido beneficios significativos. Estos sistemas proporcionan datos más precisos y evitan la pérdida de información relevante. Por lo tanto surge la pregunta de ¿Cómo podemos implementar una gestión automatizada de la información de los cultivos sin generar desconfianza en los agricultores y asegurando que no se pierdan datos importantes?
+A pesar de los prejuicios sobre la implementación de tecnología en la agricultura, los datos estadísticos demuestran que aquellos que han adoptado herramientas digitales, como sistemas de gestión de cultivos, han obtenido beneficios significativos. Estos sistemas proporcionan datos más precisos y evitan la pérdida de información relevante. Por lo tanto surge la pregunta de ¿Cómo podemos implementar una gestión automatizada de la información de los cultivos sin generar desconfianza en los agricultores y asegurando que tendrán una mejora de calidad en sus cultivos al hacer uso de esta?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
@@ -290,6 +290,13 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
 El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño centrado en el usuario (UX) y la metodología Lean para optimizar la creación y el desarrollo de productos. Su objetivo principal es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A través de esta herramienta, los equipos pueden visualizar y analizar aspectos clave del diseño y la experiencia del usuario, lo que facilita la toma de decisiones informadas durante el proceso de desarrollo.
+
+## ***Lean UX Canvas realizado en la aplicación web "Mural":*** 
+
+
+Enlace para acceder al [Canvas]()
+
+
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
