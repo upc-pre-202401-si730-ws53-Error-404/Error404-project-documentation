@@ -176,16 +176,19 @@ Por otro lado, para nuestro segmento objetivo de principiantes en la agricultura
 
 El producto será empleado para el registro de cultivos y seguimiento de sus procesos fonológicos. Desde la germinación de la semilla, hasta el momento de la cosecha de este, por esta razón nuestra aplicación estaría brindando consejos según el estado del cultivo para propiciar una cosecha próspera.
 
-###### ¿Cómo se logrará una gestión adecuada de los cultivos de los champiñones dentro de la plataforma?
+###### ¿Cómo se logrará una gestión adecuada de los cultivos dentro de la plataforma?
 
+Los usuarios a partir de su acceso a nuestra aplicación mediante un navegador web, podrán empezar a registrar sus cultivos. Esto al ser un proceso manual, el usuario tendrá que categorizar el tipo de cultivo, en qué proceso fonológico se encuentra y descripción del área de donde se encuentra cultivado este. A partir de este registro manual, la aplicación brindará al usuario consejos y medidas que podría tomar con el fin de mejorar la calidad de este.
 
 ##### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
 
+Según el Ministerio de Agricultura y Desarrollo Rural de Colombia (2022), solo el 15% del sector agro usa tecnología de última generación, este porcentaje presentó resultados positivos en lo que respecta a la mejora de la calidad de sus productos, a comparación del 85% restante. Además que según UNCTAD(Organización de las Naciones Unidas para la Agricultura y la Alimentación), los agricultores familiares al ser comunes en países en desarrollo, estos en su mayoría son pobres, sin embargos entre estos agricultores, aquellos que tuvieron la oportunidad de implementar herramientas digitales para el monitoreo de sus cultivos, se vio una mejora en la calidad de estos.
+
 
 ###### ¿Qué porcentaje de la industria agrícola se vería beneficiada por nuestro producto?
 
-Si consideramos lo mencionado en el punto anterior y suponemos que nuestro producto tiene éxito, podríamos beneficiar al 80% de los agricultores, tanto principiantes como profesionales. Según datos proporcionados por un artículo publicado en Science en el año 2020, aquellos agricultores que recibieron asesoramiento para adoptar herramientas digitales lograron cambiar y mejorar sus prácticas
+Si consideramos lo mencionado en el punto anterior y suponemos que nuestro producto tiene éxito, podríamos beneficiar al 80% de los agricultores, tanto principiantes como profesionales. Además que según datos proporcionados por un artículo publicado en Science en el año 2020, aquellos agricultores que recibieron asesoramiento para adoptar herramientas digitales lograron cambiar y mejorar sus prácticas lo que supone una mejora en la calidad de los productos que brindan.
 
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
