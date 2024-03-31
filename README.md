@@ -297,6 +297,8 @@ Enlace para acceder al [Canvas](https://app.mural.co/t/aplicacionesweb8834/m/apl
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
+En el contexto de la agricultura y su relación con la tecnología, se presentan dos aspectos relevantes: la adopción de herramientas digitales por parte de los agricultores en países desarrollados y la creciente tendencia de aficionados a la agricultura. Según datos de la FAO, aproximadamente el 80% de los agricultores en países desarrollados utilizan internet para acceder a información agrícola, y se ha observado un incremento en la adopción de aplicaciones móviles agrícolas, con un crecimiento anual del 15-20%. Estos avances tecnológicos han contribuido a reducir las pérdidas poscosecha en un rango similar. En contraste, en países en desarrollo, menos del 20% de la población rural posee habilidades básicas para el manejo de tecnologías digitales, y la mayoría de los agricultores aún optan por métodos tradicionales, lo que resulta en una pérdida sustancial de ingresos y un subaprovechamiento del potencial productivo. Además, los aficionados a la agricultura muestran un creciente interés, pero muchos prefieren seguir prácticas tradicionales en lugar de adoptar herramientas digitales debido a la falta de aplicaciones específicas para su uso. Esto conlleva a una pérdida de tiempo al tener que buscar información individualmente en internet . 
+
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
 
 * **Stakelholder Internos:** Integrantes pertenecientes al equipo de desarrollo, además del equipo creador de la startup, [NombreStartup]
