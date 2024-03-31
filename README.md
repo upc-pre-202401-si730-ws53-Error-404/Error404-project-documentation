@@ -166,8 +166,9 @@ Los involucrados serían los usuarios del sistema, los cuales se separarían en 
 
 ##### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
+La principal dificultad de este problema radica en introducir una solución moderna en un campo que normalmente se maneja con herramientas más tradicionales. En el ámbito de la agricultura, aquellos que gestionan sus cultivos de manera personal, como los agricultores que viven en las provincias del Perú con sus “chacras” establecidas, están más familiarizados con las herramientas tradicionales. Implementar una solución moderna, como una aplicación web que reemplace estas herramientas por algo más sencillo, es complicado debido a la desconfianza que algunos todavía tienen hacia la tecnología.
 
-
+Por otro lado, para nuestro segmento objetivo de principiantes en la agricultura, el desafío consiste en generar confianza en que nuestro producto es superior a las alternativas disponibles en el mercado.
 
 #### 2H
 ##### How (Cómo)
@@ -187,28 +188,37 @@ Los involucrados serían los usuarios del sistema, los cuales se separarían en 
 
 ##### **Problem Statement:** 
 
+Chaquitaclla, nuestra solución, tiene como objetivo proporcionar a los agricultores, tanto principiantes como profesionales, una herramienta de gestión para sus cultivos. Esta herramienta se diseñó para ser ágil, sencilla de usar e implementar en sus labores, permitiendo que trabajen con ella de manera eficiente.
 
+El problema surge al registrar las características de cada cultivo de forma individual. Los métodos tradicionales de gestión, como los registros en papel y las hojas de cálculo, pueden llevar a omitir detalles cruciales. Por ejemplo, no considerar el proceso fenológico en el que se encuentra un cultivo o evaluar si la temporada actual es la más adecuada para él.
+
+A pesar de los prejuicios sobre la implementación de tecnología en la agricultura, los datos estadísticos demuestran que aquellos que han adoptado herramientas digitales, como sistemas de gestión de cultivos, han obtenido beneficios significativos. Estos sistemas proporcionan datos más precisos y evitan la pérdida de información relevante. Por lo tanto surge la pregunta de ¿Cómo podemos implementar una gestión automatizada de la información de los cultivos sin generar desconfianza en los agricultores y asegurando que no se pierdan datos importantes?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
 ##### **Business Assumptions:**
-1. **
-2. **
-3. **
-4. **
-5. **
-6. **
-7. **
-8. **
-9. **
-10. **
+1. **Creemos que nuestros usuarios necesitan** una forma más eficiente de registrar y seguir los procesos de sus cultivos sin importar si es a nivel profesional o personal.
+2. **Estas necesidades se pueden satisfacer con** el desarrollo de una plataforma web que les permita registrar los datos de sus cultivos de una manera segura y confiable, para hacerl seguimiento de los distintos procesos por el cual su cultivo pasa.
+3. **Nuestros clientes iniciales serán** los agricultures que inician en este sector y los agricultores que buscan mejorar como gestionar sus cultivos con herramientas digitales.
+4. **El valor más importante que quiere un cliente de nuestros servicios es** registrar los datos de sus cultivos y que estos estén seguros de que no se van a perder, además de poder visualizar sus registros a largo plazo.
+5. **El cliente también va a obtener** gráficos estadísticos sobre cual ha sido lo que más ha a cultivado en alguna temporada del año y estadísticas de que es lo más cultivado en la temporada actual.
+6. **Vamos a obtener la mayoría de los clientes mediante**  publicidad en foros de agricultura y participando en eventos relacionados a la agricultura. 
+7. **Vamos a obtener ingresos mediante** un modelo de suscripción separado en tres niveles, siendo el más bajo un plan básico. 
+8. **Nuestra competencia en el mercado serán** herramientas digitales que se dediquen a la gestión de productos agrícolas y que tengan una clientela fija.
+9. **Vamos a tener ventaja frente a nuestra competencia debido a** nuestra accesibilidad, puesto que la mayoría de nuestra competencia solo provee sus productos a un sector empresarial.
+10. **El mayor riesgo del producto es**  no captar suficiente atención en el sector agrícola debido a la desconfianza inherente hacia los nuevos productos en el mercado. Esta desconfianza se origina en la naturaleza conservadora del sector agrícola, que no suele adoptar cambios en su enfoque empresarial con facilidad.
+11. **Lo resolveremos realizando** el desarrollo de una plataforma atractiva y de uso sencillo para el público en general. Además, realizaremos encuestas entre los interesados en nuestros productos para identificar qué aspectos específicos les resultan atractivos. Esta información nos permitirá implementar características específicas como herramientas de gestión para sus cultivos.
 
 ##### **User Assumptions:**
 ###### **¿Quién es el usuario?**   
 
 ###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
+Nuestro desafío central radica en que todos los procesos de registro de cultivos deben realizarse de forma manual. Esto implica registrar detalles como la fecha, las acciones necesarias para el cuidado del cultivo y otros aspectos relevantes. Para abordar esta limitación, consideramos la implementación de soluciones basadas en el Internet de las Cosas (IoT). Estas soluciones podrían incluir rociadores automáticos específicos para cada cultivo y sensores que detecten el estado actual del proceso. Sin embargo, es importante destacar que solo podremos lograr esta automatización si nuestro producto tiene éxito desde sus primeras etapas de desarrollo.
+
 ###### **¿Qué características son importantes?**
+
+Dentro de las características más relevantes de nuestros productos, destacan su accesibilidad. Esto es especialmente significativo, dado que, en la mayoría de los casos, las soluciones similares están dirigidas exclusivamente al ámbito empresarial. Además, nuestra plataforma se enfoca en el registro y monitoreo de las fases fenológicas de los cultivos. Estas etapas abarcan desde la germinación hasta el momento en que el cultivo está listo para la cosecha. Proporcionar un seguimiento detallado de estas fases permite a los agricultores tomar decisiones informadas sobre el manejo de sus cultivos, como la aplicación de fertilizantes, el riego adecuado y la prevención de enfermedades.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
@@ -223,7 +233,37 @@ Los involucrados serían los usuarios del sistema, los cuales se separarían en 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 * **Hypothesis Statement 01:**
+    
+    **Creemos que** 
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando**
 
+* **Hypothesis Statement 02:**
+    
+    **Creemos que** 
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando**
+  
+* **Hypothesis Statement 03:**
+    
+    **Creemos que** 
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** 
+
+* **Hypothesis Statement 04:**
+    
+    **Creemos que** 
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando**
+  
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
