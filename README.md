@@ -295,13 +295,12 @@ El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño cent
 <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/LeanUXCanva_2024-03-31_17-21-30.png>
 Enlace para acceder al [Canvas](https://app.mural.co/t/aplicacionesweb8834/m/aplicacionesweb8834/1711846472456/3aafbeea2aa64e5c9fea104736a8e04377fc040d?sender=uab21ffc4c80101532b361326)
 
-
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
 
-* **Stakelholder Internos:** 
-* **Stakelholder Externos:** 
+* **Stakelholder Internos:** Integrantes pertenecientes al equipo de desarrollo, además del equipo creador de la startup, [NombreStartup]
+* **Stakelholder Externos:** Sector agrícola empresarial, vendedores de productos naturales y estudiantes de alguna relacionada con la agricultura.
 
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
