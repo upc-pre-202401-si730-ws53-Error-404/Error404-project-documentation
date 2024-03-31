@@ -151,7 +151,7 @@ El problema radica en la ausencia de alguna herramienta que permita gestionar, m
 
 ##### When (Cuando)
 ###### ¿Cuándo sucede el problema?
-El reto se presenta cuando agricultores, tanto principiantes como profesionales, requieren una herramienta para gestionar sus cultivos de manera eficiente, teniendo en cuenta aspectos como el entorno, los procesos fonológicos de sus cultivos, los cambios climáticos y la temporada propicia para el cultivo. Lamentablemente, gran parte de las herramientas existentes en este campo están diseñadas para empresas y no están al alcance de todos. 
+El reto se presenta cuando agricultores, tanto principiantes como profesionales, requieren una herramienta para gestionar sus cultivos de manera eficiente, teniendo en cuenta aspectos como el entorno, los procesos fenológicos de sus cultivos, los cambios climáticos y la temporada propicia para el cultivo. Lamentablemente, gran parte de las herramientas existentes en este campo están diseñadas para empresas y no están al alcance de todos. 
 
 ##### Where (Dónde)
 ###### ¿A dónde se dirige?
@@ -162,7 +162,7 @@ El problema surge durante el proceso de crecimiento de los cultivos, desde la ge
 
 ##### Who (Quién)
 ###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
-Los involucrados serían los usuarios del sistema, los cuales se separarían en nuestros segmentos objetivos, profesionales del campo de agricultura y aquellos principiantes o que tienen un pequeño cultivo en su hogar. La solución la utilizará aquel que desee gestionar sus cultivos de una manera más eficaz, siguiendo sus procesos fonológicos y tener un fecha aproximada de cuando estaría listo para la cosecha; esto puedo ser utilizado tanto por profesionales como principiantes del sector agrícola.
+Los involucrados serían los usuarios del sistema, los cuales se separarían en nuestros segmentos objetivos, profesionales del campo de agricultura y aquellos principiantes o que tienen un pequeño cultivo en su hogar. La solución la utilizará aquel que desee gestionar sus cultivos de una manera más eficaz, siguiendo sus procesos fenológicos y tener un fecha aproximada de cuando estaría listo para la cosecha; esto puedo ser utilizado tanto por profesionales como principiantes del sector agrícola.
 
 ##### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
@@ -174,11 +174,11 @@ Por otro lado, para nuestro segmento objetivo de principiantes en la agricultura
 ##### How (Cómo)
 ###### ¿Cómo se utilizará el producto?
 
-El producto será empleado para el registro de cultivos y seguimiento de sus procesos fonológicos. Desde la germinación de la semilla, hasta el momento de la cosecha de este, por esta razón nuestra aplicación estaría brindando consejos según el estado del cultivo para propiciar una cosecha próspera.
+El producto será empleado para el registro de cultivos y seguimiento de sus procesos fenológicos. Desde la germinación de la semilla, hasta el momento de la cosecha de este, por esta razón nuestra aplicación estaría brindando consejos según el estado del cultivo para propiciar una cosecha próspera.
 
 ###### ¿Cómo se logrará una gestión adecuada de los cultivos dentro de la plataforma?
 
-Los usuarios a partir de su acceso a nuestra aplicación mediante un navegador web, podrán empezar a registrar sus cultivos. Esto al ser un proceso manual, el usuario tendrá que categorizar el tipo de cultivo, en qué proceso fonológico se encuentra y descripción del área de donde se encuentra cultivado este. A partir de este registro manual, la aplicación brindará al usuario consejos y medidas que podría tomar con el fin de mejorar la calidad de este.
+Los usuarios a partir de su acceso a nuestra aplicación mediante un navegador web, podrán empezar a registrar sus cultivos. Esto al ser un proceso manual, el usuario tendrá que categorizar el tipo de cultivo, en qué proceso fenológico se encuentra y descripción del área de donde se encuentra cultivado este. A partir de este registro manual, la aplicación brindará al usuario consejos y medidas que podría tomar con el fin de mejorar la calidad de este.
 
 ##### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
@@ -220,7 +220,7 @@ A pesar de los prejuicios sobre la implementación de tecnología en la agricult
 ##### **User Assumptions:**
 ###### **¿Quién es el usuario?**   
 
-El usuario de nuestro producto son agricultores tanto principiantes como profesionales que buscan registrar sus cultivos y hacerles un seguimiento de sus procesos fonológicos mediante el uso de herramientas digitales. En caso nuestro producto sea exitoso, este segmento se expandiría hasta las empresas agrícolas, las cuales para satisfacer sus necesidades tendríamos que implementar nuevas funciones.
+El usuario de nuestro producto son agricultores tanto principiantes como profesionales que buscan registrar sus cultivos y hacerles un seguimiento de sus procesos fenológicos mediante el uso de herramientas digitales. En caso nuestro producto sea exitoso, este segmento se expandiría hasta las empresas agrícolas, las cuales para satisfacer sus necesidades tendríamos que implementar nuevas funciones.
 
 ###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
@@ -228,11 +228,11 @@ Nuestro desafío central radica en que todos los procesos de registro de cultivo
 
 ###### **¿Qué características son importantes?**
 
-Dentro de las características más relevantes de nuestros productos, destacan su accesibilidad. Esto es especialmente significativo, dado que, en la mayoría de los casos, las soluciones similares están dirigidas exclusivamente al ámbito empresarial. Además, nuestra plataforma se enfoca en el registro y monitoreo de las fases fonológicos de los cultivos. Estas etapas abarcan desde la germinación hasta el momento en que el cultivo está listo para la cosecha. Proporcionar un seguimiento detallado de estas fases permite a los agricultores tomar decisiones informadas sobre el manejo de sus cultivos, como la aplicación de fertilizantes, el riego adecuado y la prevención de enfermedades.
+Dentro de las características más relevantes de nuestros productos, destacan su accesibilidad. Esto es especialmente significativo, dado que, en la mayoría de los casos, las soluciones similares están dirigidas exclusivamente al ámbito empresarial. Además, nuestra plataforma se enfoca en el registro y monitoreo de las fases fenológicos de los cultivos. Estas etapas abarcan desde la germinación hasta el momento en que el cultivo está listo para la cosecha. Proporcionar un seguimiento detallado de estas fases permite a los agricultores tomar decisiones informadas sobre el manejo de sus cultivos, como la aplicación de fertilizantes, el riego adecuado y la prevención de enfermedades.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-El producto encaja en la mejora de la gestión de cultivos, principalmente en qué cuidados se deben brindar según el proceso fonológico actual del cultivo, lo que radica en una mejora de la calidad y reducción de posibles gastos innecesarios.
+El producto encaja en la mejora de la gestión de cultivos, principalmente en qué cuidados se deben brindar según el proceso fenológico actual del cultivo, lo que radica en una mejora de la calidad y reducción de posibles gastos innecesarios.
 
 ###### **¿Cuándo y cómo es nuestro producto usado?**
 
@@ -248,44 +248,44 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 
 **Creemos que** la aplicación debe de incluir herramientas estadísticas para facilitar la generación de informes y para una visualización de los datos registrados para que así los usuarios posteriormente puedan decisiones basados en estos datos visuales.
 
-**Creemos que**  
+**Creemos que**  la solucioón debe brindar notificaciones y avisos cuando algún cultivo se esté acercando a la cosecha, de igual forma debe brindar avisos cuando la fase fonológica de algún cultivo este por cambiar para que el usuario pueda prepararse con los recursos necesarios.
 
-**Creemos que** 
+**Creemos que**  la aplicación debe contar con encuestas de como el usuario observa el producto, para en caso la aplicación haya fallado en registrar algo correctamente, el usuario lo pueda corregir lo antes posible y evitar consecuencias negativas.
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 * **Hypothesis Statement 01:**
     
-    **Creemos que** los agricultores principiantes así como profesionales estarán dispuestos a adoptar nuestra aplicación de gestión de cultivos para llevar un registro de estos y sus procesos fonológicos con una mayor eficacia
+    **Creemos que** tanto los agricultores principiantes como los profesionales estarán dispuestos a adoptar nuestra aplicación de gestión de cultivos para llevar un registro más eficiente de sus procesos fenológicos y características de los cultivos
     
-    **Sabremos** que hemos tenido éxito.
+    **Sabremos** que hemos tenido éxito
     
-    **Cuando** la tasa de usuarios activos de nuestra aplicación en el primer año sea mayor al 40% de agrícolas totales peruanos.
+    **Cuando** observemos que la tasa de usuarios activos de nuestra aplicación durante el primer año supera el 40% del total de agricultores en Perú. Esto indicará una adopción significativa y una respuesta positiva por parte de la comunidad agrícola.
 
 * **Hypothesis Statement 02:**
     
-    **Creemos que** 
+    **Creemos que** al proporcionar datos históricos sobre qué cultivo prospera mejor en cada temporada específica y brindar información sobre los cuidados necesarios, nuestra aplicación permitirá a los agricultores profesionales tomar decisiones informadas sobre qué cultivar en la temporada actual
     
-    **Sabremos** que hemos tenido éxito.
+    **Sabremos** que hemos tenido éxito
     
-    **Cuando**
+    **Cuando** observemos en los registros que los cultivos más comunes durante la presente temporada son precisamente aquellos que nuestra aplicación recomendó. Esto indicará que estamos influyendo positivamente en las decisiones de cultivo y en la calidad de las cosechas.
   
 * **Hypothesis Statement 03:**
     
-    **Creemos que** 
+    **Creemos que** al proporcionar consejos específicos a los agricultores sobre los cuidados necesarios para cada etapa fenológica de sus cultivos, lograremos mejorar significativamente la calidad de los productos agrícolas
     
-    **Sabremos** que hemos tenido éxito.
+    **Sabremos** que hemos tenido éxito
     
-    **Cuando** 
+    **Cuando** encuestas a los agricultores profesionales y ellos reporten una percepción positiva de la mejora en la calidad de sus productos. Además, si observamos un aumento en las ventas como resultado directo de estas mejoras, consideraremos que estamos en el camino correcto.
 
 * **Hypothesis Statement 04:**
     
-    **Creemos que** 
+    **Creemos que** nuestra aplicación reducirá significativamente la pérdida de datos y proporcionará información más precisa en comparación con los métodos de registro manuales
     
-    **Sabremos** que hemos tenido éxito.
+    **Sabremos** que hemos tenido éxito
     
-    **Cuando**
+    **Cuando** comencemos a recibir reseñas positivas de los usuarios. En particular, si destacan nuestra capacidad para mantener la información respaldada de manera efectiva, consideraremos que estamos en el camino correcto.
   
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
