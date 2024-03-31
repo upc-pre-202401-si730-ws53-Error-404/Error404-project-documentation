@@ -9,7 +9,7 @@ width=50%"/>
 <h4 style="text-align: center;"> WS53 </h4>
 <h4 style="text-align: center;"> Docente: Angel Augusto Velasquez Nuñez </h4>
 <h4 style="text-align: center;"> Startup:  </h4>
-<h4 style="text-align: center;"> Producto:  </h4>
+<h4 style="text-align: center;"> Producto: Chaquitaclla  </h4>
 
 ## Team Members
 | Nombre |Código de alumno|
