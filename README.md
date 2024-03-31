@@ -244,13 +244,13 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 
 ###### **Feature Assumptions:**
 
-**Creemos que** la aplicación debe contar con una interfaz sencilla y fácil de usar que permita tanto a los agricultores principiantes como profesionales entender el funcionamiento de la aplicación lo más rapido posible sin incovenientes.
+**Creemos que** una interfaz intuitiva y fácilmente accesible permitirá que tanto agricultores principiantes como profesionales adopten nuestra aplicación con mayor facilidad. Esto facilitará una rápida comprensión del funcionamiento de la aplicación y contribuirá a una adopción más amplia entre la comunidad agrícola.
 
-**Creemos que** la aplicación debe de incluir herramientas estadísticas para facilitar la generación de informes y para una visualización de los datos registrados para que así los usuarios posteriormente puedan decisiones basados en estos datos visuales.
+**Creemos que**  al incluir herramientas estadísticas y opciones de visualización de datos, proporcionaremos a los agricultores profesionales la capacidad de tomar decisiones informadas sobre qué cultivos plantar en cada temporada. Esto favorecerá la aceptación de la aplicación y su utilidad en la toma de decisiones agrícolas estratégicas.
 
-**Creemos que**  la solucioón debe brindar notificaciones y avisos cuando algún cultivo se esté acercando a la cosecha, de igual forma debe brindar avisos cuando la fase fonológica de algún cultivo este por cambiar para que el usuario pueda prepararse con los recursos necesarios.
+**Creemos que** al ofrecer notificaciones y avisos sobre la proximidad de la cosecha y los cambios en las fases fenológicas de los cultivos, ayudaremos a los agricultores a prepararse adecuadamente. Esto se traducirá en una mejora de la calidad de los productos agrícolas y una mayor eficiencia en la gestión de los cultivos.
 
-**Creemos que**  la aplicación debe contar con encuestas de como el usuario observa el producto, para en caso la aplicación haya fallado en registrar algo correctamente, el usuario lo pueda corregir lo antes posible y evitar consecuencias negativas.
+**Creemos que**  la inclusión de encuestas permitirá a los usuarios proporcionar retroalimentación continua sobre la aplicación. Esta retroalimentación nos ayudará a corregir cualquier error rápidamente y a mejorar la experiencia del usuario, lo que a su vez fortalecerá la confianza en la aplicación y su utilidad a largo plazo.
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
@@ -292,8 +292,7 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño centrado en el usuario (UX) y la metodología Lean para optimizar la creación y el desarrollo de productos. Su objetivo principal es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A través de esta herramienta, los equipos pueden visualizar y analizar aspectos clave del diseño y la experiencia del usuario, lo que facilita la toma de decisiones informadas durante el proceso de desarrollo.
 
 ## ***Lean UX Canvas realizado en la aplicación web "Mural":*** 
-
-
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/LeanUXCanva_2024-03-31_17-21-30.png>
 Enlace para acceder al [Canvas]()
 
 
