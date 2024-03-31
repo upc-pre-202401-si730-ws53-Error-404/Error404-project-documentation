@@ -232,17 +232,26 @@ Dentro de las características más relevantes de nuestros productos, destacan s
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
+El producto encaja en la mejora de la gestión de cultivos, principalmente en qué cuidados se deben brindar según el proceso fonológico actual del cultivo, lo que radica en una mejora de la calidad y reducción de posibles gastos innecesarios.
 
-###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+###### **¿Cuándo y cómo es nuestro producto usado?**
 
+Nuestro producto es utilizado por nuestros segmentos objetivos cuando existe la necesidad de tomar registros de cultivos nuevos y seguir su crecimiento de una forma adecuada, esto a partir de como nuestro producto le pide al usuario registrar el proceso actual del cultivo, estado y fase fonológica que se encuentre, todo esto con el fin de mejorar las posibilidades de obtener una mejor cosecha. 
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-
+El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe ser de fácil uso con el fin de que aquellos nuevos utilizando una herramienta digital de este tipo, tengan la menor cantidad de incovenientes posibles. El comportamiento de nuestra aplicación debe ser dirigida en relación a guardar la integridad de los usuarios y evitar la pérdida de datos relevantes para ellos.
 
 
 ###### **Feature Assumptions:**
 
+**Creemos que** la aplicación debe contar con una interfaz sencilla y fácil de usar que permita tanto a los agricultores principiantes como profesionales entender el funcionamiento de la aplicación lo más rapido posible sin incovenientes.
+
+**Creemos que** la aplicación debe de incluir herramientas estadísticas para facilitar la generación de informes y para una visualización de los datos registrados para que así los usuarios posteriormente puedan decisiones basados en estos datos visuales.
+
+**Creemos que**  
+
 **Creemos que** 
+
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
@@ -286,6 +295,8 @@ El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño cent
 
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
 
+* **Stakelholder Internos:** 
+* **Stakelholder Externos:** 
 
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
