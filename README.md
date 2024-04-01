@@ -12,31 +12,33 @@ width=50%"/>
 <h4 style="text-align: center;"> Producto: Chaquitaclla  </h4>
 
 ## Team Members
-| Nombre |Código de alumno|
-|:-------:|:----------:|
-|Guillen Luna, Paolo César|U202124343|
-|||
-|||
-|||
-|||
+|             Nombre              | Código de alumno |
+|:-------------------------------:|:----------------:|
+|    Guillen Luna, Paolo César    |    U202124343    |
+| Quispe Condori, Fernando Daniel |    U20221C628    |
+|                                 |                  |
+|                                 |                  |
+|                                 |                  |
 
 ## Registro de versiones del informe
-|Fecha|Versión|Autor|Descripción de modificación|
-|:-:|:-:|:-:|:-:|
-|28/03/2024|1.0|Guillen Paolo,|Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula|
-
+|   Fecha    | Versión |      Autor      |                                 Descripción de modificación                                 |
+|:----------:|:-------:|:---------------:|:-------------------------------------------------------------------------------------------:|
+| 28/03/2024 | 1.0     |  Guillen Paolo  | Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula |
+| 31/03/2024 | 1.1     | Quispe Fernando |                       Capitulo 2 - Formulacion Preguntas Entrevistas                        |
 
 
 ## Project Report Collaboration Insights
 
 URL del repositorio del proyecto: 
 
-**TB1** 
-|Integrante|Tareas Asignadas|
-|-|-|
-|Guillen Luna, Paolo César|Desarrollo de la carátula|
-|||
-|||
+**TB1**
+
+|                       Integrante                       |                      Tareas Asignadas                       |
+|:------------------------------------------------------:|:-----------------------------------------------------------:|
+|               Guillen Luna, Paolo César                |                  Desarrollo de la carátula                  |
+|            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
+|                                                        |                                                             |
+
 
 ***TB1 Github***
 
@@ -134,13 +136,13 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50%" height="50%">
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
-|Descripción de los perfiles de los integrantes del equipo|Foto del integrante|
-| :--------:| :--------: |
-|Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc.|<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg>|
-|||
-|||
-|||
-|||
+|                                                                                                                                                                                                          Descripción de los perfiles de los integrantes del equipo                                                                                                                                                                                                           |Foto del integrante|
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :--------: |
+| Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc. |<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/teamMembersPhotos/paoloPhoto.jpg>|
+|                                                                                                                 Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona.                                                                                                                 ||
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ||
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ||
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ||
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
@@ -304,9 +306,62 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 * **Stakelholder Internos:** Integrantes pertenecientes al equipo de desarrollo, además del equipo creador de la startup, [NombreStartup]
 * **Stakelholder Externos:** Sector agrícola empresarial, vendedores de productos naturales y estudiantes de alguna relacionada con la agricultura.
 
+[//]: #CAPITULO2
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
-<div id='2.1.'><h3> 2.1. Competidores</h3></div>
+  <div id='2.1.'><h3> 2.1. Competidores</h3></div>
+  
+  <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
+  <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+  
+  <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
+  
+  <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+  <p>En esta sección se procederá a detallar las preguntas para el método de recoleccion de
+  requisitos que son las entrevistas. Para la formulación se siguieron buenas prácicas tales como 
+  formulación de preguntas abiertas, así mismo obtenemos características demográficas con las entrevistas</p>  
+
+  <p>SECTOR AGRICULTORES: </p>
+  
+  <p>Bienvenido gracias por brindarnos esta entrevista, primaremente nos gustaría conocer
+  su nombre completo, edad, dónde reside, estado civil y su ocupación. </p>
+  <p>1. ¿Cuál es el proceso que sigue para llevar un registro de sus cultivos?</p>
+  <p>2. ¿Utiliza alguna herramienta para llevar un registro de sus cultivos?</p>
+  <p>3. ¿Cuáles son los datos que considera más relevante al momento de gestionar sus cultivos?</p>
+  <p>4. ¿Qué dificultades ha encontrado al llevar un registro de sus cultivos?</p>
+  <p>5. (Comentar la propuesta) ¿Qué mejoras le gustaría ver en una herramienta de gestión de cultivos?</p>
+  <p>6. ¿Qué tan dispuesto estaría en adoptar una herramienta digital para la gestión de sus cultivos?</p>
+  <p>7. ¿Qué tan importante considera la tecnología en la gestión de sus cultivos?</p>
+  <p>8. ¿Qué tan dispuesto estaría en pagar por una herramienta de gestión de cultivos?</p>
+  <p>9. ¿Qué tan importante considera la trazabilidad de sus cultivos?</p>
+  <p>10. ¿Qué tan importante considera la gestión de los procesos fenológicos de sus cultivos?</p>
+
+  <p>SECTOR JARDINEROS EN CASA</p>
+  
+  <p>Bienvenido gracias por brindarnos esta entrevista, primaremente nos gustaría conocer
+  su nombre completo, edad, dónde reside, estado civil y su ocupación. </p>
+  <p>1. ¿Cuál es el proceso que sigue para llevar un registro de sus cultivos en su hogar?</p>
+  <p>2. ¿Utiliza alguna herramienta para llevar un registro de sus cultivos?</p>
+  <p>3. ¿Cuál es su principal motivación para cultivar para usted mismo en casa?</p>
+  <p>3. ¿Cuáles son los datos que considera más relevante al momento de gestionar sus cultivos?</p>
+  <p>4. ¿Qué dificultades ha encontrado al llevar un registro de sus cultivos?</p>
+  <p>5. (Comentar la propuesta) ¿Qué mejoras le gustaría ver en una herramienta de gestión de cultivos?</p>
+  <p>6. ¿Qué tan dispuesto estaría en adoptar una herramienta digital para la gestión de sus cultivos?</p>
+  <p>7. ¿Qué tan importante considera la tecnología en la gestión de sus cultivos?</p>
+  <p>8. ¿Qué tan dispuesto estaría en pagar por una herramienta de gestión de cultivos?</p>
+  <p>9. ¿Qué tan importante considera la trazabilidad de sus cultivos?</p>
+  <p>10. ¿Qué tan importante considera la gestión de los procesos fenológicos de sus cultivos?</p>
+
+
+
+  <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+  <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+  
+  <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
+
+  <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
+
+[//]: #CAPITULO3
 
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
@@ -318,4 +373,4 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 
 
-<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
+
