@@ -358,10 +358,45 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
   
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
+    <div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
+    <p>En esta sección se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuenta
+    nuestros segmentos predefinidos, AGRICULTORES y JARDINEROS. A continuación se presentan los User Persona.</p>
+ 
+<img src="resources/UserPersona_Agricultores.png">
+   <p>IMAGEN USER PERSONA AGRICULTORES. En este artefacto para Agricultores, tenemos la representación de el segmento de AGRICULTORES.</p>  
+    <img src="resources/UserPersona_Jardineros.png">
+   <p>IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la representación de el segmento de JARDINEROS.</p>  
+
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
+
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4></div>
+
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4></div>
+
+<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
+
+   <p>En esta sección se presentan los escenarios actuales de los usuarios, teniendo en cuenta los segmentos de AGRICULTORES y JARDINEROS. A continuación se presentan los escenarios actuales de los usuarios con el artefacto de As-is.</p>
+    <img src="resources/AS-ISAGRICULTORES.jpg">
+  <p>La imagen nos muestra las fases que tiene nuestro agriculto antes de la solución, lo que hace, piensa y siente.</p>
+  
+  <img src="resources/AS-ISJARDINEROS.jpg">
+  <p>La imagen nos muestra las fases que tiene nuestro jardinero antes de la solución, lo que hace, piensa y siente.</p>
+
+
 
   <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
 
 [//]: #CAPITULO3
+
+<div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
+<div id='3.1.'><h3> 3.1. To-be scenario mapping</h3></div>
+<p>Se presenta el escenario ideal con nuestra solución de nuestro ususarios incluyendo nuestros 2 segmentos. </p>
+<img src="resources/TO-BEAGRICULTORES.jpg">
+<p>La imagen muestra el escenario ideal de AGRICULTORES con los pasos y lo que hace, piensa y siente.</p>
+<img src="resources/TO-BEJARDINEROS.jpg">
+<p>La imagen muestra el escenario ideal con los pasos de los JARDINEROS y lo que hace, piensa y siente.</p>
+
+
 
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
