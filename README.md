@@ -321,7 +321,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   requisitos que son las entrevistas. Para la formulación se siguieron buenas prácicas tales como 
   formulación de preguntas abiertas, así mismo obtenemos características demográficas con las entrevistas</p>  
 
-  <p>SECTOR AGRICULTORES: </p>
+  <p>SECTOR AGRICULTORES PROFESIONALES: </p>
   
   <p>Bienvenido gracias por brindarnos esta entrevista, primaremente nos gustaría conocer
   su nombre completo, edad, dónde reside, estado civil y su ocupación. </p>
@@ -329,12 +329,14 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   <p>2. ¿Utiliza alguna herramienta para llevar un registro de sus cultivos?</p>
   <p>3. ¿Cuáles son los datos que considera más relevante al momento de gestionar sus cultivos?</p>
   <p>4. ¿Qué dificultades ha encontrado al llevar un registro de sus cultivos?</p>
-  <p>5. (Comentar la propuesta) ¿Qué mejoras le gustaría ver en una herramienta de gestión de cultivos?</p>
-  <p>6. ¿Qué tan dispuesto estaría en adoptar una herramienta digital para la gestión de sus cultivos?</p>
-  <p>7. ¿Qué tan importante considera la tecnología en la gestión de sus cultivos?</p>
-  <p>8. ¿Qué tan dispuesto estaría en pagar por una herramienta de gestión de cultivos?</p>
-  <p>9. ¿Qué tan importante considera la trazabilidad de sus cultivos?</p>
-  <p>10. ¿Qué tan importante considera la gestión de los procesos fenológicos de sus cultivos?</p>
+  <p>5. Dentro de estas dificultades, ¿hubo alguna vez que tuvo algún tipo de pérdidas, sea económicas o de tiempo? 
+  <p>6. (Comentar la propuesta) ¿Qué mejoras le gustaría ver en una herramienta de gestión de cultivos?</p>
+  <p>7. ¿Qué tan dispuesto estaría en adoptar una herramienta digital para la gestión de sus cultivos?</p>
+  <p>8. Teniendo en cuenta que usted estaría dispuesto en adoptar una herramienta digital para la gestión de sus cultivos ¿Cuánto pagaría por esta?</p>
+  <p>9. ¿Qué tan dispuesto estaría en pagar por una herramienta de gestión de cultivos?</p>
+  <p>10. ¿Qué tan importante considera la trazabilidad de sus cultivos?</p>
+  <p>11. ¿En qué medidas una herramienta de este tipo podría ser útil para sus necesidades como agriculor?</p>
+  
 
   <p>SECTOR JARDINEROS EN CASA</p>
   
