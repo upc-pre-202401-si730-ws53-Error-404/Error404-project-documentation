@@ -323,10 +323,11 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
   <h4>PREGUNTAS GENERALES</h4>
   <p>Bienvenido gracias por brindarnos esta entrevista (empieza con las preguntas generales) </p>
-  <p>Nos gustaría saber su nombre, edad y ocupación</p> 
-  <p>¿Que tan acostumbrado está con el uso de tecnología en su vida diaria?</p>
-  <p>Dentro de su vida diaria, ¿tiene incovenientes utilizando dichas herramientas digitales?</p>
-  <p>Alguna vez tuvo que enfrentarse con una situación donde usted no entendía para nada como servía una aplicación, de ser así, ¿cómo sobrellevo ese problema?</p>
+  
+  * Nos gustaría saber su nombre, edad y ocupación
+  * ¿Qué tan acostumbrado está con el uso de tecnología en su vida diaria?
+  * Dentro de su vida diaria, ¿tiene incovenientes utilizando dichas herramientas digitales?
+  * Alguna vez tuvo que enfrentarse con una situación donde usted no entendía para nada como servía una aplicación, de ser así, ¿cómo sobrellevo ese problema?
 
   <h4>SECTOR AGRICULTORES PROFESIONALES: </h4>
   
