@@ -321,10 +321,15 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   requisitos que son las entrevistas. Para la formulación se siguieron buenas prácicas tales como 
   formulación de preguntas abiertas, así mismo obtenemos características demográficas con las entrevistas</p>  
 
-  <p>SECTOR AGRICULTORES PROFESIONALES: </p>
+  <h4>PREGUNTAS GENERALES</h4>
+  <p>Bienvenido gracias por brindarnos esta entrevista (empieza con las preguntas generales) </p>
+  <p>Nos gustaría saber su nombre, edad y ocupación</p> 
+  <p>¿Que tan acostumbrado está con el uso de tecnología en su vida diaria?</p>
+  <p>Dentro de su vida diaria, ¿tiene incovenientes utilizando dichas herramientas digitales?</p>
+  <p>Alguna vez tuvo que enfrentarse con una situación donde usted no entendía para nada como servía una aplicación, de ser así, ¿cómo sobrellevo ese problema?</p>
+
+  <h4>SECTOR AGRICULTORES PROFESIONALES: </h4>
   
-  <p>Bienvenido gracias por brindarnos esta entrevista, primaremente nos gustaría conocer
-  su nombre completo, edad, dónde reside, estado civil y su ocupación. </p>
   <p>1. ¿Cuál es el proceso que sigue para llevar un registro de sus cultivos?</p>
   <p>2. ¿Utiliza alguna herramienta para llevar un registro de sus cultivos?</p>
   <p>3. ¿Cuáles son los datos que considera más relevante al momento de gestionar sus cultivos?</p>
@@ -338,8 +343,9 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   <p>11. ¿En qué medidas una herramienta de este tipo podría ser útil para sus necesidades como agriculor?</p>
   
 
-  <p>SECTOR JARDINEROS EN CASA</p>
-  
+  <h4>SECTOR JARDINEROS EN CASA</h4>
+
+  <p>Bienvenido gracias por brindarnos esta entrevista (empieza con las preguntas al segmento) </p>
   <p>Bienvenido gracias por brindarnos esta entrevista, primaremente nos gustaría conocer
   su nombre completo, edad, dónde reside, estado civil y su ocupación. </p>
   <p>1. ¿Cuál es el proceso que sigue para llevar un registro de sus cultivos en su hogar?</p>
