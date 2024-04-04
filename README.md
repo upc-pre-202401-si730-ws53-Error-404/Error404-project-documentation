@@ -364,6 +364,14 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 
   <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+
+  ***Entrevistas a agricultores profesionales***
+  |Entevistado 1|Clever Medina|
+|-|-|
+|Edad||
+|Departamento|Tumbes|
+|| |
+|Duración entrevista: 16:15  |URL: |
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
   
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
