@@ -458,10 +458,37 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
+<div id='4.1.'><h3> 4.1.1. General Style Guidelines</h3></div>
+
+***Brand Overview***
+Nuestra startup,[nombre] , tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
+Para lograrlo, hemos desarrollado una plataforma que organiza y simplifica la gestión de cultivos para nuestros usuarios. Cada cultivo se sigue a lo largo de su ciclo fenológico, y además, mantenemos registros históricos para determinar las temporadas óptimas de siembra y cosecha de diferentes insumos. Esto permite una trazabilidad efectiva y ayuda a nuestros usuarios a alcanzar sus metas a largo plazo.
+
+En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, democratizando el acceso a herramientas eficientes y fomentando el éxito de todos los involucrados.
+
+Misión: Ofrecer una solución integral de gestión agrícola que trascienda los límites tradicionales y que se encuentre disponible para todo el público.
+
+Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en lo que respecta a la gestión agrícola en los próximos años por su accesibilidad y facilidad de uso. Mientras que como startup, AgriCulture, busca ser reconocido como un equipo autosustentable y capaz de brindar soluciones innovadoras en el campo de la agricultura moderna.
+
+##### Logotipo de la Startup:
+
+##### Logotipo del producto
+
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50%" height="50%">
+
+***Brand Name:***
+
+***Colores:***
+
+***Tipografía:***
 
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 
+
+<div id='4.3.'><h4> 4.3. Landing Page UI Design</h4></div>
+
+<div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe</h5></div>
 
 
 
