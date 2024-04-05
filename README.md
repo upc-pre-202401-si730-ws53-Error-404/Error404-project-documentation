@@ -16,7 +16,7 @@ width=50%"/>
 |:-------------------------------:|:----------------:|
 |    Guillen Luna, Paolo César    |    U202124343    |
 | Quispe Condori, Fernando Daniel |    U20221C628    |
-|                                 |                  |
+|   Llamo Sánchez, Amner Levi     |    U20221C376    |
 |                                 |                  |
 |                                 |                  |
 
@@ -498,7 +498,9 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id = '4.6.1'><h4> 4.6.1. Software Architecture Context Diagram </h4> </div>
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquiTaclla-SystemContext.png>
 <div id = '4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams </h4> </div>
+<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquiTaclla-Container.png>
 <div id = '4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams </h4> </div>
 
 
