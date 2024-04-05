@@ -486,15 +486,19 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 
 
-<div id='4.3.'><h4> 4.3. Landing Page UI Design</h4></div>
+<div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
 
 <div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe</h5></div>
 
 <div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up</h5></div>
 
-<div id='4.4.'><h4> 4.4. Web Applications UX/UI Design</h4></div>
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
-<div id='4.5.'><h4> 4.5. Web Applications Prototyping</h4></div>
+<div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
-<div id='4.6.'><h4> 4.6. Domain-Driven Software Architecture</h4></div>
+<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
+<div id = '4.6.1'><h4> 4.6.1. Software Architecture Context Diagram </h4> </div>
+<div id = '4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams </h4> </div>
+<div id = '4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams </h4> </div>
+
 
