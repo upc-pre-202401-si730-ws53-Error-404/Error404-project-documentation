@@ -366,12 +366,12 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
 
   ***Entrevistas a agricultores profesionales***
-  |Entevistado 1|Clever Medina|
+  |Nombre entrevistado|Clever Medina|
 |-|-|
-|Edad||
+|Edad|42 años|
 |Departamento|Tumbes|
-|| |
-|Duración entrevista: 16:15  |URL: |
+|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/entrevistaAgricultorMedina.jpeg">|Clever Medina es un agricutlor que reside en el departamento de Tumbes, este se especializa en los cultivos de Cacao y Limón, si bien su actual ocupación es la agricultura, tiene conocimientos en mecatrónica. Clever comenta que gestiona sus cultivos a partir de puro análisis mental y su experiencia de más de 30 años en este campo, su principal problema con el tema de gestionar sus cultivos es cuando estos no crecen como uno esperaría a lo que el recurre a información encontrada en Google y sigue los pasos de ahí. Cuenta con experiencia de herramientas digitales, sin embargo, ninguna orientada a la agricultura. Al mencionarle sobre la propuesta y preguntarle si él cree que les haría un beneficio a él y a sus compañeros agricultores dice lo siguiente: "Claro, pues como te mencione, como agricultor quiero mejorar la calidad de mis cultivos y si existiese una aplicación de ese tipo y las recomendaciones que brinda me aseguran que podría mejorar la calidad, no solo me ayudaría económicamente sino que también me ayudaría a ahorrar tiempo y así podría mejorar otros aspectos de mis cultivos"|
+|Duración entrevista: 16:15  |URL: [https://drive.google.com/file/d/1G1Q4E9hMcd82o3uekWFwiJWfr5Vp7D5P/view?usp=sharing]|
   <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
   
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
