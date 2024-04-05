@@ -490,6 +490,11 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 <div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe</h5></div>
 
+<div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up</h5></div>
 
+<div id='4.4.'><h4> 4.4. Web Applications UX/UI Design</h4></div>
 
+<div id='4.5.'><h4> 4.5. Web Applications Prototyping</h4></div>
+
+<div id='4.6.'><h4> 4.6. Domain-Driven Software Architecture</h4></div>
 
