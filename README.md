@@ -17,7 +17,7 @@ width=50%"/>
 |    Guillen Luna, Paolo César    |    U202124343    |
 | Quispe Condori, Fernando Daniel |    U20221C628    |
 |   Llamo Sánchez, Amner Levi     |    U20221C376    |
-|                                 |                  |
+|  Cantoral Paredes, Diego André  |    U20201F568    |
 |                                 |                  |
 
 ## Registro de versiones del informe
@@ -25,6 +25,7 @@ width=50%"/>
 |:----------:|:-------:|:---------------:|:-------------------------------------------------------------------------------------------:|
 | 28/03/2024 | 1.0     |  Guillen Paolo  | Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula |
 | 31/03/2024 | 1.1     | Quispe Fernando |                       Capitulo 2 - Formulacion Preguntas Entrevistas                        |
+| 31/03/2024 | 1.1     | Diego Cantoral  |                             Desarrollo parcial del capítulo 1                               |
 
 
 ## Project Report Collaboration Insights
@@ -37,7 +38,7 @@ URL del repositorio del proyecto:
 |:------------------------------------------------------:|:-----------------------------------------------------------:|
 |               Guillen Luna, Paolo César                |                  Desarrollo de la carátula                  |
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
-|                                                        |                                                             |
+|            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y startup          |
 
 
 ***TB1 Github***
