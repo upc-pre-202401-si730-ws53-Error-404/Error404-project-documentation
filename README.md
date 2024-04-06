@@ -330,7 +330,60 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
   <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
   
+  A partir del análisis competitivo realizado se logró identificar las fortalezas, debilidades, oportunidades y amenazas destacadas en los competidores. Esta información adquirida es esencial para trazar estrategias y tácticas para diferenciarnos de nuestros competidore. A continuación se brindará tanto estrategias como tácticas para alcanzar esta meta:
+
+ **Fortalezas de nuestros competidores**
+
+ * Amplia variedad de cultivos con los que trabajar y gestionar adecuadamente.
+ * Cálculos estables basadas en herramientas estadísticas.
+ * Todos cuenta con un tiempo de más de dos años como mínimo en el mercado agrícola.
+
+Teniendo en cuenta esto, ¿cuáles son nuestras fortalezas?
+
+ * Registro y monitoreo de los cultivos de forma eficiente, siguiente cada fase fenológica independientemente del cultivo.
+ * Accesibilidad, nuestros competidores se enfocan en brindar sus productos únicamente a empreas, nosotros a un público más general.
+
+ Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
+
+ **Estrategias**
   
+  * Brindar al usuario las herramientas que necesita para el correcto cultivo de su cultivo.
+
+  **Tácticas**
+
+  * Incluir herramientas de recomendaciones según el proceso fenológico por el cual el cultivo del usuario esté pasando.
+
+  **Debilidades de nuestros competidores**
+
+  Nuestros competidores no ofrecen un producto perfecto, algunos se enfocan en solo un tipo de producto y otros tienen precios elevados.
+
+  * Centralización de un solo producto.
+  * Poca personalización para registrar los cultivos. 
+  * Localización restringida únicamente a una región en el mundo.
+  * Interfaz poco intuitiva
+
+  **Estrategias**
+ 
+  * Mantener actualizaciones de los cultivos a registrar de forma constante y brindar una personalización más amplia a los usuarios para sus registros.
+
+  **Tácticas**
+
+  * Implementar un sistema de reseñas donde el usuario pueda indicarnos si el cultivo que quiere registrar se encuentra o no en la plataforma. 
+  * Proporcionar un video guía o una sucesión de imágenes para utilizar nuestro producto.
+
+  **Oportunidades de nuestros competidores**
+
+**Estrategias**
+
+  **Tácticas**
+
+
+  **Amenazas de nuestros competidores**
+
+**Estrategias**
+
+  **Tácticas**
+ 
   <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
   
   <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
