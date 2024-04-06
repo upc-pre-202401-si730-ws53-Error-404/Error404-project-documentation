@@ -38,7 +38,7 @@ URL del repositorio del proyecto:
 |:------------------------------------------------------:|:-----------------------------------------------------------:|
 |               Guillen Luna, Paolo César                |                  Desarrollo de la carátula                  |
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
-|            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y startup          |
+|            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y descripción de startup          |
 
 
 ***TB1 Github***
