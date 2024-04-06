@@ -312,6 +312,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   <div id='2.1.'><h3> 2.1. Competidores</h3></div>
   
   <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
+  
   ||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> ||||
 |:-:|:-:|:-:|:-:|:-:|
 |Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. ||||
@@ -325,7 +326,10 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 |Debilidades|Enfoque solo en el proceso de producción.||||
 |Oportunidades|Captar a los agricultores amateurs y principiantes en el mundo de la agricultura.||||
 |Amenazas|Aparición de soluciones más completas, aplicaciones son herramientas más actualizadas.||||
+
+
   <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+  
   
   <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
   
