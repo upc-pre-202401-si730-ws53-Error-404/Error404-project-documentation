@@ -591,9 +591,13 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
+
+**Landing Page Wireframe Desktop Web Browser**<br>
+A continuación, se presenta nuestra landing page vista desde el desktop web browser. Esta cuenta con secciones de gran relevancia para el usuario, las cuales ofrecen información sobre los beneficios que obtendrá a través del producto, los diferentes planes de pago disponibles, los perfiles de los miembros del equipo y las opiniones de nuestros clientes. Además, en esta sección encontrarán un formulario mediante el cual los usuarios podrán ponerse en contacto con los desarrolladores de la aplicación a través de un mensaje por correo electrónico.
 <img src="resources/Landin Page Wireframe.png">
 
-**Mobile**
+**Landing Page Wireframe Mobile**<br>
+A continuación, se presenta la landing page vista desde el mobile web browser. Esta incluye los mismos contenidos que el diseño desktop web browser, pero adaptados a las dimensiones del dispositivo móvil.
 
 <img src='resources/Landing-Wireframes-Mobile/13 Pro - 1.png'>
 <img src="resources/Landing-Wireframes-Mobile/13 Pro - 2.png">
@@ -606,9 +610,13 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="resources/Landing-Wireframes-Mobile/13 Pro - 9.png">
 
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
+
+**Landing Page Mock-up Desktop Web Browser**<br>
+A continuación, les mostramos el mockup actualizado de nuestra página de inicio. Este diseño se ha creado utilizando los wireframes previamente desarrollados y siguiendo las General Style Guidelines, asegurándonos de mantener todas las secciones pertinentes y optimizando la experiencia del usuario.
 <img src="resources/Landing Page Mock-up.png">
 
-**Mobile**
+**Landing Page Mock-up Mobile**<br>
+El mock-up para la landing page en la vista del navegador web móvil incorpora la misma estructura de los wireframes y las mismas secciones mencionados anteriormente. 
 
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
@@ -635,6 +643,8 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="resources/Wireframes/Suscripcion.png">
 **Pasarela de pagos**
 <img src="resources/Wireframes/Pagar.png">
+**Mi Perfil**
+<img src="resources/Wireframes/Mi perfil.png">
 **Panel de control**
 <img src="resources/Wireframes/Panel de Control.png">
 **Lista de Cultivos**
@@ -674,6 +684,8 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="resources/Mock/Suscripcion.png">
 **Pasarela de pagos**
 <img src="resources/Mock/Pagar.png">
+**Mi Perfil**
+<img src="resources/Mock/Mi perfil.png">
 **Panel de control**
 <img src="resources/Mock/Panel de Control.png">
 **Lista de Cultivos**
