@@ -1039,11 +1039,6 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
 <img src="resources/Chaquitaclla-database.png">
 
-**TB1** 
-**User Bounded Context**
-<img src="resources/C4Imagenes/ChaquiTaclla-Components-2.png">
-**Managment Crop Bounded Context**
-<img src="resources/C4Imagenes/ChaquiTaclla-Components.png">
 
 
 
