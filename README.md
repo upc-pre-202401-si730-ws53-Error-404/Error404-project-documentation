@@ -295,7 +295,7 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 El Lean UX Canvas es una herramienta que se utiliza en el campo del diseño centrado en el usuario (UX) y la metodología Lean para optimizar la creación y el desarrollo de productos. Su objetivo principal es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A través de esta herramienta, los equipos pueden visualizar y analizar aspectos clave del diseño y la experiencia del usuario, lo que facilita la toma de decisiones informadas durante el proceso de desarrollo.
 
 ## ***Lean UX Canvas realizado en la aplicación web "Mural":*** 
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/LeanUXCanva_2024-03-31_17-21-30.png>
+<img src="resources/LeanUXCanva_2024-03-31_17-21-30.png"/>
 Enlace para acceder al [Canvas](https://app.mural.co/t/aplicacionesweb8834/m/aplicacionesweb8834/1711846472456/3aafbeea2aa64e5c9fea104736a8e04377fc040d?sender=uab21ffc4c80101532b361326)
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
@@ -313,7 +313,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
-||Chaquitaclla <img src='resources/ChaquitacllaLoco.jpeg' width="50" height="50"> |AgroSmart <img src='resources/images.jpeg' width="50" height="50">|Cropin <img src='resources/cropin.jpg' width="50" height="50">|DKALB <img src='resources/unnamed.jpg' width="50" height="50">|
+||Chaquitaclla <img src='resources/ChaquitacllaLogo.jpeg' width="50" height="50"> |AgroSmart <img src='resources/images.jpeg' width="50" height="50">|Cropin <img src='resources/cropin.jpg' width="50" height="50">|DKALB <img src='resources/unnamed.jpg' width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
 |Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
 |Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
