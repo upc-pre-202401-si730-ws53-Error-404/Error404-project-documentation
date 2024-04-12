@@ -143,7 +143,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 | Mi nombre es **Paolo César Guillen Luna**, estudiante de la carrera de Ingeniería de Software, en la UPC y fanático de los videojuegos. Me considero alguien creativo y con determinación en alcanzar sus metas, dentro del campo del desarrollo de software, me gustaría especializarme en lo que es el testing de este, razón por la cual aparte de seguir la malla curricular de mi carrera también ando aprendiendo herramientas diversas como Playwright, Cypress, etc. |   <img src="resources/teamMembersPhotos/paoloPhoto.jpg"/>   |
 | Mi nombre es Diego André Cantoral Paredes y soy estudiante de la carrera de Ingeniería de Software. Desde siempre me interesaron los temas tecnológicos y sobre todo las computadoras, por lo que desarrollé una afición a los videojuegos y luego a la programación. Me considero una persona responsable, creativa y siempre dispuesto a ayudar a mis compañeros.|   <img src="resources/teamMembersPhotos/diegoPhoto.PNG"/>   |
 |Mi nombre es Fernando Quispe, soy una persona proactiva que puede aportar y liderar la colaboración en equipo con el objetivo de un logro común. Me gusta el desarrollo de software y poder contribuir a la sociedad con lo que me apasiona. Tengo como meta adquirir los conocimientos de una manera clara para poder aplicarlos en los distintos proyectos tal cuál como el proyecto actual. | <img src="resources/teamMembersPhotos/FernandoQuispe.png"/> |
-|Mi nombre es **Amner Levi Llamo Sánchez**, soy estudiante del quinto ciclo de ingeniería de software en la UPC. Me gusta jugar fútbol y videojuegos, por eso estoy constantemente investigando sobre nuevas tecnologías. Soy responsable con los trabajos que se me asignan; además soy tolerante y me adapto a las circunstancias del equipo.|<img src='resources/Amner.jpeg'/>|
+|Mi nombre es **Amner Levi Llamo Sánchez**, soy estudiante del quinto ciclo de ingeniería de software en la UPC. Me gusta jugar fútbol y videojuegos, por eso estoy constantemente investigando sobre nuevas tecnologías. Soy responsable con los trabajos que se me asignan; además soy tolerante y me adapto a las circunstancias del equipo.|<img src='resources/teamMembersPhotos/Amner.jpeg'/>|
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
@@ -310,26 +310,24 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 [//]: #CAPITULO2
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
-  <div id='2.1.'><h3> 2.1. Competidores</h3></div>
-  
-  <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo</h4></div>
-  
-  ||Chaquitaclla <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50" height="50"> ||||
+<div id='2.1.'><h3> 2.1. Competidores</h3></div>
+<div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
+
+||Chaquitaclla <img src='resources/ChaquitacllaLoco.jpeg' width="50" height="50"> |AgroSmart <img src='resources/images.jpeg' width="50" height="50">|Cropin <img src='resources/cropin.jpg' width="50" height="50">|DKALB <img src='resources/unnamed.jpg' width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
-|Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. ||||
-|Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos||||
-|Mercado Objetivo|Desde agricultores amateurs hasta agricultores profesionales|||
-|Estrategias de Marketing|Enfoque en nuevos clientes iniciando en el mundo de la agricultura.||||
-|Productos & Servicios|Software de gestion agricula, asesoramiento económico.||||
-|Precios & Costos|Basado en suscripción||||
-|Canales de distribución (WEB y/o Movil)|Plataforma web||||
-|Fortalezas|Monitoreo de ultima generacion para la gestión agrícola.||||
-|Debilidades|Enfoque solo en el proceso de producción.||||
-|Oportunidades|Captar a los agricultores amateurs y principiantes en el mundo de la agricultura.||||
-|Amenazas|Aparición de soluciones más completas, aplicaciones son herramientas más actualizadas.||||
+|Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
+|Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
+|Mercado Objetivo|Desde agricultores amateurs hasta empresas internacionales.|Empresas agrícolas dedicadas al sector Silvoagropecuario y a gobiernos o entidades gubernamentales.|Empresas agrícolas, agroindustriales e instituciones financieras.|Agricultores especalizados en la siembra de maíz.|
+|Estrategias de Marketing|Enfoque en nuevos clientes iniciando en el mundo de la agricultura.|Enfoque en sostenibilidad y eficiencia de recursos como principales puntos de venta.|Impacto en la productividad mediante soluciones variadas proporcionadas al cliente.|Personalización y adaptabilidad de soluciones a necesidades específicas del cliente.|
+|Productos & Servicios|Software de gestion agricula, asesoramiento económico.|Sensores de campo, análisis de datos climáticos, asesoramiento agronómico.|Software de gestión agrícola, análisis de datos, servicios de inteligencia de mercado.|Consultoría agrícola, software de gestión de recursos, análisis de rendimiento.|
+|Precios & Costos|Precio basado en suscripción.|Basado en suscripción.|Basado en el tamaño de la operación, suscripción mensual|Precios personalizados a diferentes países.|
+|Canales de distribución (WEB y/o Movil)|Plataforma web|Plataforma web y aplicación móvil.|Plataforma web y aplicación móvil.|Aplicación móvil.|
+|Fortalezas|Monitoreo de ultima generacion para la gestión agrícola.|Abarca toda la cadena de cultivos agrícolas.|Análisis apoyadas con herramientas como la IA.|Personalización de las soluciones en maíz.|
+|Debilidades|Enfoque solo en el proceso de producción.|Enfocado en los agricultores amateurs, precio elevado.|Capacitación para sacar el maximo provecho de la plataforma.|Centralización en un solo tipo de producto|
+|Oportunidades|Captar a los agricultores amateurs y principiantes en el mundo de la agricultura.|Expansión de mercados emergentes con enfoque a la agricultura sostenible completa.|Auge actual de las tecnologías basadas en IA.|Crecimiento del comercio electronico en los países de Latinoamérica.|
+|Amenazas|Aparición de soluciones más completas, aplicaciones son herramientas más actualizadas.|Aparición de soluciones más elaboradas.|Aparición de diversas soluciones de IA.|Cambios en las tendencias de consumo de los clientes.|
 
-
-  <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
   
   A partir del análisis competitivo realizado se logró identificar las fortalezas, debilidades, oportunidades y amenazas destacadas en los competidores. Esta información adquirida es esencial para trazar estrategias y tácticas para diferenciarnos de nuestros competidore. A continuación se brindará tanto estrategias como tácticas para alcanzar esta meta:
 
@@ -356,13 +354,19 @@ Teniendo en cuenta esto, ¿cuáles son nuestras fortalezas?
 
   **Debilidades de nuestros competidores**
 
-  Nuestros competidores no ofrecen un producto perfecto, algunos se enfocan en solo un tipo de producto y otros tienen precios elevados.
+ Nuestros competidores no ofrecen un producto perfecto, algunos se enfocan en solo un tipo de producto y otros tienen precios elevados.
 
   * Centralización de un solo producto.
   * Poca personalización para registrar los cultivos. 
   * Localización restringida únicamente a una región en el mundo.
   * Interfaz poco intuitiva
 
+Teniendo en cuenta esto, ¿cuáles son nuestras debilidades?
+
+ * Enfoque solo en el proceso de gestión de los cultivos
+
+ Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
+ 
   **Estrategias**
  
   * Mantener actualizaciones de los cultivos a registrar de forma constante y brindar una personalización más amplia a los usuarios para sus registros.
@@ -374,16 +378,45 @@ Teniendo en cuenta esto, ¿cuáles son nuestras fortalezas?
 
   **Oportunidades de nuestros competidores**
 
+* Implementación o mejora de su interfaz visual de la aplicación.
+* Expandir su visión de producto a mercados emergentes.
+* Implementar nuevas tecnologías como la IA al proceso de gestión. 
+
+Teniendo en cuenta esto, ¿cuáles son nuestras oportunidades?
+
+ * Captar a agricultores profesionales así como amateurs con nuestra aplicación que contiene las últimas tendencias agrícolas.
+
+ Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
+
 **Estrategias**
+
+* Captar tanto agricultores amateurs como profesionales con una interfaz amigable.
 
   **Tácticas**
 
+* Aprovechar nuestros conocimientos de la psicología del color para la creación de la interfaz.
 
   **Amenazas de nuestros competidores**
 
-**Estrategias**
+* Aparición de soluciones más elaboradas. 
+* Aparición de nuevas tecnologías y no conocer como implementarlas. 
+* Cambios en la tendencia de la agricultura.
+
+Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
+
+ * Aparición de soluciones más completas y con herramientas más modernas y actualizadas.
+
+ Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
+
+  **Estrategias**
+
+* Capacitarnos en las últimas tecnologías con las que trabaja nuestra aplicación.
+* Implementar funciones que simplifiquen la experiencia de usuario.
 
   **Tácticas**
+ 
+ * Mantener la aplicación constantemente actualizada con las últimas versiones de las tecnologías utilizadas.
+ * Preguntar a los usuarios mediante encuestas en la aplicación sobre que cambios en la tendencia de la agricultura han visto que le gustaría ver reflejado en la aplicación.
  
   <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
   
