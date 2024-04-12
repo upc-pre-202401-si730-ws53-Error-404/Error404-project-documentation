@@ -556,16 +556,161 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 
+La solución Chaquitaclla está diseñada para ofrecer a agricultores de todos los niveles una herramienta de gestión de cultivos que sea tanto fácil de usar como ágil. La información se organiza de manera secuencial, permitiendo a los usuarios seguir el progreso de sus cultivos a través de distintas etapas dentro de la aplicación web. A través del "Panel de Control", los usuarios tienen acceso a una visión general de las funcionalidades, lo que ayuda a distinguir claramente entre el registro de procesos. Este enfoque asegura que los agricultores puedan emplear la herramienta de manera eficiente en sus labores cotidianas, mejorando así la administración de sus cultivos.
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+En Chaquitaclla, los encabezados en las secciones no esenciales de la aplicación proporcionan un resumen claro del contenido de la vista actual para los usuarios. Las secciones del panel de control están etiquetadas, lo que facilita la navegación del usuario. Todas las tarjetas incluyen títulos para identificar su contenido, y la barra de navegación muestra etiquetas textuales para las vistas principales. Este enfoque en la etiquetación asegura que tanto agricultores principiantes como experimentados puedan utilizar la herramienta de manera eficiente en sus labores agrícolas.
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+Las secciones del panel de control están etiquetadas, lo que facilita la navegación del usuario. Además, todas las tarjetas incluyen títulos para identificar su contenido, y la barra de navegación muestra etiquetas textuales para las vistas principales. Ademas, los encabezados en las secciones no esenciales de la aplicación proporcionan un resumen claro del contenido de la vista actual para los usuarios. Este enfoque en la etiquetación asegura que tanto agricultores principiantes como experimentados puedan utilizar la herramienta de manera eficiente en sus labores agrícolas.
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas metas etiquetas facilitan el análisis de archivos HTML. y facilita el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
+
+Las metas etiquetas que usaremos:
+
+**Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra metaetiqueta. Esta etiqueta es utilizada o leida por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+**Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+**Descripción:**
+
+Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+**Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+La funcionalidad de búsqueda desempeña un papel crucial al facilitar a los usuarios la distinción y filtrado de la información de los registros almacenados en la aplicación. El principal propósito del sistema es presentar de manera precisa y rápida la amplia cantidad de información producida por los usuarios que emplean la herramienta. Los usuarios tienen la capacidad de buscar cultivos registrados según su fecha de ingreso y la fase en la que se encuentran
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
+Los sistemas de navegación comprenden menús de navegación en la parte superior de la Landing Page, además de un sistema de labeling que orienta a los usuarios hacia las secciones que desean visitar. Dentro de la aplicación, los usuarios atraviesan el proceso de cultivo por diferentes secciones, utilizando botones que simplifican la navegación y permiten seguir el progreso. Esta disposición asegura una experiencia de usuario eficiente y sin contratiempos, beneficiando tanto a agricultores principiantes como a profesionales.
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
+<div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
+<img src="resources/Landin Page Wireframe.png">
 
-<div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe</h5></div>
+**Mobile**
 
-<div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up</h5></div>
+<img src='resources/Landing-Wireframes-Mobile/13 Pro - 1.png'>
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 2.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 3.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 4.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 5.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 6.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 7.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 8.png">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 9.png">
+
+<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
+<img src="resources/Landing Page Mock-up.png">
+
+**Mobile**
+
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - 10.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - 11.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 5.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 6.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 7.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 8.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 9.png">
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
-<div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+
+**Iniciar sesión**
+<img src="resources/Wireframes/LogIn.png">
+**Crear cuenta**
+<img src="resources/Wireframes/Register.png">
+**Elegir suscripción**
+<img src="resources/Wireframes/Suscripcion.png">
+**Pasarela de pagos**
+<img src="resources/Wireframes/Pagar.png">
+**Panel de control**
+<img src="resources/Wireframes/Panel de Control.png">
+**Lista de Cultivos**
+<img src="resources/Wireframes/Lista de cultivos en curso.png">
+**Añadir Cultivo**
+<img src="resources/Wireframes/Añadir cultivo.png">
+**Informacion General**
+<img src="resources/Wireframes/Informacion General.png">
+**Cuidado**
+<img src="resources/Wireframes/Cuidado.png">
+**Controles o Isumos**
+<img src="resources/Wireframes/Controles.png">
+**Añadir Controles o Insumos**
+<img src="resources/Wireframes/Añadir Control.png">
+**Enfermedades o Plagas**
+<img src="resources/Wireframes/Enfermedades o Plagas.png">
+**Historico de Cultivos**
+<img src="resources/Wireframes/Historico de Cultivos.png">
+**Reporte estadístico**
+<img src="resources/Wireframes/Reporte estadístico.png">
+**Foro de Consulta**
+<img src="resources/Wireframes/Foro de Consulta.png">
+**Añadir consulta**
+<img src="resources/Wireframes/Añadir consulta.png">
+**Respuestas de consultas**
+<img src="resources/Wireframes/Respuestas de consultas.png">
+
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
+
+<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
+
+**Iniciar sesión**
+<img src="resources/Mock/LogIn.png">
+**Crear cuenta**
+<img src="resources/Mock/Register.png">
+**Elegir suscripción**
+<img src="resources/Mock/Suscripcion.png">
+**Pasarela de pagos**
+<img src="resources/Mock/Pagar.png">
+**Panel de control**
+<img src="resources/Mock/Panel de Control.png">
+**Lista de Cultivos**
+<img src="resources/Mock/Lista de cultivos en curso.png">
+**Añadir Cultivo**
+<img src="resources/Mock/Añadir Cultivo.png">
+**Informacion General**
+<img src="resources/Mock/Informacion General.png">
+**Cuidado**
+<img src="resources/Mock/Cuidado.png">
+**Controles**
+<img src="resources/Mock/Controles.png">
+**Añadir Controles**
+<img src="resources/Mock/Añadir Control.png">
+**Enfermedades o Plagas**
+<img src="resources/Mock/Enfermedades o Plagas.png">
+**Productos Consumidos**
+<img src="resources/Mock/Productos Consumidos.png">
+**Añadir Producto**
+<img src="resources/Mock/Añadir Producto.png">
+**Historico de Cultivos**
+<img src="resources/Mock/Historico de Cultivos.png">
+**Exportacion Controles**
+<img src="resources/Mock/Exportacion Controles.png">
+**Exportacion Productos Consumidos**
+<img src="resources/Mock/Exportacion Productos Consumidos.png">
+**Reporte estadístico**
+<img src="resources/Mock/Reporte estadístico.png">
+**Foro de Consulta**
+<img src="resources/Mock/Foro de Consulta.png">
+**Añadir consulta**
+<img src="resources/Mock/Nueva consulta.png">
+**Mis Consultas**
+<img src="resources/Mock/Mis Consultas.png">
+**Respuestas de consultas**
+<img src="resources/Mock/Respuestas de consultas.png">
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id = '4.6.1'><h4> 4.6.1. Software Architecture Context Diagram </h4> </div>
