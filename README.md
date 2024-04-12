@@ -4,7 +4,7 @@
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
 <h4 style="text-align: center;"> Aplicaciones Web </h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
-<h4 style="text-align: center;"> WS53 </h4>
+<h4 style="text-align: center;"> Sección: WS53 </h4>
 <h4 style="text-align: center;"> Docente: Angel Augusto Velasquez Nuñez </h4>
 <h4 style="text-align: center;"> Startup:  Error 404 </h4>
 <h4 style="text-align: center;"> Producto: Chaquitaclla  </h4>
