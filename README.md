@@ -612,8 +612,6 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 **Mobile**
 
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - 10.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - 11.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
@@ -622,6 +620,8 @@ Los sistemas de navegación comprenden menús de navegación en la parte superio
 <img src="resources/Landing-Mock-Mobile/13 Pro - Colo 7.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Colo 8.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Colo 9.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 10.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Colo 11.png">
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
