@@ -753,7 +753,7 @@ La siguiente sección muestra los informes estadísticos que proporciona la apli
 En la sección "Foro de Consulta", los usuarios podrán publicar, ver y responder preguntas presentes en el foro. Además, tendrán la opción de filtrar las preguntas.
 <img src="resources/Wireframes/Foro de Consulta.png">
 
-**Añadir consulta**
+**Añadir consulta**<br>
 En la sección "Añadir Controle o Insumo" los usuarios tiene que llenar los parametros necesarios para poder añadir una pregunta al foro.
 <img src="resources/Wireframes/Añadir consulta.png">
 
