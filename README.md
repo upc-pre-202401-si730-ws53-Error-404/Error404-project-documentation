@@ -707,10 +707,28 @@ Para una correcta calificacion de los story points, optamos por seguir la escala
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
-<div id='4.1.'><h3> 4.1.1. General Style Guidelines</h3></div>
+Un "style guideline", también conocido como guía de estilo, funciona como un manual que define las normas y criterios para la creación de diversos tipos de contenido, desde documentos escritos hasta interfaces de software.  Su objetivo es asegurar la coherencia y la profesionalidad en el trabajo creativo, proporcionando directrices específicas sobre la estructura, el diseño y la presentación del mismo.
+A continucción, se especificará los parametros implementados en el proyecto: 
+
+**Branding:**
+
+**Brand Overview:**
+
+Nuestra startup, AgriCulture , tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
+
+Para lograrlo, hemos desarrollado una plataforma que organiza y simplifica la gestión de cultivos para nuestros usuarios. Cada cultivo se sigue a lo largo de su ciclo fenológico, y además, mantenemos registros históricos para determinar las temporadas óptimas de siembra y cosecha de diferentes insumos. Esto permite una trazabilidad efectiva y ayuda a nuestros usuarios a alcanzar sus metas a largo plazo.
+
+En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, democratizando el acceso a herramientas eficientes y fomentando el éxito de todos los involucrados.
+
+**Misión:** Ofrecer una solución integral de gestión agrícola que trascienda los límites tradicionales y que se encuentre disponible para todo el público.
+
+**Visión:** ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en lo que respecta a la gestión agrícola en los próximos años por su accesibilidad y facilidad de uso. 
+Mientras que como startup, AgriCulture, busca ser reconocido como un equipo autosustentable y capaz de brindar soluciones innovadoras en el campo de la agricultura moderna.
+
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
 
 ***Brand Overview***
-Nuestra startup, Error 404 , tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
+Nuestra startup,[nombre] , tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
 Para lograrlo, hemos desarrollado una plataforma que organiza y simplifica la gestión de cultivos para nuestros usuarios. Cada cultivo se sigue a lo largo de su ciclo fenológico, y además, mantenemos registros históricos para determinar las temporadas óptimas de siembra y cosecha de diferentes insumos. Esto permite una trazabilidad efectiva y ayuda a nuestros usuarios a alcanzar sus metas a largo plazo.
 
 En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, democratizando el acceso a herramientas eficientes y fomentando el éxito de todos los involucrados.
@@ -721,16 +739,68 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 ##### Logotipo de la Startup:
 
+<img src="resources/LogoStartup.png" width="50%" height="50%">
+
+
 ##### Logotipo del producto
 
-<img src="resources/ChaquitacllaLogoNuevo.png" width="50%" height="50%">
+<img src="resources/ChaquitacllaLoco.jpeg" width="50%" height="50%">
 
-***Brand Name:***
+***Brand Name:*** El nombre de nuestra propuesta de solución surge a partir de como se dice a la acción de arar la tierra con el pie en quechua, el cual "Chaquitaclla", si bien este nombre no suena como algo tecnológico, lo que más queremos transmitir a nuestros usuarios es una familiaridad y confianza. Brindando un nombre en quechua cuyo significado es simple de entender, da a los usuarios la confianza que sabemos sobre agricultura. Además que como nuestro producto es de origen peruano, confiamos que un nombre en quechua era lo más indicado para representar nuestro producto. 
 
 ***Colores:***
+Los colores son lo primero que el usuario percibe al entrar a cualquier aplicación y estos tienen un efecto en en la percepción que el producto da a los usuario. Por esta razón, a partir de los principios de la psicología del color, colores como el verde y marrón son los que hemos elegido para ser implementados como los colores insignia de la plataforma. Ambos pigmentos tienen una relación con la agricultura y brinda esa familiaridad a nuestros usuarios. En lo que respecta a los wireframes, se trabajaron con tonos de gris para formular una vista preliminar de como debería estar estructurada la página web y aplicación.
+
+<img src="resources/Colores.png">
 
 ***Tipografía:***
 
+Escoger la tipografía adecuada puede ser un problema, esta no debe ser invasiva y debe ser coherente para el usuario, puesto que es lo que va a estar presente todo el tiempo para este. Siendo uno de nuestros objetivos que la aplicación tenga un estilo minimalista, el tipo de letra "Poppins" fue lo más indicado, en estilos Medium, Regular, SemiBold y Bold. 
+
+<img src="resources/Tipografia.png">
+
+
+**Spacing:**
+
+Estaríamos estableciendo margenes y un espaciado uniforme a lo largo del desarrollo de la interfaz de la aplicación para garantizar una experiencia de usuario consistente y agradable. Además, este se ajustaría según al tamaño del dispositivo en el cual se estaría mostrando.
+
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
+
+La aplicación web de "Chaquitaclla" tiene un enfoque minimalista y sencillo para atrapar a nuestros segmentos objetivos sin importar el conocimiento que estos tengan en tecnología. 
+
+**Imágenes:**
+
+Dentro del diseño web, se estaría incluyendo imágenes que capturen la esencia de la pestaña en la que se encuentre el usuario, además que imágenes claves como la foto de perfil del usuario y nuestro logo, se buscaría que siempre estén visibles en la barra de navegación.
+
+Las imágenes al ser percibidas en un ambiente web, es de suma importancia que cuenten con buena calidad, puesto que esto orientaría al usuario sobre que se debe hacer en cierta sección de la aplicación web. De igual forma se estaría planteando en emplear dentro de la aplicación web alguna sección con imágenes descriptivas que sirvan como guía para que el usuario tenga una idea general del funcionamiento de la aplicación web.
+
+**Botones:**
+
+Dentro de los botones a utilizar, se utilizarán botones comunes de interpretar lo que hacen, al ser una aplicación web, símbolos como un tacho de basura y una "X" se suelen asociar con deshacerse de algo. Esto queremos mantenerlo para nuestra aplicación web, manteniendo la consistencia externa de la vida real y nuestro producto.
+
+**Pop-ups:**
+
+Las ventanas emergente o elemento emergente, más conocidos como "Pop-ups" seguirán una estructura que no afecte la experiencia usuario, para lograr esto, estos deben ser de colores fuertes para indicar sobre algo importante. Asumiendo que estos aparecen en momentos donde el usuario esté por realizar un cambio importante, deben de acomodarse a la resolución del dispositivo y cuenten con tres elementos importantes, "Aceptar", "Rechazar" y un "X" para salir del pop-up.
+
+
+
+<div id='4.1.3.'><h4> 4.1.3. Mobile Style Guidelines</h4></div>
+
+Dentro de la aplicación web mobile de "Chaquitaclla", se busca que siga los mismos guidelines que el estilo de Desktop, esto puesto que se busca transmitir la misma imagen del producto, sin embargo, al ser una versión mobile se deben de cambiar ciertos diseños para que esto no afecta a la experiencia de usuario.
+
+**Imágenes:**
+
+Dentro del diseño web mobile, se estaría incluyendo imágenes que capturen la esencia de la pestaña en la que se encuentre el usuario, además que imágenes claves como la foto de perfil del usuario y nuestro logo, se buscaría que siempre estén visibles en la barra de navegación.
+
+Sin embargo, es importante considerar la resolución de las pantallas de los dispositivos móviles, por esta razón las imágnees deben ser concisas y precisas y que no afecta a la experiencia de usuario mientras hace uso de la aplicación desde su dispositivo móvil.
+
+**Botones:**
+
+Dentro de los botones a utilizar, se utilizarán botones comunes de interpretar lo que hacen, al ser una aplicación web, símbolos como un tacho de basura y una "X" se suelen asociar con deshacerse de algo. Esto queremos mantenerlo para nuestra aplicación web, manteniendo la consistencia externa de la vida real y nuestro producto.
+
+**Pop-ups:**
+
+Las ventanas emergente o elemento emergente, más conocidos como "Pop-ups" seguirán una estructura que no afecte la experiencia usuario, para lograr esto, estos deben ser de colores fuertes para indicar sobre algo importante. Asumiendo que estos aparecen en momentos donde el usuario esté por realizar un cambio importante, deben de acomodarse a la resolución del dispositivo y cuenten con tres elementos importantes, "Aceptar", "Rechazar" y un "X" para salir del pop-up. Para la versión mobile se considerarán elementos como el tamaño de estos pop-ups, al ser dispositivos más pequeños es importante que estos pop-ups no cubran información importante para el usuario.
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 
@@ -763,10 +833,14 @@ En esta etiqueta se pone las palabras claves relacionadas con el tema o contenid
 **Autor y Derechos de Autor:**
 
 Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
 La funcionalidad de búsqueda desempeña un papel crucial al facilitar a los usuarios la distinción y filtrado de la información de los registros almacenados en la aplicación. El principal propósito del sistema es presentar de manera precisa y rápida la amplia cantidad de información producida por los usuarios que emplean la herramienta. Los usuarios tienen la capacidad de buscar cultivos registrados según su fecha de ingreso y la fase en la que se encuentran
+
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
 Los sistemas de navegación comprenden menús de navegación en la parte superior de la Landing Page, además de un sistema de labeling que orienta a los usuarios hacia las secciones que desean visitar. Dentro de la aplicación, los usuarios atraviesan el proceso de cultivo por diferentes secciones, utilizando botones que simplifican la navegación y permiten seguir el progreso. Esta disposición asegura una experiencia de usuario eficiente y sin contratiempos, beneficiando tanto a agricultores principiantes como a profesionales.
+
+
 
 <div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
