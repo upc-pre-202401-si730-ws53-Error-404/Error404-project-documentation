@@ -304,7 +304,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
 
-* **Stakelholder Internos:** Integrantes pertenecientes al equipo de desarrollo, además del equipo creador de la startup, [NombreStartup]
+* **Stakelholder Internos:** Integrantes pertenecientes al equipo de desarrollo, además del equipo creador de la startup.
 * **Stakelholder Externos:** Sector agrícola empresarial, vendedores de productos naturales y estudiantes de alguna relacionada con la agricultura.
 
 [//]: #CAPITULO2
@@ -329,9 +329,9 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
   
-  A partir del análisis competitivo realizado se logró identificar las fortalezas, debilidades, oportunidades y amenazas destacadas en los competidores. Esta información adquirida es esencial para trazar estrategias y tácticas para diferenciarnos de nuestros competidore. A continuación se brindará tanto estrategias como tácticas para alcanzar esta meta:
+A partir del análisis competitivo realizado se logró identificar las fortalezas, debilidades, oportunidades y amenazas destacadas en los competidores. Esta información adquirida es esencial para trazar estrategias y tácticas para diferenciarnos de nuestros competidore. A continuación se brindará tanto estrategias como tácticas para alcanzar esta meta:
 
- **Fortalezas de nuestros competidores**
+**Fortalezas de nuestros competidores**
 
  * Amplia variedad de cultivos con los que trabajar y gestionar adecuadamente.
  * Cálculos estables basadas en herramientas estadísticas.
@@ -344,15 +344,15 @@ Teniendo en cuenta esto, ¿cuáles son nuestras fortalezas?
 
  Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
 
- **Estrategias**
+**Estrategias**
   
   * Brindar al usuario las herramientas que necesita para el correcto cultivo de su cultivo.
 
-  **Tácticas**
+**Tácticas**
 
   * Incluir herramientas de recomendaciones según el proceso fenológico por el cual el cultivo del usuario esté pasando.
 
-  **Debilidades de nuestros competidores**
+**Debilidades de nuestros competidores**
 
  Nuestros competidores no ofrecen un producto perfecto, algunos se enfocan en solo un tipo de producto y otros tienen precios elevados.
 
@@ -367,7 +367,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras debilidades?
 
  Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
  
-  **Estrategias**
+**Estrategias**
  
   * Mantener actualizaciones de los cultivos a registrar de forma constante y brindar una personalización más amplia a los usuarios para sus registros.
 
@@ -376,7 +376,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras debilidades?
   * Implementar un sistema de reseñas donde el usuario pueda indicarnos si el cultivo que quiere registrar se encuentra o no en la plataforma. 
   * Proporcionar un video guía o una sucesión de imágenes para utilizar nuestro producto.
 
-  **Oportunidades de nuestros competidores**
+**Oportunidades de nuestros competidores**
 
 * Implementación o mejora de su interfaz visual de la aplicación.
 * Expandir su visión de producto a mercados emergentes.
@@ -392,11 +392,11 @@ Teniendo en cuenta esto, ¿cuáles son nuestras oportunidades?
 
 * Captar tanto agricultores amateurs como profesionales con una interfaz amigable.
 
-  **Tácticas**
+**Tácticas**
 
 * Aprovechar nuestros conocimientos de la psicología del color para la creación de la interfaz.
 
-  **Amenazas de nuestros competidores**
+**Amenazas de nuestros competidores**
 
 * Aparición de soluciones más elaboradas. 
 * Aparición de nuevas tecnologías y no conocer como implementarlas. 
@@ -408,12 +408,12 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 
  Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
 
-  **Estrategias**
+**Estrategias**
 
 * Capacitarnos en las últimas tecnologías con las que trabaja nuestra aplicación.
 * Implementar funciones que simplifiquen la experiencia de usuario.
 
-  **Tácticas**
+**Tácticas**
  
  * Mantener la aplicación constantemente actualizada con las últimas versiones de las tecnologías utilizadas.
  * Preguntar a los usuarios mediante encuestas en la aplicación sobre que cambios en la tendencia de la agricultura han visto que le gustaría ver reflejado en la aplicación.
@@ -475,22 +475,22 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |-|-|
 |Edad|42 años|
 |Departamento|Tumbes|
-|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/entrevistaAgricultorMedina.jpeg">|Clever Medina, un agricultor residente en el departamento de Tumbes, se especializa en los cultivos de cacao y limón. Aunque su ocupación actual es la agricultura, también posee conocimientos en mecatrónica. Clever gestiona sus cultivos basándose en su experiencia en el campo. Sin embargo, enfrenta dificultades cuando los cultivos no crecen como esperaría. En esos momentos, recurre a información encontrada en Google y sigue los pasos recomendados, en caso la información encontrada no sirva en la práctica, esto resulta en pérdidas económicas y de tiempo para Clever. Al mencionarle sobre la propuesta y preguntarle si él cree que les haría un beneficio a él y a sus compañeros agricultores dice lo siguiente: "Claro, pues como te mencione, como agricultor quiero mejorar la calidad de mis cultivos y si existiese una aplicación de ese tipo y las recomendaciones que brinda me aseguran que podría mejorar la calidad, no solo me ayudaría económicamente sino que también me ayudaría a ahorrar tiempo y así podría mejorar otros aspectos de mis cultivos"|
-|Duración entrevista: 16:15  |URL: [https://drive.google.com/file/d/1G1Q4E9hMcd82o3uekWFwiJWfr5Vp7D5P/view?usp=sharing]|
+|<img src="resources/FotosoEntrevista/entrevistaAgricultorMedina.jpeg">|Clever Medina, un agricultor residente en el departamento de Tumbes, se especializa en los cultivos de cacao y limón. Aunque su ocupación actual es la agricultura, también posee conocimientos en mecatrónica. Clever gestiona sus cultivos basándose en su experiencia en el campo. Sin embargo, enfrenta dificultades cuando los cultivos no crecen como esperaría. En esos momentos, recurre a información encontrada en Google y sigue los pasos recomendados, en caso la información encontrada no sirva en la práctica, esto resulta en pérdidas económicas y de tiempo para Clever. Al mencionarle sobre la propuesta y preguntarle si él cree que les haría un beneficio a él y a sus compañeros agricultores dice lo siguiente: "Claro, pues como te mencione, como agricultor quiero mejorar la calidad de mis cultivos y si existiese una aplicación de ese tipo y las recomendaciones que brinda me aseguran que podría mejorar la calidad, no solo me ayudaría económicamente sino que también me ayudaría a ahorrar tiempo y así podría mejorar otros aspectos de mis cultivos"|
+|Duración entrevista: 16:15  |URL: []|
 
 |Nombre entrevistado|Paulino Guillen|
 |-|-|
-|Edad||
+|Edad|78 años|
 |Departamento|Lima|
-|||
+|<img src="resources/FotosoEntrevista/entrevistaPaulino.png">|Paulino, agricultor profesional jubilado de la región de Ayacucho, menciona que en sus tiempos no hacían uso de registros manuales, ni siquiera en papel, principalmente por problemas de analfabetismo en su región. Al preguntarle por sobre como se encuentra sus cultivos y compañeros actualmente, menciona que lo más probable es que hayan adoptado tecnología, pero de la más simple, como celulares. Paulino habla sobre como sus colegas que siguen en la chacra usan el internet para resolver ciertas dudas que ellos tengan respecto a sus cultivos. Al hacerle saberle de la propuesta, Paulino menciona que seguramente sería muy útil, siempre y cuando se les asesore a los agricultores de forma correcta.|
 |Duración entrevista:   ||
 
 |Nombre entrevistado| Eloy Cantoral|
 |-|-|
 |Edad|65 años|
 |Departamento|Lima|
-|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/EntrevistaEloy.PNG">|Eloy Cantoral es un agricultor de alta experiencia que se especializa en el cultivo de legumbres, frutas y verduras en la zona de Saisa, en Ayacucho. Durante la entrevista, indicó que el proceso de realizar la agricultura ha cambiado mucho a través del tiempo y que actualmente es necesario que se lleve de la mano con la tecnología. Enfatiza que contar con una aplicación que les ayude a gestionar más sus cultivos, por lo que está totalmente dispuesto a contar con una herramienta de software que añade capas de profundidad al análisis y mantenimiento de los sembríos.|
-|Duración entrevista: 13 minutos   |URL: [https://youtu.be/Hr2IIXpANIU]|
+|<img src="resources/FotosoEntrevista/EntrevistaEloy.PNG">|Eloy Cantoral es un agricultor de alta experiencia que se especializa en el cultivo de legumbres, frutas y verduras en la zona de Saisa, en Ayacucho. Durante la entrevista, indicó que el proceso de realizar la agricultura ha cambiado mucho a través del tiempo y que actualmente es necesario que se lleve de la mano con la tecnología. Enfatiza que contar con una aplicación que les ayude a gestionar más sus cultivos, por lo que está totalmente dispuesto a contar con una herramienta de software que añade capas de profundidad al análisis y mantenimiento de los sembríos.|
+|Duración entrevista: 13 minutos|URL: []|
 
  ***Entrevistas a jardineros en casa***
 
@@ -498,24 +498,32 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |-|-|
 |Edad| 20 años|
 |Departamento|Lima|
-|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/EntrevistaJosue.PNG">|Daniel Valverde es un jardinero aficionado que cuenta con un pequeño huerto en el ático de su casa y que en sus tiempos libres cuida de sus cultivos. No cuenta con herramientas tecnológicas o físicas tan sofisticadas o de gran uso, bastándose de una libreta para sus registros y de simples macetas para sus cultivos. Estaría muy dispuesto de contar con una aplicación que le ayuda profesionalizar un poco más los sembríos que tiene y manejar de manera más inteligente sus registros. |
-|Duración entrevista: 6:52 minutos  | URL: [https://youtu.be/Hr2IIXpANIU]|
+|<img src="resources/FotosoEntrevista/EntrevistaJosue.PNG">|Daniel Valverde es un jardinero aficionado que cuenta con un pequeño huerto en el ático de su casa y que en sus tiempos libres cuida de sus cultivos. No cuenta con herramientas tecnológicas o físicas tan sofisticadas o de gran uso, bastándose de una libreta para sus registros y de simples macetas para sus cultivos. Estaría muy dispuesto de contar con una aplicación que le ayuda profesionalizar un poco más los sembríos que tiene y manejar de manera más inteligente sus registros. |
+|Duración entrevista: 6:52 minutos  | URL: []|
 
 |Nombre entrevistado|Noe Sánchez|
 |-|-|
 |Edad|24|
 |Departamento|Lima|
-|<img src="https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/FotosoEntrevista/EntrevistaNoe.jpg">|Noe es un joven limeño de 24 años apasionado por la agricultura urbana, que reside en Lima. Cultiva en su hogar principalmente para tener acceso a alimentos frescos y saludables, y disfruta cada etapa del proceso, desde sembrar las semillas hasta cosechar los frutos de su esfuerzo. A pesar de su amor por la agricultura, Noe admite que a veces se enfrenta a dificultades debido a la falta de herramientas tecnológicas para gestionar sus cultivos. Esta carencia ocasionalmente resulta en olvidos o confusiones sobre los insumos necesarios para cada tipo de planta. Para monitorear el estado de sus cultivos, Noe confía en métodos tradicionales como la inspección visual de las hojas y los tallos, así como la evaluación de la humedad del suelo. Sin embargo, reconoce la importancia de la tecnología en la gestión agrícola y está dispuesto a invertir en herramientas digitales que puedan mejorar su eficiencia y aumentar la productividad de sus cultivos en el futuro.|
-|Duración entrevista: 5:55 minutos  |URL:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c376_upc_edu_pe/ETHX5fDWdptGi58hu9OR81oBVrKiTrjFId8kA5bOvgNC9w?e=caudII]|
+|<img src="resources/FotosoEntrevista/EntrevistaNoe.jpg">|Noe es un joven limeño de 24 años apasionado por la agricultura urbana, que reside en Lima. Cultiva en su hogar principalmente para tener acceso a alimentos frescos y saludables, y disfruta cada etapa del proceso, desde sembrar las semillas hasta cosechar los frutos de su esfuerzo. A pesar de su amor por la agricultura, Noe admite que a veces se enfrenta a dificultades debido a la falta de herramientas tecnológicas para gestionar sus cultivos. Esta carencia ocasionalmente resulta en olvidos o confusiones sobre los insumos necesarios para cada tipo de planta. Para monitorear el estado de sus cultivos, Noe confía en métodos tradicionales como la inspección visual de las hojas y los tallos, así como la evaluación de la humedad del suelo. Sin embargo, reconoce la importancia de la tecnología en la gestión agrícola y está dispuesto a invertir en herramientas digitales que puedan mejorar su eficiencia y aumentar la productividad de sus cultivos en el futuro.|
+|Duración entrevista: 5:55 minutos  |URL:[]|
 
 |Nombre entrevistado||
 |-|-|
-|Edad||
+|Edad|48 años|
 |Departamento|Lima|
-|||
-|Duración entrevista:   ||
+|<img src="resources/FotosoEntrevista/entrevistaEligsela.png">|Eligsela es una contadora que reside en Lima y que está muy familiarizada con la tecnología, entre sus pasatiempo principales se encuentra la jardinería, recientemente se incursionó a nuevos cultivos, como fresas y zanahorias. A pesar de tener conocimientos en jardinería, ella desconocía sobre como tratar correctamente estos nuevos cultivos, por lo tanto terminaron en un fracaso. Eligsela menciona que nunca tuvo la necesidad de gestionar sus cultivos puesto que al tener internet, buscando las soluciones a sus problemas respecto a los cultivos por este medio, sin embargo cabe recalcar que menciona que a veces se olvida de regar su jardín por su agenda tan agitada. Al mencionar la propuesta, menciona que si la adoptaría siempre y cuando esta le brinde la certeza que sus cultivos serán fructiferos. Dentro de lo que estaría a pagar menciona un precio de 500 soles anual o 50 soles a menos mensualmente.|
+|Duración entrevista:|URL:[]|
 
-  <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+<div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
+
+**Análisis del segmento de agricultores profesionales**
+
+De todos los entrevistados de este segmento vemos que el 100% ha tenido la agricultura como su ocupación principal, mencionan que la agricultura desde que empezaron ha cambiado mucho, entre esos cambios, el más significativo es como la tecnología ha ayudado a aprovechar ciertos procesos en los cuales ahora se pueden ahorrar recursos. Cuando a los entrevistados se les pregunta si han logrado trabajar con una herramienta digital, mencionan que normalmente este tipo de herramientas son las que suelen contar las empresas y que no estan a su alcance de su bolsillo. El 66% de los entrevistados mencionan en caso necesiten resolver  dudas sobre algunos temas, no solo recurren a la experiencia obtenida a lo largo de los años sino que usan navegadores como "Google" para solucionar sus consultas;sin embargo, mencionan que a veces la información brindada resulta perjudicial y terminan perdiendo recursos económicos. Finalmente, el 100% de los entrevistados mencionan que el hecho de que pueda existir una aplicación gestión enfocada en sus cultivos que cuente con características como mayor accesibilidad, una interfaz intuitiva y que les brinde la confianza que buscan para la calidad de sus cultivos, ellos estarían dispuestos a adoptar esta herramienta digital, después de todo, en sus propias palabras dicen que su objetivo principal como agricultores profesionales es sobresalir en el mercado con los mejores productos de calidad.
+
+**Análisis del segmento de jardineros en casa**
+
+De todos los entrevistados de este segmento, el 66% principalmente la hacen como hobby puesto que al tener un huerto pequeño no le tienen que dedicar tanto tiempo. Sin embargo el 33% restante menciona que el principal motivo de que empezó un huerto en su hogar es con el fin de obtener alimentos que sabe que son 100% frescos y saludables puesto que el lo ha cultivado. Del 100% de los entrevistados, el uso de herramientas digitales lo verían de buen uso siempre y cuando esta herramienta les asegure que su producto tendrá mejor calidad si sigue sus recomendaciones. El 66% de los entrevistados ha utilizado como mínimo una libreta digital para anotar los registros sus cultivos, sin embargo, mencionan que a veces se olvidaban de seguir estos registros lo que resultaba en un crecimiento inadecuado de sus cultivos. Finalmente, al ser aficionados estos desconocen a ciencia exacta que son los procesos fenológicos de un cultivo, esta información es valiosa, puesto que nos da a entender que nuestra aplicación web debe ser lo más sencilla y con un vocabulario simple.   
   
   <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
     <div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
@@ -526,6 +534,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
    <p>IMAGEN USER PERSONA AGRICULTORES. En este artefacto para Agricultores, tenemos la representación de el segmento de AGRICULTORES.</p>  
     <img src="resources/UserPersona_Jardineros.png">
    <p>IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la representación de el segmento de JARDINEROS.</p>  
+
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
@@ -611,6 +620,44 @@ Aquí para el segmento de jardineros se presenta el Empathy Mapping.
 <p>La imagen muestra el escenario ideal con los pasos de los JARDINEROS y lo que hace, piensa y siente.</p>
 
 
+<div id='3.2.'><h3> 3.2. User Stories</h3></div>
+
+**User Stories**
+
+|User Story ID | Título | Descripción | Criterios de aceptación |Epic ID|
+|-|-|:-|:-|:-|
+|US01|Registro inicial de cultivos|**Como** usuario de la aplicación, **Quiero** poder registrar nuevos cultivos **Para** llevar un seguimiento detallado de cada uno de ellos. |<p>**Escenario 1: Registro de cultivo satisfactoriamente.**<br>**Dado** que el usuario desea registrar una nueva siembra.<br>**Cuando** ingrese los detalles del cultivo, incluyendo el tipo de cultivo, fecha, área sembrada y confirme su intención<br>**Entonces** el id y fecha de creación del cultivo será almacenada en la base de datos de la aplicación<br>**Escenario 2: Cancelación del registro de cultivo**<br>**Dado** que el usuario haya intentado registrar un nuevo cultivo<br>**Cuando** cancele la operación antes de confirmarla<br>**Entonces** el sistema revertirá la operación y cancelará el registro del nuevo cultivo<br>**Escenario 3: Sistema impide el registro de un nuevo cultivo debido a un error.**<br>**Dado** que el usuario intente registrar una nueva siembra<br>**Cuando** el sistema encuentre un error que impida el registro del cultivo<br>**Entonces** el sistema cancelará la operación e indicará el error al usuario</p>||
+|US02|Visualización de Registros|**Como** usuario de la aplicación, **Quiero** poder visualizar mis registros de cultivos **Para** evaluar su evolución.|<p>**Escenario 1: visualización de los registros de cultivos satisfactoriamente.**<br>**Dado** que el usuario desea evaluar la evolución de sus cultivos<br>**Cuando** acceda a la sección de registros de cultivos<br>**Entonces** se mostrará una lista de todos los cultivos previamente registrados por el usuario<br>**Escenario 2: No existen registros de cultivos.**<br>**Dado** que el usuario acceda a la sección de registros de cultivos<br>**Cuando** el usuario no tenga ningún cultivo registrado previamente<br>**Entonces** se mostrará un mensaje indicando que no hay registros de cultivos disponibles<br>**Escenario 3: Error al intentar visualizar sus registros de cultivos.**<br>**Dado** que el usuario intenta acceder a la sección de registros de cultivos<br>**Cuando** el sistema encuentre un error durante la recuperación o visualización de los registros de cultivos<br>**Entonces** se mostrará un mensaje de error al usuario, indicando que no es posible mostrar los registros en este momento, y se proporcionará una opción para intentar nuevamente más tarde o contactar al soporte técnico.</p> ||
+|US03|Editar registro de cultivo|**Como** usuario de la aplicación, **Quiero** poder editar mis registros de cultivos **Para** corregir errores.|<p>**Escenario 1: Registro editado satisfactoriamente.**<br>**Dado** que el usuario desee editar un registro<br>**Cuando** realice las modificaciones necesarias en los datos del registro<br>**Entonces** el sistema actualizará el registro con la información editada<br>**Escenario 2: Edición de registro cancelada**<br>**Dado** que el usuario está editando un registro de cultivo<br>**Cuando** el usuario decida cancelar la operación de edición antes de guardar los cambios<br>**Entonces** se descartarán los cambios realizados en el formulario y se mantendrá la información original del cultivo sin ninguna modificación.<br>**Escenario 3: Error al editar registro**<br>**Dado** que el usuario desee editar un registro<br>**Cuando** realice modificaciones en los datos del registro, pero el sistema entre en un estado de error<br>**Entonces** se indicará que la información no pudo ser procesada y se mostrará un mensaje de error</p>||
+|US04|Eliminar registro de cultivo|**Como** usuario de la aplicación, **Quiero** poder eliminar mis registros de cultivos **Para** mantener los registros relevantes.|<p>**Escenario 1: Usuario borra cultivo**<br>**Dado** que el administrador desee eliminar un cultivo<br>**Cuando** confirme su intención de borrar los datos<br>**Entonces** el sistema eliminará de la base de datos toda la información almacenada por ese cultivo</p>||
+|US05|Visualización de informes|**Como** usuario de la aplicación, **Quiero** poder generar informes basados en los datos registrados y visualizarlos **Para** tomar decisiones fundamentadas.|<p>**Escenario 1: Acceder a informes**<br>**Dado** que el usuario desee ver informes estadísticos<br>**Cuando** seleccione el informe deseado<br>**Entonces** el sistema mostrará un informe estadístico detallado</p>||
+|US06|Notificaciones sobre cosecha y cambios en fase fenológica de cultivos|**Como** usuario de la aplicación, **Quiero** recibir notificaciones y avisos cuando un cultivo se esté acercando a la cosecha o cuando su fase fenológica esté por cambiar, **Para** que pueda prepararme con los recursos necesarios de manera oportuna.|<p>**Escenario 1: Usuario recibe notificación sobre la proximidad de la cosecha.**<br>**Dado** que el usuario ha registrado un cultivo en la aplicación<br>**Cuando** el cultivo se acerca a su período de cosecha según los datos registrados y el sistema detecta esta situación<br>**Entonces** el sistema enviará una notificación al usuario, informándole sobre la proximidad de la cosecha y recordándole que prepare los recursos necesarios para este evento.<br>**Escenario 2: Usuario recibe notificación sobre cambio de fase fenológica del cultivo.**<br>**Dado** que el usuario ha registrado un cultivo en la aplicación<br>**Cuando** el cultivo se acerca a un cambio de fase fenológica significativo y el sistema detecta esta situación<br>**Entonces** el sistema enviará una notificación al usuario, indicándole el cambio próximo en la fase fenológica del cultivo y sugiriendo las acciones necesarias para prepararse adecuadamente</p>||
+|US07|Ver perfil de usuario|**Como** usuario registrado en la aplicación, **Quiero** poder ver mi perfil **Para** acceder a información relevante sobre mi cuenta.|<p>**Escenario 1: Usuario accede a su perfil satisfactoriamente.**<br>**Dado** que el usuario desea ver la información de su perfil<br>**Cuando** ingrese al su perfil de usuario<br>**Entonces** se mostrará la información relevante del usuario</p>||
+|US08|Editar perfil de usuario |**Como** usuario registrado en la aplicación, **Quiero** poder editar mi perfil **Para** mantener actualizada mi información personal.|<p>**Escenario 1: Usuario edita su perfil satisfactoriamente.**<br>**Dado** que el usuario registrado desea actualizar su información personal<br>**Cuando** el usuario realiza los cambios necesarios y confirma su intención de guardar los cambios<<br>**Entonces** la información actualizada se guarda correctamente en la base de datos y se refleja en el perfil del usuario.</p>||
+|US09|**Registrarme como cliente**|**Como** cliente **quiero** registrarme como usuario **para** utilizar los servicios que brinda la aplicación web con mis datos personales para acceder a las funciones exclusivas de mi suscripción.|<p>**Escenario 1**: El cliente se registró exitosamente<br>**Dado** que el cliente completó el registro en el aplicativo<br>**Cuando** este inicie sesión correctamente con su usuario y contraseña<br>**Entonces** el aplicativo muestra los diversos servicios y demás información sobre ellos</p>|**Registrar Usuario**|
+|US10|**Buscar los servicios que deseo utilizar**|**Como** cliente **quiero** buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio **para** aceder a las funciones d emnera mas rapida|<p>**Escenario 1:** Cliente busca el servicio de gestión<br>**Dado** que el usuario desea utilizar el servicio de gestión<br>**Cuando** lo encuentra dentro de los servicios brindados<br>**Entonces** lo selecciona y buscara la gestión de su huerto o la sección de esta especificando cual es esa sección de huerto y el estado de esta en la que se debería de encontrar.</p>|**Búsqueda**|
+|US11|**Comparar progresos o estado de un mismo producto y seleccionarlo**|**Como** cliente **quiero** buscar la mejor opción según las necesidades que tenga y elegiré según el progreso o el estado del producto según me convenga **para** tomar menores decisiones|<p>**Escenario 1: Cliente busca el servicio de progreso**<br>**Dado** que el cliente desee utilizar el servicio de progreso del huerto<br>**Cuando** este se encuentre dentro de la aplicación<br>**Entonces** se deberá de dirigir a este servicio y seleccionar los productos a comparar</p>|**Comparar**|
+|US12|**Comparar el producto ya antes elegido para buscarlo entre el historial de progresos que tuvo ese producto tiempo atrás**|**Como** cliente **quiero** tener mi producto ya seleccionado y especificado para buscarlo y compararlo con otros productos similares de otros huertos o del mismo con fechas o historial de estas **para** una evaluacion de esta con otra y ver como mejoara el huerto|<p>**Escenario 1: Cliente ingresa el producto elegido**<br>**Dado** que el cliente ingresa su producto en especifico<br>**Cuando** ya lo haya elegido y presionado un clic<br>**Entonces** el cliente podrá visualizar una lista de producto con su estados o progresos de otros huertos o del mismo donde haya existido ese producto</p>|**Comparación con cosechas anteriores**|
+|US13|**Guardar un historial de productos finalizados y redirigirlo a la opción de comparar**|**Como** cliente **quiero** guardar en un historial de búsqueda los productos que previamente he finalizado y buscarlo **para** poder compararlos con otros productos similares o simplemente tenerlo a la mano para una examinación profunda.|<p>**Escenario 1: Usuario accede a su historial de búsqueda**<br>**Dado** que el cliente desee buscar un producto<br>**Cuando** anteriormente lo haya inicializado y finalizado<br>**Entonces** podrá dirigirse al menú de historial de búsqueda y encontrará su búsqueda ordenada de más reciente a menos reciente .</p>|**Acceso al historial**|
+|US14|**Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario**|**Como** cliente **quiero** que pueda revisar el estado del producto elegido a lo largo del tiempo que inicio y finalice con el proyecto **para** así tener más criterio de tomar decisiones.|<p>**Escenario 1: Cliente mira la variación de estado **<br>**Dado** que el cliente desee ver la variación del estado de un producto<br>**Cuando** desee supervisar el progreso en el estado de esta<br>**Entonces** podrá ver la variación del estado en un cierto tiempo y podrá ver si es una buena o mala progresión del producto.</p>||
+|US15|**Planificación de cultivos**|**Como** usuario **quiero** contar con herramientas en que me ayuden con la rotación de los cultivos y disposición de plantas en el huerto **para** mejorar la productividad de mis cultivos|<p>**Escenario 1: Cliente organiza su huerto**<br>**Dado** que el cliente quiere un gestor que le ayude a gestionar su huerto<br>**Cuando** este ya tenga el cultivo(s) listos para su siembra<br>**Entonces** el usuario subirá el cultivo en el gestor y podrá acceder una variedad de herramientas que le ayuden a sobrellevarlo.</p>||
+|US16|**Contar con un sistema de recompensas y logros**|**Como** usuario **quiero** recibir reconocimiento con diferentes cosas que voy logrando, como plantar nuevos cultivos , mantenimiento de más tiempo de un huerto entre otros **para** tener una mejor experiencia en la web y asu vez que sea reconozido mis esfuerzos|<p>**Escenario 1: Cliente decide plantar un nuevo cultivo que no conoce**<br>**Dado** que el cliente va a plantar un nuevo cultivo<br>**Cuando** quiera salir de su rutina diaria de cultivos que ya conoce<br>**Entonces** el cliente registra este nuevo cultivo y la web le mostrara una recompensa o logro por cultivar algo nuevo en su huerto</p>||
+|US17|**Compatibilidad con otros dispositivos**|**Como** usuario **quiero** gestionar el huerto desde cualquier dispositivo **para** realizarlo en cualquier lugar y cuando quiera|<p>**Escenario 1: El usuario quiere actualizar su huerto desde su celular**<br>**Dado** que el usuario desea utilizar la web desde su celular<br>**Cuando** este en otro lugar donde no tenga acceso a una laptop o computadora<br>**Entonces** el navegador le mostrar la web para acceder a actualizar los datos del huerto del usuario</p>|****|
+|US18|**Integración con redes sociales**|**Como** usuario **quiero** compartir fotos , consejos y logro de mi huerto con amigos o familiares en las redes sociales **para** que vean mis logros con el cultivo|<p>**Escenario 1: El usuario quiere compartir lo que a logrado con su huerto o cultivo**<br>**Dado** que usuario quiere compartir sus logros<br>**Cuando** finalice un cultivo<br>**Entonces** se dirigirá a la opción de compartir en redes y seleccionara la red social en la cual quiera compartir su logro u otro</p>||
+|US19|**Comunidad y foros**|**Como** usuario **quiero** tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios **para** que me ayude con mi cultivo|<p>**Escenario 1: El usuario quiere recibir consejos de otros usuarios**<br>**Dado** que el usuario quiere tener más información<br>**Cuando** ingrese al foro general o de su comunidad<br>**Entonces** recopilará toda información que le sea útil para su huerto </p>||
+|US20|**Mercado de intercambio de productos**|**Como** usuario **quiero** ingresar a una sección donde pueda intercambiar , vender o comprar semillas, plantas o herramientas **para** poder generar ingresos u obtener lo que quiere de manera más rápida|<p>**Escenario 1: El usuario quiere obtener una nueva planta**<br>**Dado** que el usuario quiere cultivar una nueva planta en su huerto<br>**Cuando** decide cambiar de rutina<br>**Entonces** ingresara el mercado de la web y buscar lo que desea en esta</p>||
+
+
+**Technical Stories**
+
+|Technical Story ID | Título | Descripción | Criterios de aceptación |
+|-|-|:-:|:-:|
+| TS01               | Post Horticulturist    | **Como** desarrollador de la aplicación de Chaquitaclla <br> **Quiero** registrar a un nuevo horticultor mediante una API <br> **Para** visualizar los horticultor afiliados a nuestra aplicación | **Escenario 1:**<br> Dado que tengo acceso a la API de registro de horticultor<br> Cuando envío una solicitud de registro de datos validados del usuario<br> Entonces el horticultor se registra exitosamente en la base de datos y recibo una confirmación.<br><br> **Escenario 2:**<br> Dado que tengo acceso a la API de registro de horticultores<br> Cuando envío una solicitud de registro de datos inválidos del horticultor<br> Entonces la solicitud es rechazada y recibo un mensaje de error al registrar datos.
+| TS02               | Get Horticulturist     | **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** obtener la información de un horticultor mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.          | **Escenario 1:**<br> Dado que tengo acceso a la API para obtener la información del horticultor registrado<br> Cuando solicito la información de un horticultor regitrado<br> Entonces recibo la información del horticultor registrado adecuadamente.<br><br> **Escenario 2:**<br> Dado que tengo acceso a la API para obtener la información del horticultor registrado<br> Cuando solicito la información de un horticultor no regitrado<br> Entonces recibo el mensaje de error correspondiente a la entra inválida.||
+| TS03               | Post Farmer    | **Como** desarrollador de la aplicación de Chaquitaclla <br> **Quiero** registrar a un nuevo granjero mediante una API <br> **Para** visualizar los granjeros afiliados a nuestra aplicación | **Escenario 1:**<br> Dado que tengo acceso a la API de registro de granjero<br> Cuando envío una solicitud de registro de datos validados del granjero<br> Entonces el granjero se registra exitosamente en la base de datos y recibo una confirmación.<br><br> **Escenario 2:**<br> Dado que tengo acceso a la API de registro de granjero<br> Cuando envío una solicitud de registro de datos inválidos del granjero<br> Entonces la solicitud es rechazada y recibo un mensaje de error al registrar datos.
+| TS04               | Get Farmer     | **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** obtener la información de un granjero mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.          | **Escenario 1:**<br> Dado que tengo acceso a la API para obtener la información del granjero registrado<br> Cuando solicito la información de un granjero regitrado<br> Entonces recibo la información del granjero registrado adecuadamente.<br><br> **Escenario 2:**<br> Dado que tengo acceso a la API para obtener la información del granjero registrado<br> Cuando solicito la información de un granjero no regitrado<br> Entonces recibo el mensaje de error correspondiente a la entra inválida.||
+| TS05               | Post Crops      | **Como** desarrollador de la aplicación de Chaquitaclla <br> **Quiero** registrar un nuevo cultivo mediante una API <br> **Para** mantener el registro de los cultivos| **Escenario 1:**<br> Dado que tengo acceso a la API de registro de cultivos<br> Cuando solicito información sobre el nuevo cultivo<br> Entonces el cultuivo se registra en la base de datos satisfactoriamente y recibo un mensaje de confirmación de registro.<br><br> **Escenario 2:**<br> Dado que tengo acceso a la API de registro de cultivos<br> Cuando solicito información del nuevo cultivo registrado con datos inválidos<br> Entonces el pedido de solicitud no procede y aparece el mensaje de error pertinente al pedido.   ||
+| TS06               | Get Crops       |  **Como** desarrollador de la aplicación de Chaquitaclla <br> **Quiero** obtener información sobre un cultivo mediante una API <br> **Para** mostrar el cultivo en la aplicación al momento de ser solicitado. | **Escenario 1:**<br> Dado que tengo acceso a la API de registro de cultivos<br> Cuando solicito información sobre el nuevo cultivo<br> Entonces recibo los detalles del respectivo cultivo solicitado.<br><br> **Escenario 2:**<br>  Dado que tengo acceso a la API de registro de cultivos<br> Cuando solicito información sobre el nuevo cultivo y no se encuentra ninguno registrado<br> Entonces recibo el mensaje pertinente al no contar con ningún cultivo registrado ||
 
 
 
@@ -632,7 +679,7 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 ##### Logotipo del producto
 
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquitacllaLogoNuevo.png width="50%" height="50%">
+<img src="resources/ChaquitacllaLogoNuevo.png" width="50%" height="50%">
 
 ***Brand Name:***
 
