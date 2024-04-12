@@ -508,7 +508,7 @@ Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
 |<img src="resources/FotosoEntrevista/EntrevistaNoe.jpg">|Noe es un joven limeño de 24 años apasionado por la agricultura urbana, que reside en Lima. Cultiva en su hogar principalmente para tener acceso a alimentos frescos y saludables, y disfruta cada etapa del proceso, desde sembrar las semillas hasta cosechar los frutos de su esfuerzo. A pesar de su amor por la agricultura, Noe admite que a veces se enfrenta a dificultades debido a la falta de herramientas tecnológicas para gestionar sus cultivos. Esta carencia ocasionalmente resulta en olvidos o confusiones sobre los insumos necesarios para cada tipo de planta. Para monitorear el estado de sus cultivos, Noe confía en métodos tradicionales como la inspección visual de las hojas y los tallos, así como la evaluación de la humedad del suelo. Sin embargo, reconoce la importancia de la tecnología en la gestión agrícola y está dispuesto a invertir en herramientas digitales que puedan mejorar su eficiencia y aumentar la productividad de sus cultivos en el futuro.|
 |Duración entrevista: 5:55 minutos  |URL:[]|
 
-|Nombre entrevistado||
+|Nombre entrevistado|Eligsela Luna|
 |-|-|
 |Edad|48 años|
 |Departamento|Lima|
