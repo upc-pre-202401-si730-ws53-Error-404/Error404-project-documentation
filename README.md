@@ -819,4 +819,387 @@ En esta sección los usuarios podran ver las respuestas a una pregunta.
 <img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquiTaclla-Container.png>
 <div id = '4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams </h4> </div>
 
+<div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
+<div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
+<div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
+
+**Project Management**
+
+Para la organizacion del proyecto necesitabamos una planificación en cuanto a tareas asignadas, un punto de reunión y un repositorio donde trabajaramos en conjunto cada avance del proyecto, es por esto que elegimos las siguientes herramientas:
+
+* Centro de organización de trabajo: Github
+    
+* Planificación de tareas: Trello
+    
+* Reuniones con el equipo: Google Meet
+    
+**Requirements Management**
+
+Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.trello.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Product UX/UI Design**
+
+Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.figma.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Development**
+
+La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.jetbrains.com/idea/</td>
+        </tr>
+    </tbody>
+</table>
+
+HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
+        </tr>
+    </tbody>
+</table>
+
+CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las aplicaciones web.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.w3schools.com/css/css_intro.asp</td>
+        </tr>
+    </tbody>
+</table>
+
+Lenguaje empleado en la implementación del proyecto es TypeScript:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.typescriptlang.org/</td>
+        </tr>
+    </tbody>
+</table>
+
+
+**Software Testing**
+
+Gherkin es un sistema de etiquetado utilizado para detallar como se comporta el software de manera legible.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://cucumber.io/docs/gherkin/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Deployment**
+
+Se ha utilizado Github para desplegar la landing page con Github Pages:
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://pages.github.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Documentation**
+
+Se ha utilizado Github para alojar los distintos repositorios creados por los miembros del equipo para la colaboración en tiempo real mientras se codifican distintas áreas del proyecto.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://github.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link Landing Page:</td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td>Link Web Services: </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>Link Front Web Applications: </td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+
+**Flujo de trabajo GitFlow**
+
+<img src="https://nvie.com/img/git-model@2x.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
+
+Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
+ * Una rama de producción.
+ * Una rama de pruebas.
+ * Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+ * Ramas de features a implementar.
+ * Cada cambio en producción debe establecerse como una nueva versión.
+ * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
+   
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
+* **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+* **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+* **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
+* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
+* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
+
+Con cada deployment de la aplicación debe establecerse como una nueva versión.
+
+<div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
+
+Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
+
+**HTML:**
+* Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
+* Utilizar UTF-8.
+* Redacción en inglés.
+* En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
+* Terminar cada etiqueta con />.
+    
+**CSS:**
+* Width del body al 100%.
+* En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
+* Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
+* Separación de palabras con un guion "-".
+* Margin y padding en "*" con valor de 0.
+
+<div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
+
+### Lanzamiento del proyecto
+Ademáas de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github.
+
+Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
+![image]()
+
+Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL: 
+![image]()
+### Creación de ramas
+Para la creación de cada rama del proyecto seguiremos estos pasos:
+1. Seleccionar "View all branches":
+   ![image]()
+
+2. Click en "New Branch" y escribir el nombre de cada rama, luego crear nuevo branch:
+   ![image]()
+
+
+<div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
+<div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
+<div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>18/03/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>00:00 am</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>Error 404 Team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe, Fernando / Cantoral Paredes, Diego André</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Review Summary</td>
+            <td>Debido a que es el primer sprint, no hay reviews de un sprint anterior.</td>
+        </tr>
+        <tr>
+            <td>Sprint n – 1 Retrospective Summary</td>
+            <td>Siendo el primer sprint, se mencionará la expectativa de los miembros del equipo: Terminar las actividades antes de la crítica. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Diseñar e implementar una landing page, realizar el CRUD de cultivos.</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>13</td>
+        </tr>
+    </tbody>
+</table>
+<div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
+En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Para el registro de cada tarea utilizamos Trello.
+
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/f7741111-3af9-4e0a-9ffa-bf995583d8f5)
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 1</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="6">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </tbody>
+</table>
+<div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+||| 81d8d87 | cosados | cosados | 09/04/2024 |
+||| 82a41a7 | Merge pull request #1 from PaoloGuillen/checking | Merge pull request #1 from PaoloGuillen/checking | 09/04/2024 |
+||| 12104c4 | New images | New images | 09/04/2024 |
+
+
+<div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|||||||
+
+<div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+Seccion LogIn :
+
+<img src="resources/Mock/LogIn.png">
+
+Seccion Register:
+
+<img src="resources/Mock/Register.png">
+
+Seccion Anadir Control:
+
+<img src="resources/Mock/A%C3%B1adir%20Control.png">
+
+Seccion Anadir Cultivo:
+
+<img src="resources/Mock/A%C3%B1adir%20Cultivo.png">
+
+Seccion Anadir Producto:
+
+<img src="resources/Mock/A%C3%B1adir%20Producto.png">
+
+Seccion Controles:
+
+<img src="resources/Mock/Controles.png">
+
+Seccion Cuidado :
+
+<img src="resources/Mock/Cuidado.png">
+
+Seccion Enfermedades y plagas :
+
+<img src="resources/Mock/Enfermedades%20o%20Plagas.png">
+
+Seccion Suscripcion:
+
+<img src="resources/Mock/Suscripcion.png">
+
+<div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+
+
+<div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+![WhatsApp Image 2024-04-09 at 14 32 46](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/5ff712dd-bb6c-46a2-b43a-a7e3f89892d9)
+
+![WhatsApp Image 2024-04-09 at 14 32 53](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/7b91ad0c-45dc-4b60-bcf7-f86aee1ea160)
+
+![WhatsApp Image 2024-04-09 at 14 33 33](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/b9112774-6e64-4439-857b-b34483101cbf)
+
+
+<div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
+
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/bff5eb13-ec78-41f4-9f54-26a669c1aad4)
+
+![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/3f5856b3-4d41-4a52-a5f5-6a50787f44ed)
+
+<div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
+<div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
+<div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+<div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
+
+<div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
+
+<div id='6.'><h2>Conclusiones</h2></div>
+<div id='7.'><h2>Anexos</h2></div>
 
