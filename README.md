@@ -131,7 +131,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 
 ##### Logotipo de la Startup:
 
-<img src= 
+<img src="resources/LogoStartup.png" width="50%" height="50%">  
 
 ##### Logotipo del producto
 
