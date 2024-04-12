@@ -1012,11 +1012,31 @@ En esta sección los usuarios podran ver las respuestas a una pregunta.
 <img src="resources/Mock/Respuestas de consultas.png">
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
-<div id = '4.6.1'><h4> 4.6.1. Software Architecture Context Diagram </h4> </div>
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquiTaclla-SystemContext.png>
-<div id = '4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams </h4> </div>
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/ChaquiTaclla-Container.png>
-<div id = '4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams </h4> </div>
+El  Domain Driven Design (DDD) es un enfoque de diseño de software que se centra en comprender y modelar el dominio de negocio de una aplicación. Se basa en la idea de que el éxito de un software radica en su capacidad para reflejar fielmente este dominio, utilizando un lenguaje común entre expertos y desarrolladores. A través del modelado del dominio y la separación de la lógica del dominio de la infraestructura técnica, este enfoque garantiza que el software sea más comprensible, adaptable y alineado con las necesidades del negocio.
+<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
+El Diagrama de Contexto es una representación visual de alto nivel del sistema de software ChaquiTaclla. Muestra las interacciones del sistema con entidades externas, como otros sistemas y usuarios.
+<img src="resources/C4Imagenes/ChaquiTaclla-SystemContext.png">
+<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
+El diagrama de contenedores ofrece una representación de alto nivel de cómo se relacionan entre sí las aplicaciones y las fuentes de datos que forman parte del sistema de software ChaquiTaclla durante su ejecución.
+<img src="resources/C4Imagenes/ChaquiTaclla-SystemContainer.png">
+<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
+Los diagramas de componentes proporcionan una visión de las relaciones entre los principales componentes del sistema de software. Estos componentes describen la implementación detallada de los respectivos módulos del programa.
+
+**TB1** 
+**User Bounded Context**
+<img src="resources/C4Imagenes/ChaquiTaclla-Components-2.png">
+**Managment Crop Bounded Context**
+<img src="resources/C4Imagenes/ChaquiTaclla-Components.png">
+
+
+
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
+
+
+<div id='4.8.'><h3> 4.8. Database Design</h3></div>
+<div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
+<img src="resources/Chaquitaclla-database.png">
 
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
