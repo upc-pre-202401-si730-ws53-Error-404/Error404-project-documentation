@@ -728,7 +728,7 @@ Mientras que como startup, AgriCulture, busca ser reconocido como un equipo auto
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
 
 ***Brand Overview***
-Nuestra startup,[nombre] , tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
+Nuestra startup, Error 404 , tiene como misión ofrecer una solución integral de gestión agrícola. A diferencia de otras plataformas que se enfocan exclusivamente en el sector empresarial, nosotros también tenemos un fuerte enfoque en el público en general. Queremos ser la opción para todos: desde aquellos que se aventuran por primera vez en la agricultura hasta los más experimentados.
 Para lograrlo, hemos desarrollado una plataforma que organiza y simplifica la gestión de cultivos para nuestros usuarios. Cada cultivo se sigue a lo largo de su ciclo fenológico, y además, mantenemos registros históricos para determinar las temporadas óptimas de siembra y cosecha de diferentes insumos. Esto permite una trazabilidad efectiva y ayuda a nuestros usuarios a alcanzar sus metas a largo plazo.
 
 En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, democratizando el acceso a herramientas eficientes y fomentando el éxito de todos los involucrados.
@@ -744,7 +744,7 @@ Visión: ChaquiTaclla se direcciona a ser la plataforma mayormente reconocida en
 
 ##### Logotipo del producto
 
-<img src="resources/ChaquitacllaLoco.jpeg" width="50%" height="50%">
+<img src="resources/ChaquitacllaLogoNuevo.png" width="50%" height="50%">
 
 ***Brand Name:*** El nombre de nuestra propuesta de solución surge a partir de como se dice a la acción de arar la tierra con el pie en quechua, el cual "Chaquitaclla", si bien este nombre no suena como algo tecnológico, lo que más queremos transmitir a nuestros usuarios es una familiaridad y confianza. Brindando un nombre en quechua cuyo significado es simple de entender, da a los usuarios la confianza que sabemos sobre agricultura. Además que como nuestro producto es de origen peruano, confiamos que un nombre en quechua era lo más indicado para representar nuestro producto. 
 
