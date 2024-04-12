@@ -1041,15 +1041,6 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 
 
 
-
-<div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
-<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
-
-
-<div id='4.8.'><h3> 4.8. Database Design</h3></div>
-<div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
-<img src="resources/Chaquitaclla-database.png">
-
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
