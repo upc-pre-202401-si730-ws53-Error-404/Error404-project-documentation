@@ -119,8 +119,8 @@ del ABET – EAC - Student Outcome 5.
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Quispe, Fernando: TB1: |
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Quispe, Fernando: TB1: |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Quispe, Fernando: TB1:    Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Quispe, Fernando: TB1:     Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:|
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
