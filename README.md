@@ -644,6 +644,8 @@ El mock-up para la landing page en la vista del navegador web móvil incorpora l
 <img src="resources/Wireframes/Suscripcion.png">
 **Pasarela de pagos**
 <img src="resources/Wireframes/Pagar.png">
+**Mi Perfil**
+<img src="resources/Wireframes/Mi perfil.png">
 **Panel de control**
 <img src="resources/Wireframes/Panel de Control.png">
 **Lista de Cultivos**
@@ -683,6 +685,8 @@ El mock-up para la landing page en la vista del navegador web móvil incorpora l
 <img src="resources/Mock/Suscripcion.png">
 **Pasarela de pagos**
 <img src="resources/Mock/Pagar.png">
+**Mi Perfil**
+<img src="resources/Mock/Mi perfil.png">
 **Panel de control**
 <img src="resources/Mock/Panel de Control.png">
 **Lista de Cultivos**
