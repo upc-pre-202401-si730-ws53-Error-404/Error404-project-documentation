@@ -1011,6 +1011,8 @@ En esta sección los usuarios podran ver las respuestas a una pregunta.
 **Respuestas de consultas**
 <img src="resources/Mock/Respuestas de consultas.png">
 
+<div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 El  Domain Driven Design (DDD) es un enfoque de diseño de software que se centra en comprender y modelar el dominio de negocio de una aplicación. Se basa en la idea de que el éxito de un software radica en su capacidad para reflejar fielmente este dominio, utilizando un lenguaje común entre expertos y desarrolladores. A través del modelado del dominio y la separación de la lógica del dominio de la infraestructura técnica, este enfoque garantiza que el software sea más comprensible, adaptable y alineado con las necesidades del negocio.
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
@@ -1021,6 +1023,21 @@ El diagrama de contenedores ofrece una representación de alto nivel de cómo se
 <img src="resources/C4Imagenes/ChaquiTaclla-SystemContainer.png">
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 Los diagramas de componentes proporcionan una visión de las relaciones entre los principales componentes del sistema de software. Estos componentes describen la implementación detallada de los respectivos módulos del programa.
+
+**User Bounded Context**
+<img src="resources/C4Imagenes/ChaquiTaclla-Components-2.png">
+**Managment Crop Bounded Context**
+<img src="resources/C4Imagenes/ChaquiTaclla-Components.png">
+
+
+
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
+
+
+<div id='4.8.'><h3> 4.8. Database Design</h3></div>
+<div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
+<img src="resources/Chaquitaclla-database.png">
 
 **TB1** 
 **User Bounded Context**
