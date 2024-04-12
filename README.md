@@ -493,11 +493,65 @@ Teniendo en cuenta esto, ¿cuáles son nuestras fortalezas?
     <img src="resources/UserPersona_Jardineros.png">
    <p>IMAGEN USER PERSONA JARDINEROS. En este artefacto para Jardineros, tenemos la representación de el segmento de JARDINEROS.</p>  
 
-<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
-<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4></div>
+En esta sección se presentan las tareas que realizan los usuarios, teniendo en cuenta los segmentos de AGRICULTORES y JARDINEROS. A continuación se presentan las tareas de los usuarios con el artefacto de User Task Matrix.
+Teniendo la escala de importancia y frecuencia, se presentan las tareas de los usuarios. Definides en un rango de Bajo, Medio y Alto.
 
-<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4></div>
+SEGMENTO AGRICULTORES: 
+
+|              Tareas              | Importancia | Frecuencia |
+|:----------------:|:-----------:|:----------:|
+|       Registro de cultivos       |    Alta     |    Alta    |
+|      Monitoreo de cultivos       |    Alta     |    Alta    |
+|   Revisión de recomendaciones    |    Alta     |    Alta    |
+|     Revisión de estadísticas     |    Media    |   Media    |
+|     Revisión de trazabilidad     |    Media    |   Media    |
+| Revisión de procesos fenológicos |    Media    |   Media    |
+| Revisión de cuidados necesarios  |    Media    |   Media    |
+|       Revisión de calidad        |    Alta     |    Alta    |
+
+SEGMENTO JARDINEROS:
+
+|              Tareas              | Importancia | Frecuencia             |
+|:----------------:|:-----------:|:---------------------------------:|
+|       Registro de cultivos       |    Alta     | Alta|
+|      Monitoreo de cultivos       |    Alta     | Alta|
+|   Revisión de recomendaciones    |    Alta     | Alta|
+|     Revisión de estadísticas     |    Media    | Media|
+|     Revisión de trazabilidad     |    Media    | Media|
+| Revisión de procesos fenológicos |    Media    | Media|
+| Revisión de cuidados necesarios  |    Media    | Media|
+|       Revisión de calidad        |    Alta     | Media|
+
+</div>
+
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
+A continuación se presentan los viajes de los usuarios con el artefacto de User Journey Mapping.
+
+**SEGMENTO AGRICULTORES:**
+Aquí para el segmento de agricultores se presenta el viaje del usuario con la aplicación Chaquitaclla.
+<img src="resources/AgricultorJourneyMapping.png">
+
+**SEGMENTO JARDINEROS:**
+Aquí para el segmento de jardineros se presenta el viaje del usuario con la aplicación Chaquitaclla.
+<img src="resources/JardineroJourneyMapping.png">
+
+
+</div>
+
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
+En esta sección nosotros presentamos el artefacto de Empathy Mapping, donde se presentan las emociones, pensamientos y acciones de los usuarios.
+
+**SEGMENTO AGRICULTORES:**
+Aquí para el segmento de agricultores se presenta el Empathy Mapping.
+<img src="resources/AgricultorEmphatyMap.png">
+
+**SEGMENTO JARDINEROS:**
+Aquí para el segmento de jardineros se presenta el Empathy Mapping.
+<img src="resources/JardineroEmphatyMap.png">
+
+</div>
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
 
