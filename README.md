@@ -107,10 +107,20 @@ URL del repositorio del proyecto:
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
 
 ## Student Outcomes
+El curso contribuye al cumplimiento del Student Outcome ABET:
+<b>ABET – EAC - Student Outcome 5</b>
+
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|||
-|||
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Quispe, Fernando: TB1: |
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Quispe, Fernando: TB1: |
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
