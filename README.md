@@ -1,14 +1,12 @@
 <h1 style="text-align: center;"> Informe del TB1  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
-<img src=https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/blob/main/resources/UPCPng.png
-style="display: block; 
-width=50%"/>
+<img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
 <h4 style="text-align: center;"> Aplicaciones Web </h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
 <h4 style="text-align: center;"> WS53 </h4>
 <h4 style="text-align: center;"> Docente: Angel Augusto Velasquez Nuñez </h4>
-<h4 style="text-align: center;"> Startup:  </h4>
+<h4 style="text-align: center;"> Startup:  Error 404 </h4>
 <h4 style="text-align: center;"> Producto: Chaquitaclla  </h4>
 
 ## Team Members
@@ -26,6 +24,7 @@ width=50%"/>
 | 28/03/2024 | 1.0     |  Guillen Paolo  | Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula |
 | 31/03/2024 | 1.1     | Quispe Fernando |                       Capitulo 2 - Formulacion Preguntas Entrevistas                        |
 | 31/03/2024 | 1.2     | Diego Cantoral  |                             Desarrollo parcial del capítulo 1                               |
+| 10/04/2024 | 1.3     | Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Creación del figma para la creación de landing page y creación de los guidelines a seguir, análisis de las entrevistas realizadas y participación en la creación de la landing page en HTML| 
 
 
 ## Project Report Collaboration Insights
@@ -38,7 +37,7 @@ URL del repositorio del proyecto:
 |:------------------------------------------------------:|:-----------------------------------------------------------:|
 |               Guillen Luna, Paolo César                |                  Desarrollo de la carátula                  |
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
-|            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y descripción de startup          |
+|            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y descripción de startup|
 
 
 ***TB1 Github***
@@ -131,6 +130,8 @@ En resumen, nuestra misión es brindar una nueva opción en el mundo agrícola, 
 Mientras que como startup, AgriCulture, busca ser reconocido como un equipo autosustentable y capaz de brindar soluciones innovadoras en el campo de la agricultura moderna.
 
 ##### Logotipo de la Startup:
+
+<img src= 
 
 ##### Logotipo del producto
 
