@@ -1399,18 +1399,18 @@ Seccion Suscripcion:
 
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
 
-![WhatsApp Image 2024-04-09 at 14 32 46](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/5ff712dd-bb6c-46a2-b43a-a7e3f89892d9)
+![WhatsApp Image 2024-04-09 at 14 32 46]()
 
-![WhatsApp Image 2024-04-09 at 14 32 53](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/7b91ad0c-45dc-4b60-bcf7-f86aee1ea160)
+![WhatsApp Image 2024-04-09 at 14 32 53]()
 
-![WhatsApp Image 2024-04-09 at 14 33 33](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/b9112774-6e64-4439-857b-b34483101cbf)
+![WhatsApp Image 2024-04-09 at 14 33 33]()
 
 
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
-![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/bff5eb13-ec78-41f4-9f54-26a669c1aad4)
+![image]()
 
-![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/3f5856b3-4d41-4a52-a5f5-6a50787f44ed)
+![image]()
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
