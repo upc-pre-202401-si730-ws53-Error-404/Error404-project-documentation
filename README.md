@@ -313,7 +313,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
-||Chaquitaclla <img src='resources/ChaquitacllaLogo.jpeg' width="50" height="50"> |AgroSmart <img src='resources/images.jpeg' width="50" height="50">|Cropin <img src='resources/cropin.jpg' width="50" height="50">|DKALB <img src='resources/unnamed.jpg' width="50" height="50">|
+||Chaquitaclla <img src='resources/ChaquitacllaLogoNuevo.png' width="50" height="50"> |AgroSmart <img src='resources/images.jpeg' width="50" height="50">|Cropin <img src='resources/cropin.jpg' width="50" height="50">|DKALB <img src='resources/unnamed.jpg' width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|
 |Overview|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas. |Software agricola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|
 |Ventajas Competitivas|Registro avanzado y monitoreo de las fases fenológicos de los cultivos|Posee un monitoreo de datos en cada proceso del ambito agrícola.|Soluciones en la nube, implementación de IA.|Antigüedad en el mercado y desarrollada por la empresa BAYER, además de enfoque exclusivo sobre productos con base de maíz |
