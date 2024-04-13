@@ -881,19 +881,25 @@ A continuación, les mostramos el mockup actualizado de nuestra página de inici
 El mock-up para la landing page en la vista del navegador web móvil incorpora la misma estructura de los wireframes y las mismas secciones mencionados anteriormente. 
 
 <div> 
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png" width="30%" height="30%">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png" width="30%" height="30%">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png" width="30%" height="30%">
+</div>
+<div>
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png" width="30%" height="30%">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 5.png" width="30%" height="30%">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 6.png" width="30%" height="30%">   
+</div>
+<div>
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 7.png" width="30%" height="30%">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 8.png" width="30%" height="30%">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 9.png" width="30%" height="30%">
+</div>
+<div>
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 10.png" width="30%" height="30%">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 11.png" width="30%" height="30%">
 </div>
 
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 5.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 6.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 7.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 8.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 9.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 10.png">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 11.png">
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 
