@@ -343,92 +343,89 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
   
 A partir del análisis competitivo realizado se logró identificar las fortalezas, debilidades, oportunidades y amenazas destacadas en los competidores. Esta información adquirida es esencial para trazar estrategias y tácticas para diferenciarnos de nuestros competidore. A continuación se brindará tanto estrategias como tácticas para alcanzar esta meta:
 
-**Fortalezas de nuestros competidores**
 
- * Amplia variedad de cultivos con los que trabajar y gestionar adecuadamente.
- * Cálculos estables basadas en herramientas estadísticas.
- * Todos cuenta con un tiempo de más de dos años como mínimo en el mercado agrícola.
 
-Teniendo en cuenta esto, ¿cuáles son nuestras fortalezas?
+**Fortalezas de nuestros competidores:**
 
- * Registro y monitoreo de los cultivos de forma eficiente, siguiente cada fase fenológica independientemente del cultivo.
- * Accesibilidad, nuestros competidores se enfocan en brindar sus productos únicamente a empreas, nosotros a un público más general.
+- Amplia variedad de cultivos con los que trabajar y gestionar adecuadamente.
+- Cálculos estables basados en herramientas estadísticas.
+- Todos cuentan con un tiempo de más de dos años como mínimo en el mercado agrícola.
 
- Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
+**Estrategias y tácticas para nuestras fortalezas:**
 
-**Estrategias**
-  
-  * Brindar al usuario las herramientas que necesita para el correcto cultivo de su cultivo.
+**Estrategias:**
+- Desarrollar una plataforma que abarque una amplia gama de cultivos y procesos agrícolas.
+- Implementar algoritmos avanzados y herramientas estadísticas para mejorar el análisis y la gestión de cultivos.
+- Centrarse en la construcción de una marca sólida y establecer relaciones a largo plazo con los clientes.
 
-**Tácticas**
+**Tácticas:**
+- Realizar investigaciones de mercado para identificar las necesidades específicas de los agricultores y adaptar nuestra plataforma en consecuencia.
+- Ofrecer servicios de asesoramiento y soporte técnico para garantizar que los usuarios aprovechen al máximo nuestra plataforma.
+- Utilizar estrategias de marketing dirigidas para llegar a diferentes segmentos de clientes y destacar nuestras fortalezas en cada uno.
 
-  * Incluir herramientas de recomendaciones según el proceso fenológico por el cual el cultivo del usuario esté pasando.
 
-**Debilidades de nuestros competidores**
 
- Nuestros competidores no ofrecen un producto perfecto, algunos se enfocan en solo un tipo de producto y otros tienen precios elevados.
+**Debilidades de nuestros competidores:**
 
-  * Centralización de un solo producto.
-  * Poca personalización para registrar los cultivos. 
-  * Localización restringida únicamente a una región en el mundo.
-  * Interfaz poco intuitiva
+- Centralización de un solo producto.
+- Poca personalización para registrar los cultivos.
+- Localización restringida únicamente a una región en el mundo.
+- Interfaz poco intuitiva.
 
-Teniendo en cuenta esto, ¿cuáles son nuestras debilidades?
+**Estrategias y tácticas para nuestras debilidades:**
 
- * Enfoque solo en el proceso de gestión de los cultivos
+**Estrategias:**
+- Diversificar nuestra oferta de productos para abarcar diferentes aspectos del ciclo agrícola.
+- Mejorar la personalización y adaptabilidad de nuestra plataforma para satisfacer las necesidades específicas de cada usuario.
+- Expandir nuestra presencia global mediante la localización y la traducción de la plataforma en varios idiomas.
 
- Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
- 
-**Estrategias**
- 
-  * Mantener actualizaciones de los cultivos a registrar de forma constante y brindar una personalización más amplia a los usuarios para sus registros.
+**Tácticas:**
+- Desarrollar nuevas funciones y módulos para nuestra plataforma que aborden las áreas de debilidad identificadas.
+- Realizar pruebas de usabilidad y obtener comentarios de los usuarios para mejorar la interfaz y la experiencia del usuario.
+- Establecer asociaciones y alianzas estratégicas con empresas locales en diferentes regiones para facilitar la entrada en nuevos mercados.
 
-  **Tácticas**
 
-  * Implementar un sistema de reseñas donde el usuario pueda indicarnos si el cultivo que quiere registrar se encuentra o no en la plataforma. 
-  * Proporcionar un video guía o una sucesión de imágenes para utilizar nuestro producto.
+Por supuesto, aquí continúo:
 
-**Oportunidades de nuestros competidores**
 
-* Implementación o mejora de su interfaz visual de la aplicación.
-* Expandir su visión de producto a mercados emergentes.
-* Implementar nuevas tecnologías como la IA al proceso de gestión. 
+**Oportunidades de nuestros competidores:**
 
-Teniendo en cuenta esto, ¿cuáles son nuestras oportunidades?
+- Implementación o mejora de su interfaz visual de la aplicación.
+- Expandir su visión de producto a mercados emergentes.
+- Implementar nuevas tecnologías como la IA al proceso de gestión.
 
- * Captar a agricultores profesionales así como amateurs con nuestra aplicación que contiene las últimas tendencias agrícolas.
+**Estrategias y tácticas para nuestras oportunidades:**
 
- Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
+**Estrategias:**
+- Enfocarse en la innovación continua y la mejora de la experiencia del usuario.
+- Identificar y aprovechar oportunidades de crecimiento en mercados emergentes.
+- Integrar tecnologías emergentes, como la inteligencia artificial, para mejorar la funcionalidad y la eficiencia de nuestra plataforma.
 
-**Estrategias**
+**Tácticas:**
+- Realizar investigaciones de mercado en mercados emergentes para comprender las necesidades y preferencias de los agricultores locales.
+- Establecer alianzas estratégicas con empresas de tecnología para acceder a nuevas tecnologías y recursos.
+- Desarrollar e implementar nuevas características y funcionalidades basadas en tecnologías emergentes para diferenciarnos en el mercado y satisfacer las demandas de los usuarios.
 
-* Captar tanto agricultores amateurs como profesionales con una interfaz amigable.
 
-**Tácticas**
+**Amenazas de nuestros competidores:**
 
-* Aprovechar nuestros conocimientos de la psicología del color para la creación de la interfaz.
+- Aparición de soluciones más elaboradas.
+- Aparición de nuevas tecnologías y no conocer cómo implementarlas.
+- Cambios en la tendencia de la agricultura.
 
-**Amenazas de nuestros competidores**
+**Estrategias y tácticas para nuestras amenazas:**
 
-* Aparición de soluciones más elaboradas. 
-* Aparición de nuevas tecnologías y no conocer como implementarlas. 
-* Cambios en la tendencia de la agricultura.
+**Estrategias:**
+- Mantenerse al día con las últimas tecnologías y tendencias del mercado.
+- Enfocarse en la mejora continua y la innovación para diferenciarse de la competencia.
 
-Teniendo en cuenta esto, ¿cuáles son nuestras amenazas?
+**Tácticas:**
+- Capacitarse en las nuevas tecnologías relevantes para la agricultura y en su implementación efectiva.
+- Realizar investigaciones de mercado y análisis de tendencias para anticipar y adaptarse a los cambios en la industria agrícola.
+- Establecer alianzas estratégicas con empresas de tecnología y expertos en agricultura para aprovechar su conocimiento y experiencia.
 
- * Aparición de soluciones más completas y con herramientas más modernas y actualizadas.
 
- Por lo tanto, podemos aplicar ciertas estrategias y tácticas:
 
-**Estrategias**
-
-* Capacitarnos en las últimas tecnologías con las que trabaja nuestra aplicación.
-* Implementar funciones que simplifiquen la experiencia de usuario.
-
-**Tácticas**
- 
- * Mantener la aplicación constantemente actualizada con las últimas versiones de las tecnologías utilizadas.
- * Preguntar a los usuarios mediante encuestas en la aplicación sobre que cambios en la tendencia de la agricultura han visto que le gustaría ver reflejado en la aplicación.
  
   <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
   
