@@ -861,15 +861,22 @@ A continuación, se presenta nuestra landing page vista desde el desktop web bro
 **Landing Page Wireframe Mobile**<br>
 A continuación, se presenta la landing page vista desde el mobile web browser. Esta incluye los mismos contenidos que el diseño desktop web browser, pero adaptados a las dimensiones del dispositivo móvil.
 
-<img src='resources/Landing-Wireframes-Mobile/13 Pro - 1.png'>
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 2.png">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 3.png">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 4.png">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 5.png">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 6.png">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 7.png">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 8.png">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 9.png">
+<div>
+<img src='resources/Landing-Wireframes-Mobile/13 Pro - 1.png' width="30%" height="30%">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 2.png" width="30%" height="30%">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 3.png" width="30%" height="30%">    
+</div>
+<div>
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 4.png" width="30%" height="30%">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 5.png" width="30%" height="30%">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 6.png" width="30%" height="30%">   
+</div>
+<div>
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 7.png" width="30%" height="30%">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 8.png" width="30%" height="30%">
+<img src="resources/Landing-Wireframes-Mobile/13 Pro - 9.png" width="30%" height="30%">    
+</div>
+
 
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 
