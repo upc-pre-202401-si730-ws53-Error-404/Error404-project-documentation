@@ -105,6 +105,26 @@ URL del repositorio del proyecto:
 4.8. [***Database Design***](#4.8.)<br>
 4.8.1. [Database Diagram](#4.8.1.)<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#5.)<br>
+5.1. [Software Configuration Management](#5.1.)<br>
+5.1.1. [Software Development Environment Configuration](#5.1.1.)<br>
+5.1.2. [Source Code Management](#5.1.2.)<br>
+5.1.3. [Source Code Style Guide & Conventions](#5.1.3.)<br>
+5.1.4. [Software Deployment Configuration](#5.1.4.)<br>
+5.2. [Landing Page, Services & Applications Implementation](#5.2.)<br>
+5.2.1. [Sprint 1](#5.2.1.)<br>
+5.2.1.1. [Sprint Planning 1](#5.2.1.1.)<br>
+5.2.1.2. [Sprint Backlog 1](#5.2.1.2.)<br>
+5.2.1.3. [Development Evidence for Sprint Review](#5.2.1.3.)<br>
+5.2.1.4. [Testing Suite Evidence for Sprint Review](#5.2.1.4.)<br>
+5.2.1.5. [Execution Evidence for Sprint Review](#5.2.1.5.)<br>
+5.2.1.6. [Services Documentation Evidence for Sprint Review](#5.2.1.6.)<br>
+5.2.1.7. [Software Deployment Evidence for Sprint Review](#5.2.1.7.)<br>
+5.2.1.8. [Team Collaboration Insights during Sprint](#5.2.1.8.)<br>
+6. [**Conclusiones**](#6.)<br>
+7. [**Bibliografía**](#7.)<br>
+8. [**Anexos**](#8.)<br>
+
+
 
 ## Student Outcomes
 El curso contribuye al cumplimiento del Student Outcome ABET:
@@ -1743,5 +1763,9 @@ Landing page: https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPage
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
 <div id='6.'><h2>Conclusiones</h2></div>
-<div id='7.'><h2>Anexos</h2></div>
+
+<div id='7.'><h2>Bibliografía</h2></div>
+
+<div id='8.'><h2>Anexos</h2></div>
+
 
