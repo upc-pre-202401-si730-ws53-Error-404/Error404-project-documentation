@@ -505,21 +505,21 @@ Por supuesto, aquí continúo:
 |Edad|42 años|
 |Departamento|Tumbes|
 |<img src="resources/FotosoEntrevista/entrevistaAgricultorMedina.jpeg">|Clever Medina, un agricultor residente en el departamento de Tumbes, se especializa en los cultivos de cacao y limón. Aunque su ocupación actual es la agricultura, también posee conocimientos en mecatrónica. Clever gestiona sus cultivos basándose en su experiencia en el campo. Sin embargo, enfrenta dificultades cuando los cultivos no crecen como esperaría. En esos momentos, recurre a información encontrada en Google y sigue los pasos recomendados, en caso la información encontrada no sirva en la práctica, esto resulta en pérdidas económicas y de tiempo para Clever. Al mencionarle sobre la propuesta y preguntarle si él cree que les haría un beneficio a él y a sus compañeros agricultores dice lo siguiente: "Claro, pues como te mencione, como agricultor quiero mejorar la calidad de mis cultivos y si existiese una aplicación de ese tipo y las recomendaciones que brinda me aseguran que podría mejorar la calidad, no solo me ayudaría económicamente sino que también me ayudaría a ahorrar tiempo y así podría mejorar otros aspectos de mis cultivos"|
-|Duración entrevista: 16:15  |URL: []|
+|Duración entrevista: 00:00-16:03 |URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?e=MyrpUg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D]|
 
 |Nombre entrevistado|Paulino Guillen|
 |-|-|
-|Edad|78 años|
+|Edad|79 años|
 |Departamento|Lima|
 |<img src="resources/FotosoEntrevista/entrevistaPaulino.png">|Paulino, agricultor profesional jubilado de la región de Ayacucho, menciona que en sus tiempos no hacían uso de registros manuales, ni siquiera en papel, principalmente por problemas de analfabetismo en su región. Al preguntarle por sobre como se encuentra sus cultivos y compañeros actualmente, menciona que lo más probable es que hayan adoptado tecnología, pero de la más simple, como celulares. Paulino habla sobre como sus colegas que siguen en la chacra usan el internet para resolver ciertas dudas que ellos tengan respecto a sus cultivos. Al hacerle saberle de la propuesta, Paulino menciona que seguramente sería muy útil, siempre y cuando se les asesore a los agricultores de forma correcta.|
-|Duración entrevista:   ||
+|Duración entrevista: 16:04-24:45  | URL[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBibAEYkjZttC6F5Bzjx7hwQ?e=dSkdrx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTY0LjgxfX0%3D]|
 
 |Nombre entrevistado| Eloy Cantoral|
 |-|-|
 |Edad|65 años|
 |Departamento|Lima|
 |<img src="resources/FotosoEntrevista/EntrevistaEloy.PNG">|Eloy Cantoral es un agricultor de alta experiencia que se especializa en el cultivo de legumbres, frutas y verduras en la zona de Saisa, en Ayacucho. Durante la entrevista, indicó que el proceso de realizar la agricultura ha cambiado mucho a través del tiempo y que actualmente es necesario que se lleve de la mano con la tecnología. Enfatiza que contar con una aplicación que les ayude a gestionar más sus cultivos, por lo que está totalmente dispuesto a contar con una herramienta de software que añade capas de profundidad al análisis y mantenimiento de los sembríos.|
-|Duración entrevista: 13 minutos|URL: []|
+|Duración entrevista: 24:46-38:05  |URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBibAEYkjZttC6F5Bzjx7hwQ?e=GB6Pa3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTQ4Ni44Mn19]|
 
  ***Entrevistas a jardineros en casa***
 
@@ -528,21 +528,21 @@ Por supuesto, aquí continúo:
 |Edad| 20 años|
 |Departamento|Lima|
 |<img src="resources/FotosoEntrevista/EntrevistaJosue.PNG">|Daniel Valverde es un jardinero aficionado que cuenta con un pequeño huerto en el ático de su casa y que en sus tiempos libres cuida de sus cultivos. No cuenta con herramientas tecnológicas o físicas tan sofisticadas o de gran uso, bastándose de una libreta para sus registros y de simples macetas para sus cultivos. Estaría muy dispuesto de contar con una aplicación que le ayuda profesionalizar un poco más los sembríos que tiene y manejar de manera más inteligente sus registros. |
-|Duración entrevista: 6:52 minutos  | URL: []|
+|Duración entrevista: 38:06-44:57  | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBibAEYkjZttC6F5Bzjx7hwQ?e=nJoywF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjI4Ni43Nn19]|
 
 |Nombre entrevistado|Noe Sánchez|
 |-|-|
 |Edad|24|
 |Departamento|Lima|
 |<img src="resources/FotosoEntrevista/EntrevistaNoe.jpg">|Noe es un joven limeño de 24 años apasionado por la agricultura urbana, que reside en Lima. Cultiva en su hogar principalmente para tener acceso a alimentos frescos y saludables, y disfruta cada etapa del proceso, desde sembrar las semillas hasta cosechar los frutos de su esfuerzo. A pesar de su amor por la agricultura, Noe admite que a veces se enfrenta a dificultades debido a la falta de herramientas tecnológicas para gestionar sus cultivos. Esta carencia ocasionalmente resulta en olvidos o confusiones sobre los insumos necesarios para cada tipo de planta. Para monitorear el estado de sus cultivos, Noe confía en métodos tradicionales como la inspección visual de las hojas y los tallos, así como la evaluación de la humedad del suelo. Sin embargo, reconoce la importancia de la tecnología en la gestión agrícola y está dispuesto a invertir en herramientas digitales que puedan mejorar su eficiencia y aumentar la productividad de sus cultivos en el futuro.|
-|Duración entrevista: 5:55 minutos  |URL:[]|
+|Duración entrevista: 44:58-50:53  |URL:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBibAEYkjZttC6F5Bzjx7hwQ?e=0ihsrE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY5OC41MX19]|
 
 |Nombre entrevistado|Eligsela Luna|
 |-|-|
 |Edad|48 años|
 |Departamento|Lima|
 |<img src="resources/FotosoEntrevista/entrevistaEligsela.png">|Eligsela es una contadora que reside en Lima y que está muy familiarizada con la tecnología, entre sus pasatiempo principales se encuentra la jardinería, recientemente se incursionó a nuevos cultivos, como fresas y zanahorias. A pesar de tener conocimientos en jardinería, ella desconocía sobre como tratar correctamente estos nuevos cultivos, por lo tanto terminaron en un fracaso. Eligsela menciona que nunca tuvo la necesidad de gestionar sus cultivos puesto que al tener internet, buscando las soluciones a sus problemas respecto a los cultivos por este medio, sin embargo cabe recalcar que menciona que a veces se olvida de regar su jardín por su agenda tan agitada. Al mencionar la propuesta, menciona que si la adoptaría siempre y cuando esta le brinde la certeza que sus cultivos serán fructiferos. Dentro de lo que estaría a pagar menciona un precio de 500 soles anual o 50 soles a menos mensualmente.|
-|Duración entrevista:|URL:[]|
+|Duración entrevista: 50:54-58:53 |URL:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBibAEYkjZttC6F5Bzjx7hwQ?e=h1CWtd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA1My43Mn19]|
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 
@@ -1767,5 +1767,9 @@ Landing page: https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPage
 <div id='7.'><h2>Bibliografía</h2></div>
 
 <div id='8.'><h2>Anexos</h2></div>
+
+* **Entrevistas:**[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?e=2fdRiQ]
+
+
 
 
