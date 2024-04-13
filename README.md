@@ -862,19 +862,19 @@ A continuación, se presenta nuestra landing page vista desde el desktop web bro
 A continuación, se presenta la landing page vista desde el mobile web browser. Esta incluye los mismos contenidos que el diseño desktop web browser, pero adaptados a las dimensiones del dispositivo móvil.
 
 <div>
-<img src='resources/Landing-Wireframes-Mobile/13 Pro - 1.png' width="30%" height="30%">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 2.png" width="30%" height="30%">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 3.png" width="30%" height="30%">    
+    <img src='resources/Landing-Wireframes-Mobile/13 Pro - 1.png' width="30%" height="30%">
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 2.png" width="30%" height="30%">
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 3.png" width="30%" height="30%">    
 </div>
 <div>
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 4.png" width="30%" height="30%">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 5.png" width="30%" height="30%">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 6.png" width="30%" height="30%">   
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 4.png" width="30%" height="30%">
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 5.png" width="30%" height="30%">
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 6.png" width="30%" height="30%">   
 </div>
 <div>
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 7.png" width="30%" height="30%">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 8.png" width="30%" height="30%">
-<img src="resources/Landing-Wireframes-Mobile/13 Pro - 9.png" width="30%" height="30%">    
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 7.png" width="30%" height="30%">
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 8.png" width="30%" height="30%">
+    <img src="resources/Landing-Wireframes-Mobile/13 Pro - 9.png" width="30%" height="30%">    
 </div>
 
 
@@ -888,23 +888,23 @@ A continuación, les mostramos el mockup actualizado de nuestra página de inici
 El mock-up para la landing page en la vista del navegador web móvil incorpora la misma estructura de los wireframes y las mismas secciones mencionados anteriormente. 
 
 <div> 
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png" width="30%" height="30%">
 </div>
 <div>
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 5.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 6.png" width="30%" height="30%">   
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 5.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 6.png" width="30%" height="30%">   
 </div>
 <div>
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 7.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 8.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 9.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 7.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 8.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 9.png" width="30%" height="30%">
 </div>
 <div>
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 10.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 11.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 10.png" width="30%" height="30%">
+    <img src="resources/Landing-Mock-Mobile/13 Pro - Color 11.png" width="30%" height="30%">
 </div>
 
 
@@ -913,6 +913,7 @@ El mock-up para la landing page en la vista del navegador web móvil incorpora l
 
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
 
+**Web Applications Wireframe Desktop Web Browser**<br>
 **Inicar Sesión**<br>
 En el siguiente wireframe se muestra la sección "Iniciar sesión", donde nuestros usuarios podrán ingresar los datos necesarios para acceder a la aplicación, siempre y cuando cuenten con una cuenta previamente creada.
 <img src="resources/Wireframes/LogIn.png">
@@ -985,10 +986,20 @@ En la sección "Añadir Controle o Insumo" los usuarios tiene que llenar los par
 En esta sección los usuarios podran ver las respuestas a una pregunta.
 <img src="resources/Wireframes/Respuestas de consultas.png">
 
+**Web Applications Wireframe Mobile**<br>
+<div>
+    
+</div>
+
+
+
+
+
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
+**Web Applications Mock-ups Desktop Web Browser**<br>
 **Iniciar sesión**<br>
 En el siguiente wireframe se muestra la sección "Iniciar sesión", donde nuestros usuarios podrán ingresar los datos necesarios para acceder a la aplicación, siempre y cuando cuenten con una cuenta previamente creada.
 <img src="resources/Mock/LogIn.png">
@@ -1081,6 +1092,53 @@ En esta sección se muestra todas las consultas que ha realizado cada usuario de
 **Respuestas de consultas**<br>
 En esta sección los usuarios podran ver las respuestas a una pregunta.
 <img src="resources/Mock/Respuestas de consultas.png">
+
+**Web ApplicationsMock-ups Mobile**<br>
+<div>
+    <img src="resources/mobileMocksWeb/LogIn-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Register-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Suscripcion-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Pagar-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Mi perfil-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Panel de Control-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Menu-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Menu-Mobile-Mock-1.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Lista de cultivos en curso-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Lista de cultivos en curso-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Añadir Cultivo-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Informacion General-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Informacion Genera Menul-Mobile-Mock.png.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Cuidado-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Controles-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Añadir Control-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Enfermedades o Plagas-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Productos Consumidos-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Añadir Producto-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Historico de Cultivos-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Exportacion de Controles-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Exportacion de Productos Consumidos-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Reporte estadístico-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Foro de Consulta-Mobile-Mock.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileMocksWeb/Nueva consulta-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Mis Consultas-Mobile-Mock.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Respuestas de consultas-Mobile-Mock.png" width="30%" height="30%">
+</div>
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
