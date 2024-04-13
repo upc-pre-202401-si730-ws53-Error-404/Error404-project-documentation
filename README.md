@@ -1093,7 +1093,7 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
-<img src="resources/Chaquitaclla-database.png">
+<img src="resources/ChaquitacllaDatabase.png">
 
 
 
