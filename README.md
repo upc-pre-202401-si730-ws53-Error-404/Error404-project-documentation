@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Informe del TB1  </h1>
+![image](https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/assets/129306198/9b546933-0ff4-4f0d-94c5-000f415e69d9)<h1 style="text-align: center;"> Informe del TB1  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
@@ -335,7 +335,7 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 |**Precios & Costos**|Precio basado en suscripción.|Basado en suscripción.|Basado en el tamaño de la operación, suscripción mensual.|Precios personalizados a diferentes países.|Modelo de precios adaptable a las necesidades del cliente, desde suscripciones básicas hasta planes personalizados.|
 |**Canales de distribución (WEB y/o Móvil)**|Plataforma web.|Plataforma web y aplicación móvil.|Plataforma web y aplicación móvil.|Aplicación móvil.|Plataforma web y aplicación móvil para una accesibilidad total desde cualquier dispositivo.|
 |**Fortalezas**|Monitoreo de última generación para la gestión agrícola.|Abarca toda la cadena de cultivos agrícolas.|Análisis apoyados con herramientas como la IA.|Personalización de las soluciones en maíz.|Enfoque en la innovación tecnológica, atención al cliente y una aplicación más simple y sencilla de entender que los competidores.|
-|**Debilidades**|Enfoque solo en el proceso de producción.|Enfocado en los agricultores amateurs, precio elevado.|Capacitación para sacar el máximo provecho de la plataforma.|Centralización en un solo tipo de producto.|Dependencia de la conectividad y la infraestructura tecnológica.|
+|**Debilidades**|Enfoque solo en el proceso de producción.|Enfocado en los agricultores amateurs, precio elevado.|Capacitación para sacar el máximo provecho de la plataforma.|Centralización en un solo tipo de producto.|Dependencia de la conectividad y la infraestructura tecnológica. *Enfocado únicamente en el sector empresarial agrónomo|
 |**Oportunidades**|Captar a los agricultores amateurs que inician en el mundo de la agricultura.  * Brindar una herramienta digital simple de entender a agricultores profesionales cuyo conocimiento en tecnología sea básico.|Expansión de mercados emergentes con enfoque en la agricultura sostenible completa.|Auge actual de las tecnologías basadas en IA.|Crecimiento del comercio electrónico en los países de Latinoamérica.|Innovación continua y adaptación a las necesidades cambiantes del mercado agrícola.|
 |**Amenazas**|Aparición de soluciones más completas, aplicaciones son herramientas más actualizadas.|Aparición de soluciones más elaboradas.|Aparición de diversas soluciones de IA.|Cambios en las tendencias de consumo de los clientes.|Competencia creciente en el sector de tecnología agrícola y cambios regulatorios en la industria.|
 
