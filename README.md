@@ -988,7 +988,43 @@ En esta sección los usuarios podran ver las respuestas a una pregunta.
 
 **Web Applications Wireframe Mobile**<br>
 <div>
-    
+    <img src="resources/mobileWireframesWeb/LogIn-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Register-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Suscripcion-Mobile-Wireframe.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileWireframesWeb/Pagar-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Mi perfil-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Panel de Control-Mobile-Wireframe.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileWireframesWeb/Menu-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Menu-Mobile-Wireframe-1.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Lista de cultivos en curso-Mobile-Wireframe.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileWireframesWeb/Añadir Cultivo-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Informacion General-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Informacion Genera Menul-Mobile-Wireframe.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileWireframesWeb/Cuidado-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Controles-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Añadir Control-Mobile-Wireframe.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileWireframesWeb/Enfermedades o Plagas-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Historico de Cultivos-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Exportacion de Controles-Mobile-Wireframe.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileWireframesWeb/Reporte estadístico-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Foro de Consulta-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Nueva consulta-Mobile-Wireframe.png" width="30%" height="30%">
+</div>
+<div>
+    <img src="resources/mobileWireframesWeb/Mis Consultas-Mobile-Wireframe.png" width="30%" height="30%">
+    <img src="resources/mobileWireframesWeb/Respuestas de consultas-Mobile-Wireframe.png" width="30%" height="30%">
 </div>
 
 
