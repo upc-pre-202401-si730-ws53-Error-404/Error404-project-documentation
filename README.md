@@ -1040,10 +1040,12 @@ En esta sección, los usuarios podrán visualizar los registros de los cultivos 
 <img src="resources/Mock/Historico de Cultivos.png">
 
 **Exportacion Controles**<br>
-<img src="resources/Mock/Exportacion Controles.png">
+En esta sección se muestra la opción de exportar los controles registrados del usuario a lo largo de su uso en la aplicación mediante el botón "Export"
+<img src="resources/Mock/Exportacion de Controles.png">
 
 **Exportacion Productos Consumidos**<br>
-<img src="resources/Mock/Exportacion Productos Consumidos.png">
+En esta sección se muestra la opción de exportar los productos registrados por el usuario mediante un botón "Export"
+<img src="resources/Mock/Exportacion de Productos Consumidos.png">
 
 **Reporte estadístico**<br>
 La siguiente sección muestra los informes estadísticos que proporciona la aplicación ChaquiTaclla, en particular, los insumos utilizados por cultivo y el número de controles realizados por cultivo.
