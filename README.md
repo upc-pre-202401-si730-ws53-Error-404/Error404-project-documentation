@@ -988,6 +988,7 @@ En esta sección los usuarios podran ver las respuestas a una pregunta.
 <img src="resources/Wireframes/Respuestas de consultas.png">
 
 **Web Applications Wireframe Mobile**<br>
+A continuacion se prensenta los wireframes responsive, estos cuentan con las mismas secciones anteriormente mencionadas.
 <div>
     <img src="resources/mobileWireframesWeb/LogIn-Mobile-Wireframe.png" width="30%" height="30%">
     <img src="resources/mobileWireframesWeb/Register-Mobile-Wireframe.png" width="30%" height="30%">
@@ -1035,6 +1036,7 @@ En esta sección los usuarios podran ver las respuestas a una pregunta.
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
+Enlace para acceder al <a href="https://www.figma.com/file/s8Pd5zs6kKQkeJo2pcfw0L/ChaquiTacllaAplicacionesWeb?type=design&node-id=4%3A12&mode=design&t=RAxglJqLblu4WQZo-1">Figma</a>
 
 **Web Applications Mock-ups Desktop Web Browser**<br>
 **Iniciar sesión**<br>
@@ -1130,7 +1132,8 @@ En esta sección se muestra todas las consultas que ha realizado cada usuario de
 En esta sección los usuarios podran ver las respuestas a una pregunta.
 <img src="resources/Mock/Respuestas de consultas.png">
 
-**Web ApplicationsMock-ups Mobile**<br>
+**Web Applications Mock-ups Mobile**<br>
+A continuacion se prensenta los Mock-ups responsive, estos cuentan con las mismas secciones anteriormente mencionadas.
 <div>
     <img src="resources/mobileMocksWeb/LogIn-Mobile-Mock.png" width="30%" height="30%">
     <img src="resources/mobileMocksWeb/Register-Mobile-Mock.png" width="30%" height="30%">
