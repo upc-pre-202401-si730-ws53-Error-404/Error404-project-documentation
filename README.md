@@ -1768,7 +1768,7 @@ Landing page: https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPage
 
 <div id='8.'><h2>Anexos</h2></div>
 
-* **Entrevistas:**[https://upcedupe-my.sharepoint.com/personal/u202124343_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202124343_upc_edu_pe%2FDocuments%2Fupc-pre-202401-si730-WS53-Error404-%20needfinding-sprint-1%20‐%20Hecho%20con%20Clipchamp%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview]
+* **Entrevistas:**[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=I7dtHo]
 
 
 
