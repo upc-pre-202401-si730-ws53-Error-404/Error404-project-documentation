@@ -1510,11 +1510,11 @@ A continuación se presentarán la serie de pasos a seguir:
     <tbody>
         <tr>
             <td>Date</td>
-            <td>18/03/2024</td>
+            <td>05/04/2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>00:00 am</td>
+            <td>21:00 hrs</td>
         </tr>
         <tr>
             <td>Location</td>
@@ -1526,7 +1526,7 @@ A continuación se presentarán la serie de pasos a seguir:
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe, Fernando / Cantoral Paredes, Diego André</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe, Fernando / Cantoral Paredes, Diego André / Carrasco, Fernando</td>
         </tr>
         <tr>
             <td>Sprint n – 1 Review Summary</td>
@@ -1541,57 +1541,122 @@ A continuación se presentarán la serie de pasos a seguir:
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Diseñar e implementar una landing page, realizar el CRUD de cultivos.</td>
+            <td>Diseñar e implementar la landing page, además de añadir el CRUD de los cultivos.</td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>0</td>
+            <td>10</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>13</td>
+            <td>16</td>
         </tr>
     </tbody>
 </table>
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
-En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Para el registro de cada tarea utilizamos Trello.
 
-![image](https://github.com/OpenSourceWS53/TB1OpenSource/assets/119977168/f7741111-3af9-4e0a-9ffa-bf995583d8f5)
+En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Todo esto en un ambiente estático meramente visual. La herramienta de Trello fue la elegida de forma grupal para trabajar el primer Sprint, esto por la facilidad que brinda para trabajar con metodologías ágiles. La landing page cuenta con errorres y ciertas secciones que no siguen el Responsive Web Design, características en las cuales estaríamos trabajando para mejorar a futuro.
+
+[Poner Imagen]
+
+Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
+
 
 <table>
     <thead>
-            <tr>
+        <tr>
             <td>Sprint #:</td>
             <td colspan="7">Sprint 1</td>
-            </tr>
-            <tr>
-                <td colspan="2">User Story</td>
-                <td colspan="6">Work-Item / Task</td>
-            </tr>
-            <tr>
-                <td>ID</td>
-                <td>Title</td>
-                <td>ID</td>
-                <td>Title</td>
-                <td>Description</td>
-                <td>Estimation (Hours)</td>
-                <td>Assigned to</td>
-                <td>Status (To-Do/In-Process/To-Review/Done)</td>
-            </tr>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>Title</td>
+            <td>ID</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned to</td>
+            <td>Status (To-Do/In-Process/To-Review/Done)</td>
+        </tr>
     </thead>
     <tbody>
-            <tr>
-                <td>ID</td>
-                <td>Title</td>
-                <td>ID</td>
-                <td>Title</td>
-                <td>Description</td>
-                <td>Estimation (Hours)</td>
-                <td>Assigned to</td>
-                <td>Status (To-Do/In-Process/To-Review/Done)</td>
-            </tr>
+        <tr>
+            <td>US01</td>
+            <td>Registro de usuario</td>
+            <td>01</td>
+            <td>Registrar sus datos para crear su usuario</td>
+            <td>Usuario puede interactuar con formulario de registro y registrar su usuario</td>
+            <td>2</td>
+            <td>Fernando Carrasco</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Inicio de sesión de usuario</td>
+            <td>02</td>
+            <td>Inciar sesión con los datos que previamente registro</td>
+            <td>Usuario debe poder interactuar con el formulario de login e inciar sesión si ya tiene sus datos registrados</td>
+            <td>2</td>
+            <td>Fernando Carrasco</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Contactar a Chaquitaclla</td>
+            <td>03</td>
+            <td>Contactar al equipo de Chaquitaclla mediante formulario</td>
+            <td>Usuario debe poder interactuar con el formulario de la landing page y poder mandar un mensaje al equipo de Chaquitaclla</td>
+            <td>3</td>
+            <td>Paolo Guillen</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Barra de navegación</td>
+            <td>04</td>
+            <td>Interactuar con barra de navegación</td>
+            <td>Usuario debe poder interactuar con la barra de navegación y ser dirigido a la sección que este le dé click</td>
+            <td>1</td>
+            <td>Fernando Carrasco</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US04</td>
+            <td>Barra de navegación</td>
+            <td>05</td>
+            <td>Barra de navegación Responsive</td>
+            <td>La barra de navegación debe seguir el modelo de Responsive Web Design y adaptarse al dispositivo del usuario</td>
+            <td>3</td>
+            <td>Fernando Carrasco</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Registrar cultivo</td>
+            <td>06</td>
+            <td>Añadir cultivos al registro</td>
+            <td>El usuario debe poder registrar un cultivo en la aplicación web y verlo visualizado</td>
+            <td>3</td>
+            <td>Not asigned yet</td>
+            <td>To-Do</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Eliminar cultivo</td>
+            <td>07</td>
+            <td>Eliminar registro de su cultivo</td>
+            <td>El usuario debe poder eliminar un cultivo registrado dentro de la aplicación web y al refrescar la página ya no debe estar</td>
+            <td>2</td>
+            <td>Not asigned yet</td>
+            <td>To-Do</td>
+        </tr>
     </tbody>
 </table>
+    
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
@@ -1603,65 +1668,62 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
 
+Al realizar parcialmente la landing page, ya se pudo planificar sobre que tipos de pruebas hacer, inicialmente empezamos con un proceso de pruebas exploratorias. Sin embargo con el fin de la documentación más formal, la sección "Testing" se centro en la implementación de los archivos feature siguiendo la sintaxis de Gherkin.  Estos features están basados en los user stories especificados para este sprint.
+
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
 |||||||
 
+Gherkin Syntax: https://cucumber.io/docs/gherkin/reference/
+
+
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
-Seccion LogIn :
+
+Para el primer sprint, consideramos que avanzamos buena porción de la landing page, hay secciones las cuales mejorar para que se pueda evitar que sean tan estáticas, además de la capacidad de añadir ciertas animaciones para captar mejor la atención del visitante y tener una mayor probabilidad de convertirlo en un usuario de Chaquitaclla.
+
+**Seccion Home:**
+
+<img src="resources/Mock/Home.png">
+
+**Sección Footer:**
+
+<img src="resources/Mock/Footer.png">
+
+**Sección Suscripcion:**
+
+<img src="resources/Mock/Suscripcion.png">
+
+**Sección ContactUs:**
+
+<img src="resources/Mock/ContactUs.png">
+
+**Seccion LogIn :**
 
 <img src="resources/Mock/LogIn.png">
 
-Seccion Register:
+**Seccion Register:**
 
 <img src="resources/Mock/Register.png">
 
-Seccion Anadir Control:
 
-<img src="resources/Mock/A%C3%B1adir%20Control.png">
-
-Seccion Anadir Cultivo:
-
-<img src="resources/Mock/A%C3%B1adir%20Cultivo.png">
-
-Seccion Anadir Producto:
-
-<img src="resources/Mock/A%C3%B1adir%20Producto.png">
-
-Seccion Controles:
-
-<img src="resources/Mock/Controles.png">
-
-Seccion Cuidado :
-
-<img src="resources/Mock/Cuidado.png">
-
-Seccion Enfermedades y plagas :
-
-<img src="resources/Mock/Enfermedades%20o%20Plagas.png">
-
-Seccion Suscripcion:
-
-<img src="resources/Mock/Suscripcion.png">
 
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
 
 
+Al ser el primer sprint no se contempla evidencia de la documentación de los servicios.
+
 
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
 
-![WhatsApp Image 2024-04-09 at 14 32 46]()
 
-![WhatsApp Image 2024-04-09 at 14 32 53]()
 
-![WhatsApp Image 2024-04-09 at 14 33 33]()
-
+Landing page: https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb/deployments/github-pages
 
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
-![image]()
-
-![image]()
+|**Alumno**|**Actividad**|
+|:--:|:--:|
+|Guillen Luna, Paolo César||
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
