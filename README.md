@@ -1,4 +1,4 @@
-![image](https://github.com/upc-pre-202401-si730-ws53-Error-404/TB1_AplicacionesWeb/assets/129306198/9b546933-0ff4-4f0d-94c5-000f415e69d9)<h1 style="text-align: center;"> Informe del TB1  </h1>
+<h1 style="text-align: center;"> Informe del TB1  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
