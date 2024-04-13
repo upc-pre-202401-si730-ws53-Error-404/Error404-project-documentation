@@ -25,6 +25,8 @@
 | 31/03/2024 | 1.1     | Quispe Fernando |                       Capitulo 2 - Formulacion Preguntas Entrevistas                        |
 | 31/03/2024 | 1.2     | Diego Cantoral  |                             Desarrollo parcial del capítulo 1                               |
 | 10/04/2024 | 1.3     | Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Creación del figma para la creación de landing page y creación de los guidelines a seguir, análisis de las entrevistas realizadas y participación en la creación de la landing page en HTML| 
+| 12/04/2024 | 1.4     |  Carrasco Juan  |                           Finalización del landing page en html                             |
+| 13/04/2024 | 1.5     | Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisión y Ajustes finales| 
 
 
 ## Project Report Collaboration Insights
@@ -140,8 +142,8 @@ del ABET – EAC - Student Outcome 5.
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Quispe, Fernando: TB1:    Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Quispe, Fernando: TB1:     Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Quispe, Fernando: TB1:    Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:    Carrasco, Juan: TB1:|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Quispe, Fernando: TB1:     Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:    Carrasco, Juan: TB1:|
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
