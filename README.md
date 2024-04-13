@@ -1113,7 +1113,7 @@ Para la organizacion del proyecto necesitabamos una planificación en cuanto a t
     
 **Requirements Management**
 
-Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello:
+Para realizar las actividades del proyecto necesitábamos designarlas a cada integrante del grupo en caso de revisión o cambios, esta lista de asignaciones fue realizada en Trello, esto por la faclidad que ofrece al trabajar con proyectos con metodologías ágiles como bien podrías ser el nuestro:
 
 <table>
     <tbody>
@@ -1126,7 +1126,7 @@ Para realizar las actividades del proyecto necesitábamos designarlas a cada int
 
 **Product UX/UI Design**
 
-Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma:
+Para el diseño de los wireframe y mockups, además de un prototipo de Web App se utilizó Figma, esto porque ofrece una gran variedad de opciones, además de ser la plataforma que más herramientas para trabajar como equipo:
 
 <table>
     <tbody>
@@ -1139,7 +1139,7 @@ Para el diseño de los wireframe y mockups, además de un prototipo de Web App s
 
 **Software Development**
 
-La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
+La herramienta para la implementación del proyecto es Jetbrains Webstorm y VSCode, estos fueron nuestros entorno de desarrollo integrados elegidos para trabajar con nuestro proyecto; Webstorm ofrece una variedad de opciones para temas de desarrollo de aplicaciones web, mientras que VSCode cuenta con una facilidad para hacer la documentación, la cual es la vista previa, ambos IDEs fueron importantes para el trabajo del proyecto. 
 
 <table>
     <tbody>
@@ -1147,10 +1147,14 @@ La herramienta para la implementación del proyecto es IntelliJ de Jetbrains:
             <td>Link de referencia: </td>
             <td>https://www.jetbrains.com/idea/</td>
         </tr>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://code.visualstudio.com/docs</td>
+        </tr>
     </tbody>
 </table>
 
-HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
+HTML(HyperText Markup Language): El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
 
 <table>
     <tbody>
@@ -1161,7 +1165,7 @@ HTML: El lenguaje base de etiquetado para aplicaciones web sera empleado en este
     </tbody>
 </table>
 
-CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las aplicaciones web.
+CSS (Cascading Style Sheets): Viene de la mano con HTML, Cascade Style Sheets maneja el diseño de las aplicaciones web.
 
 <table>
     <tbody>
@@ -1172,17 +1176,25 @@ CSS: Viene de la mano con HTML, Cascade Styles Sheet maneja el diseño de las ap
     </tbody>
 </table>
 
-Lenguaje empleado en la implementación del proyecto es TypeScript:
-
+Javascript: El lenguaje de programación utilizado para la landing page es de Javascript, esto porque trabaja de forma excelente con HTML y CSS para hacer animaciones llamativas.
 <table>
     <tbody>
         <tr>
             <td>Link de referencia: </td>
-            <td>https://www.typescriptlang.org/</td>
+            <td>https://developer.mozilla.org/en-US/docs/Web/JavaScript</td>
         </tr>
     </tbody>
 </table>
 
+C#: Un lenguaje de programación potente respaldado por .NET, ideal para el desarrollo backend debido a su integración estrecha con el framework y su rendimiento eficiente.
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://learn.microsoft.com/en-us/dotnet/csharp/</td>
+        </tr>
+    </tbody>
+</table>
 
 **Software Testing**
 
@@ -1230,15 +1242,15 @@ Se ha utilizado Github para alojar los distintos repositorios creados por los mi
     <tbody>
         <tr>
             <td>Link Landing Page:</td>
-            <td>  </td>
+            <td>https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb</td>
         </tr>
         <tr>
             <td>Link Web Services: </td>
-            <td> </td>
+            <td>https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services</td>
         </tr>
         <tr>
             <td>Link Front Web Applications: </td>
-            <td> </td>
+            <td>https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application</td>
         </tr>
     </tbody>
 </table>
@@ -1282,23 +1294,70 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Separación de palabras con un guion "-".
 * Margin y padding en "*" con valor de 0.
 
+**Commit conventions:** Para las convenciones de commit, se utilizarán las convenciones básicas es decir: 
+ `git commit -m "<message>" -m"<description">`
+
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
-### Lanzamiento del proyecto
-Ademáas de control de versiones, Github posee GithubPages, que sirve para lanzar tu proyecto si se encuentra en un repositorio de Github.
 
-Seleccionamos al branch "main", luego el directorio "/root" y finalmente guardamos la configuración.
-![image]()
+### Landing Page deployment:
 
-Esperamos a que se lanze el proyecto, sabremos que esta listo cuando veamos el URL: 
-![image]()
-### Creación de ramas
-Para la creación de cada rama del proyecto seguiremos estos pasos:
-1. Seleccionar "View all branches":
-   ![image]()
+Con el fin de desplegar nuestra landing page en github pages, es necesaria contar con requisitos diversos como: 
 
-2. Click en "New Branch" y escribir el nombre de cada rama, luego crear nuevo branch:
-   ![image]()
+* Una cuenta personal
+* Repositorio del cual cargar los documentos 
+* Tener permisos del repositorio 
+
+Una vez se cuente con estos requisitos se podrá realizar un correcto despliegue de la landing page. Siguiendo los siguientes pasos se haría el despliegue.
+
+1. Ir a nuestra organización de github. 
+2. Elegir el repositorio donde se encuentra nuestra landing page. 
+3. Dirigirse al apartado de 'Settings'
+4. Seleccionar el apartado 'Pages' del menú lateral izquierdo.
+5. En la sección 'Branch', elegimos nuestra rama main y el folder /(root)
+6. Una vez hecho el paso anterior debería verse en la sección branch que diga que la nuestro sito de Github Pages está siendo construido.
+7. Transcurrido 5 minutos, al actualizar la página se debería de observar que diga "Your site is live at https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/"
+
+![stepOne](/resources/stepsDeploymentLanding/setpOneDeployment.png)
+![stepTwo](/resources/stepsDeploymentLanding/setpTwoDeployment.png)
+![stepThree](/resources/stepsDeploymentLanding/setpThreeDeployment.png)
+![stepFour](/resources/stepsDeploymentLanding/stepFourDeployment.png)
+![stepFive](/resources/stepsDeploymentLanding/stepFiveDeployment.png)
+![stepSix](/resources/stepsDeploymentLanding/stepSixDeployment.png)
+![stepSeven](/resources/stepsDeploymentLanding/stepSevenDeployment.png)
+
+
+### Frontend-Web-Application Deployment
+
+Con el fin de poder desplegar nuestro fronten web application es necesario contar con requisitos similares a los mencionados para el despliegue de la landing page. Sin embargo, aquí se usará una plataforma ajena a github, llamada Netlify, que es excelente para el tema de despliegues de aplicaciones web con el fin de mostrar su uso.
+
+**Link de Netlify:** https://www.netlify.com
+
+A continuación se presentarán la serie de pasos a seguir: 
+
+1. Nos ubicams en **https://www.netlify.com** y hacemos click en "Deploy to Netlify"
+2. Seleccionamos la opción de "Sign up with Github". 
+3. Le otorgamos los permisos necesarios y continuamos.
+4. Completamos con la información que nos pida.
+5. Seleccionamos "Deploy with Github".
+6. Seleccionamos la organización la cual se le instalará Netlify, en este caso nuestra organización "upc-pre-202401-si730-ws53-Error-404" 
+7. Encontradonos en la sección de instalar netlify, elegimos nuestro repositorio donde se vaya a encontrar la web application.
+8. Elegimos nuestra organización y el repositorio al que se les instalo netlify. 
+9. Hacemos click en "Deploy [nombreRepositorio] to Netlify".
+10. Esperamos y estaría todo listo!, al ser la primera entrega de nuestro proyecto, esta web todavía no cuenta con una web Application, por esta razón se estaría añadiendo los documentos de landing page por mientras.
+
+![stepOne](/resources/stepsDeploymentWebApp/stepOneWeb.png)
+![stepTwo](/resources/stepsDeploymentWebApp/stepTwoWeb.png)
+![stepThree](/resources/stepsDeploymentWebApp/stepThreeWeb.png)
+![stepFour](/resources/stepsDeploymentWebApp/stepFourWeb.png)
+![stepFive](/resources/stepsDeploymentWebApp/stepFiveWeb.png)
+![stepSix](/resources/stepsDeploymentWebApp/stepSixWeb.png)
+![stepSeven](/resources/stepsDeploymentWebApp/stepSevenWeb.png)
+![stepEight](/resources/stepsDeploymentWebApp/stepEightWeb.png)
+![stepNine](/resources/stepsDeploymentWebApp/stepNineWeb.png)
+![stepTen](/resources/stepsDeploymentWebApp/stepTenWeb.png)
+
+
 
 
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
