@@ -16,7 +16,7 @@
 | Quispe Condori, Fernando Daniel |    U20221C628    |
 |   Llamo Sánchez, Amner Levi     |    U20221C376    |
 |  Cantoral Paredes, Diego André  |    U20201F568    |
-|                                 |                  |
+|  Carrasco Godos, Juan Fernando  |    U20211D118    |
 
 ## Registro de versiones del informe
 |   Fecha    | Versión |      Autor      |                                 Descripción de modificación                                 |
@@ -38,6 +38,7 @@ URL del repositorio del proyecto:
 |               Guillen Luna, Paolo César                |                  Desarrollo de la carátula                  |
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
 |            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y descripción de startup|
+|            Carrasco Godos, Juan Fernando               |   Colaboración y Elaboración del Landing Page html y css    |
 
 
 ***TB1 Github***
