@@ -827,21 +827,41 @@ Las metas etiquetas que usaremos:
 
 Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra metaetiqueta. Esta etiqueta es utilizada o leida por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
 
+```html
+    <title>ChaquitacllaLandingPage</title>
+```
+
 **Codificación de carácteres:**
 
 Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+```html
+    <meta charset="UTF-8">
+```
 
 **Descripción:**
 
 Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
 
+```html
+    <meta name="description" content="ChaquiTaclla is a web application focused on creating and storing crop records"/>
+```
+
 **Palabras clave:**
 
 En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
 
+```html
+    <meta name="keywords" content="proceso, gestión, aplicación, registros, cultivos"/>
+```
 **Autor y Derechos de Autor:**
 
 Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+```html
+    <meta name="author" content="Error-404"/>
+    <meta name="copyright" content="Copyright Error-404 team" />
+```
 
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
 La funcionalidad de búsqueda desempeña un papel crucial al facilitar a los usuarios la distinción y filtrado de la información de los registros almacenados en la aplicación. El principal propósito del sistema es presentar de manera precisa y rápida la amplia cantidad de información producida por los usuarios que emplean la herramienta. Los usuarios tienen la capacidad de buscar cultivos registrados según su fecha de ingreso y la fase en la que se encuentran
