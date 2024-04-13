@@ -880,9 +880,12 @@ A continuación, les mostramos el mockup actualizado de nuestra página de inici
 **Landing Page Mock-up Mobile**<br>
 El mock-up para la landing page en la vista del navegador web móvil incorpora la misma estructura de los wireframes y las mismas secciones mencionados anteriormente. 
 
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png" width="30%" height="30%">
-<img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png" width="30%" height="30%">
+<div> 
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 1.png">
+<img src="resources/Landing-Mock-Mobile/13 Pro - Color 2.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 3.png">
+</div>
+
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 4.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 5.png">
 <img src="resources/Landing-Mock-Mobile/13 Pro - Color 6.png">
