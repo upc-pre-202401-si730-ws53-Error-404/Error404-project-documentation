@@ -1115,7 +1115,7 @@ En esta sección los usuarios podran ver las respuestas a una pregunta.
     <img src="resources/mobileMocksWeb/Informacion General-Mobile-Mock.png" width="30%" height="30%">
 </div>
 <div>
-    <img src="resources/mobileMocksWeb/Informacion Genera Menul-Mobile-Mock.png.png" width="30%" height="30%">
+    <img src="resources/mobileMocksWeb/Informacion Genera Menul-Mobile-Mock.png" width="30%" height="30%">
     <img src="resources/mobileMocksWeb/Cuidado-Mobile-Mock.png" width="30%" height="30%">
     <img src="resources/mobileMocksWeb/Controles-Mobile-Mock.png" width="30%" height="30%">
 </div>
