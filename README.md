@@ -912,6 +912,7 @@ El mock-up para la landing page en la vista del navegador web móvil incorpora l
 
 
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+Enlace para acceder al <a href="https://www.figma.com/file/s8Pd5zs6kKQkeJo2pcfw0L/ChaquiTacllaAplicacionesWeb?type=design&node-id=4%3A12&mode=design&t=RAxglJqLblu4WQZo-1">Figma</a>
 
 **Web Applications Wireframe Desktop Web Browser**<br>
 **Inicar Sesión**<br>
