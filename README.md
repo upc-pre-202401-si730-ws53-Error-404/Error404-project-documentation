@@ -22,23 +22,24 @@
 |   Fecha    | Versión |      Autor      |                                 Descripción de modificación                                 |
 |:----------:|:-------:|:---------------:|:-------------------------------------------------------------------------------------------:|
 | 28/03/2024 | 1.0     |  Guillen Paolo  | Creación del documento de trabajo en formato markdown junto al realizamiento de la carátula |
-| 31/03/2024 | 1.1     | Quispe Fernando |                       Capitulo 2 - Formulacion Preguntas Entrevistas                        |
+| 31/03/2024 | 1.1     | Quispe Fernando |                            Formulacion Preguntas Entrevistas                                |
 | 31/03/2024 | 1.2     | Diego Cantoral  |                             Desarrollo parcial del capítulo 1                               |
 | 10/04/2024 | 1.3     | Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Creación del figma para la creación de landing page y creación de los guidelines a seguir, análisis de las entrevistas realizadas y participación en la creación de la landing page en HTML| 
 | 12/04/2024 | 1.4     |  Carrasco Juan  |                           Finalización del landing page en html                             |
 | 12/04/2024 | 1.5     |  Llamo Amner  |                           Finalización de los wireframes y mock-ups de la aplicacion web      |
-| 13/04/2024 | 1.6     | Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisión y Ajustes finales| 
+| 13/04/2024 | 1.6     | Diego Cantora, Paolo Guillen, Fernando Quispe, Juan Carrasco| Trabajar en los .feature para gherkin y planificación del siguiente sprint| 
+|13/04/2024| 1.7| Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisión y Ajustes finales|
 
 
 ## Project Report Collaboration Insights
 
-URL del repositorio del proyecto: 
+URL del repositorio del proyecto: [https://github.com/upc-pre-202401-si730-ws53-Error-404]
 
 **TB1**
 
 |                       Integrante                       |                                 Tareas Asignadas                                 |
 |:------------------------------------------------------:|:--------------------------------------------------------------------------------:|
-|               Guillen Luna, Paolo César                |                            Desarrollo de la carátula                             |
+|               Guillen Luna, Paolo César                |                            Desarrollo de la carátula, participación en juntar los videos                            |
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 - Diagrama de clases |
 |            Cantoral Paredes, Diego André               |        Elaboración Antecedentes y problemáticas y descripción de startup         |
 |            Carrasco Godos, Juan Fernando               |              Colaboración y Elaboración del Landing Page html y css              |
@@ -46,6 +47,12 @@ URL del repositorio del proyecto:
 
 ***TB1 Github***
 
+Al haber trabajado en github, este presenta cierta información relevante en lo que es la participación de los participantes, como la cantidad de commits realizados por cada uno, en que rama y el contenido añadido en estos. 
+Todos los integrantes del grupo "Error 404" tomaron parte en la realización de estos commits, donde se adjuntan las siguiente captura. 
+
+<img src="resources/InsightsGithub.png">
+<img src="resources/TimelineGithub.png">
+<img src="resources/CommitsGithub.png">
 
 ## Contenido 
 1. [**Capítulo I: Introducción.**](#1.) <br>
