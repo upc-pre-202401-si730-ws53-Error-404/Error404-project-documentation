@@ -1295,7 +1295,7 @@ User Persona: Jardineros en casa/ Agricultores profesionales
 
 Para este diagrama de flujo, no importa el user persona, puesto que esta es una funcionalidad básica de nuestra aplicación y en sí el core de esta, el flujo inicia una vez el usuario se encuentre en el panel de control, siguiendo una sucesión de pasos hasta cuando agrega su cultivo y es redirigido a la sección sobre la información de este. 
 
-<img src="resources/userFlowDiagrams/AddCropMockflow.png">
+<img src="resources/userFlowDiagrams/AddCropMockFlow.png">
 
 **User Goal: Eliminar cultivo**
 
@@ -1303,7 +1303,7 @@ User Persona: Jardineros en casa/ Agricultores profesionales
 
 Para este diagrama de flujo, no importa el user persona, puesto que esta también es una funcionalidad básica de nuestra aplicación. El flujo inicia cuando el usuario se encuentre en el panel de control y siga los mismos pasos que cuando añade cultivo solo que en cambio, selecciona un ícono que referencia a un tacho de basura para eliminar aquel registro, al realizar esto, el usuario es redirigido a la misma sección pero con el registro eliminado.
 
-<img src="resources/userFlowDiagrams/DeleteCropMockflow.png">
+<img src="resources/userFlowDiagrams/DeleteCropMockFlow.png">
 
 **User Goal: Realizar consultas a otros usuarios de la aplicación mediante el foro**
 
@@ -1312,7 +1312,7 @@ User Persona: Jardineros en casa/ Agricultores profesionales
 Para este diagrama de flujo somos conscientes que a veces no podemos resolver todas las dudas de nuestros usuarios así como posibles percances que ellos puedan presentar en relación en sus cultivos. Este user goal se enfoca en como un usuario puede ingresar al foro de la comunidad desde el panel de control y realizar preguntas sobre un tema en específico, estos temas pueden variar sobre problemas con sus cultivos o simplemente información útil para el segmento de "Jardineros en casa" puesto que son nuevos en la agricultura y en sí el foro estará mayormente lleno de "Agricultores profesionales".
 
 
-<img src="resources/userFlowDiagrams/AskColleaguesMockflow.png">
+<img src="resources/userFlowDiagrams/AskColleaguesMockFlow.png">
 
 **User Goal: Realizar consultas a otros usuarios de la aplicación mediante el foro**
 
@@ -1320,7 +1320,7 @@ User Persona: Agricultores profesionales
 
 Este diagrama de flujo se enfoca en el sector de aquellos agricultores profesionales, a pesar que algunos de ellos no estén familiarizados con la tecnología ni estadísticas, esta información de tablas estadísticas la cual pueden acceder desde el panel de control y eligiendo la opción de "Statistics" puede ser crucial para toma de decisiones importantes en relación a sus cultivos.
 
-<img src="resources/userFlowDiagrams/CheckAppUsersStatisticsMockflow.png">
+<img src="resources/userFlowDiagrams/CheckAppUsersStatisticsMockFlow.png">
 
 Enlace a LucidChart:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 
