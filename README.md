@@ -1932,9 +1932,17 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
-<div id='6.'><h2>Conclusiones</h2></div>
+**TB1:** Para esta TB1, consideramos que fue un desafío, trabajar un proyecto así con metodologías ágiles fue beneficioso, pero al ser nuestro primera vez fue complicado. Las herramientas utilizadas para despliegue de nuestro software son conocidas por mayor parte de nuestros integrantes, razón por la cual las elegimos. Para esta primera entrega todos los integrantes trabajamos de manera adecuada y efectiva. Para las futuras entregas se espera mejorar secciones donde hayamos fallado con el fin de brindar una mejor solución de calidad.
 
 <div id='7.'><h2>Bibliografía</h2></div>
+
+Mateo, T. de J. (2023). Agricultura 4.0: Una revisión de tecnologías disruptivas y su impacto en la producción agrícola sostenible. Recuperado de [https://unctad.org/es/news/por-que-los-agricultores-familiares-necesitan-un-mayor-acceso-la-tecnologia?__cf_chl_tk=7OXmq0DO3QwzTaPbsw39Vnrfj5XIAtpvrfewU13MekU-1711832857-0.0.1.1-1685]
+
+UNCTAD. (2023, 13 de abril). Por qué los agricultores familiares necesitan un mayor acceso a la tecnología. Recuperado de  [https://unctad.org/es/news/por-que-los-agricultores-familiares-necesitan-un-mayor-acceso-la-tecnologia?__cf_chl_tk=7OXmq0DO3QwzTaPbsw39Vnrfj5XIAtpvrfewU13MekU-1711832857-0.0.1.1-1685]
+
+Gaviria González, N. (2022, 8 de febrero). Según Minagricultura cerca de 15% del sector agro utiliza tecnología de última generación. Recuperado de [https://www.agronegocios.co/agricultura/segun-minagricultura-cerca-de-15-del-sector-agro-utiliza-tecnologia-de-ultima-generacion-3299246]
+
+Foro Económico Mundial. (2020, 9 de julio). ¿Volver a crecer mejor? He aquí cómo la agricultura digital podría revolucionar las comunidades rurales afectadas por COVID-19. Recuperado de [https://es.weforum.org/agenda/2020/07/volver-a-crecer-mejor-he-aqui-como-la-agricultura-digital-podria-revolucionar-las-comunidades-rurales-afectadas-por-covid-19/"]
 
 <div id='8.'><h2>Anexos</h2></div>
 
