@@ -36,13 +36,13 @@ URL del repositorio del proyecto:
 
 **TB1**
 
-|                       Integrante                       |                      Tareas Asignadas                       |
-|:------------------------------------------------------:|:-----------------------------------------------------------:|
-|               Guillen Luna, Paolo César                |                  Desarrollo de la carátula                  |
-|            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
-|            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y descripción de startup|
-|            Carrasco Godos, Juan Fernando               |   Colaboración y Elaboración del Landing Page html y css    |
-|              Llamo Sánchez, Amner Levi                 |   Elaboracion de los wireframes y mock-ups de la aplicacion web  |
+|                       Integrante                       |                                 Tareas Asignadas                                 |
+|:------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+|               Guillen Luna, Paolo César                |                            Desarrollo de la carátula                             |
+|            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 - Diagrama de clases |
+|            Cantoral Paredes, Diego André               |        Elaboración Antecedentes y problemáticas y descripción de startup         |
+|            Carrasco Godos, Juan Fernando               |              Colaboración y Elaboración del Landing Page html y css              |
+|              Llamo Sánchez, Amner Levi                 |          Elaboracion de los wireframes y mock-ups de la aplicacion web           |
 
 ***TB1 Github***
 
@@ -141,10 +141,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-|Criterio especifico|Acciones realizadas|Conclusiones|
-|-|:-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Quispe, Fernando: TB1:    Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:    Carrasco, Juan: TB1:|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Quispe, Fernando: TB1:     Guillén, Paolo: TB1:    Quispe, Fernando: TB1:  Cantoral, Diego: TB1:    Llamo, Amner: TB1:    Carrasco, Juan: TB1:|
+| Criterio especifico                                                                                                                                  |                                                                                            Acciones realizadas                                                                                            | Conclusiones                                                                                                                                                                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |             Quispe, Fernando: TB1: Desarrollo de Diagrama de Clases, Artefactos de Needfinding. Guillén, Paolo: TB1:     Cantoral, Diego: TB1:    Llamo, Amner: TB1:    Carrasco, Juan: TB1:              | TB1: Cómo equipo en esta entrega hemos participado en nuestro proyecto de manera eficiente, tal es el caso se puede demostrar una colaboración en nuestra organización de Github donde documentamos todos nuestros avances referentes a esta primera entrega. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Quispe, Fernando: TB1: Elaboración de artefactos de Needfinding en base al conocimiento de los sectores.     Guillén, Paolo: TB1:     Cantoral, Diego: TB1:    Llamo, Amner: TB1:    Carrasco, Juan: TB1: | TB1: Cómo equipo conocemos claramente nuestros segmentos empresariales por una red de contactos, lo que nos permite empaparnos de los conocimientos de dichos sectores. Para obtener los requisitos para nuestro producto de Software.                        |
 
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
