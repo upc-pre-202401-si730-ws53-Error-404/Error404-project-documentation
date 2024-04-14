@@ -1845,11 +1845,11 @@ Para el primer sprint, consideramos que avanzamos buena porción de la landing p
 
 **Seccion Home:**
 
-<img src="resources/Mock/HomeLanding.png">
+<img src="resources/HomeLanding.png">
 
 **Sección Footer:**
 
-<img src="resources/Mock/FooterPlusTeam.png">
+<img src="resources/FooterPlusTeam.png">
 
 **Sección Suscripcion:**
 
@@ -1857,7 +1857,7 @@ Para el primer sprint, consideramos que avanzamos buena porción de la landing p
 
 **Sección ContactUs:**
 
-<img src="resources/Mock/ContactUs.png">
+<img src="resources/ContactUs.png">
 
 **Seccion LogIn :**
 
