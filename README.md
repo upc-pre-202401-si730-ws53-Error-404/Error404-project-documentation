@@ -1257,6 +1257,14 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
+**User Managment**
+<img src="resources/userManagment.png">
+**Sowing Managment**
+<img src="resources/sowingManagment.png">
+**Statics Managment**
+<img src="resources/staticsManagment.png">
+**Forum Managment**
+<img src="resources/forumManagment.png">
 
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
