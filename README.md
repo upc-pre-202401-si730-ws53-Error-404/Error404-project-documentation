@@ -1858,7 +1858,7 @@ Al realizar parcialmente la landing page, ya se pudo planificar sobre que tipos 
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
-|||||||
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main|3ebcc2c|Create Contactar_a_ChaquiTaclla.feature|Create Contactar_a_ChaquiTaclla.feature|13/04/2024|
 
 Gherkin Syntax: https://cucumber.io/docs/gherkin/reference/
 
@@ -1917,7 +1917,11 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 
 |**Alumno**|**Actividad**|
 |:--:|:--:|
-|Guillen Luna, Paolo César||
+|Guillen Luna, Paolo César|Implementación de la landing page en github pages|
+|Cantoral Paredes, Diego André|Participación en la creación de features de acuerdo a user stories|
+|Llamo Sánchez, Amner Levi|Participación en la creación de features de acuerdo a user stories|
+|Carrasco Godos, Juan Fernando|Implementación de sección log-in y sign-in|
+|Quispe Condori, Fernando Daniel|Testing Exploratorio parcial de la landing page en busca de errores|
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
@@ -1936,7 +1940,7 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 * **Entrevistas:**[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=I7dtHo]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 * **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
-
+* **TB1 Video exposicion:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EacgNl2_wmxGsHLVjXJ84nMBgGnnjwpEeWYRrX_MDqq9sg?e=TclDed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
 
 
 
