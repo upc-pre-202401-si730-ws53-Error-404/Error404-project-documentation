@@ -1932,6 +1932,9 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
+
+<div id='6.'><h2>Conclusiones</h2></div>
+
 **TB1:** Para esta TB1, consideramos que fue un desafío, trabajar un proyecto así con metodologías ágiles fue beneficioso, pero al ser nuestro primera vez fue complicado. Las herramientas utilizadas para despliegue de nuestro software son conocidas por mayor parte de nuestros integrantes, razón por la cual las elegimos. Para esta primera entrega todos los integrantes trabajamos de manera adecuada y efectiva. Para las futuras entregas se espera mejorar secciones donde hayamos fallado con el fin de brindar una mejor solución de calidad.
 
 <div id='7.'><h2>Bibliografía</h2></div>
