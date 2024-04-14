@@ -26,7 +26,8 @@
 | 31/03/2024 | 1.2     | Diego Cantoral  |                             Desarrollo parcial del capítulo 1                               |
 | 10/04/2024 | 1.3     | Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Creación del figma para la creación de landing page y creación de los guidelines a seguir, análisis de las entrevistas realizadas y participación en la creación de la landing page en HTML| 
 | 12/04/2024 | 1.4     |  Carrasco Juan  |                           Finalización del landing page en html                             |
-| 13/04/2024 | 1.5     | Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisión y Ajustes finales| 
+| 12/04/2024 | 1.5     |  Llamo Amner  |                           Finalización de los wireframes y mock-ups de la aplicacion web      |
+| 13/04/2024 | 1.6     | Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisión y Ajustes finales| 
 
 
 ## Project Report Collaboration Insights
@@ -41,7 +42,7 @@ URL del repositorio del proyecto:
 |            Quispe Condori, Fernando Daniel             | Elaboración Preguntas de Entrevitas - Artefactos Capítulo 2 |
 |            Cantoral Paredes, Diego André               | Elaboración Antecedentes y problemáticas y descripción de startup|
 |            Carrasco Godos, Juan Fernando               |   Colaboración y Elaboración del Landing Page html y css    |
-
+|              Llamo Sánchez, Amner Levi                 |   Elaboracion de los wireframes y mock-ups de la aplicacion web  |
 
 ***TB1 Github***
 
