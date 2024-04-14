@@ -1923,6 +1923,8 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 |Carrasco Godos, Juan Fernando|Implementación de sección log-in y sign-in|
 |Quispe Condori, Fernando Daniel|Testing Exploratorio parcial de la landing page en busca de errores|
 
+<img src="resources/landingPageCommits.png">
+
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
