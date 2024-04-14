@@ -1877,7 +1877,15 @@ Al ser el primer sprint no se contempla evidencia de la documentación de los se
 
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
 
-
+<img src="resources/realLandingOne.png">
+<img src="resources/realLandingTwo.png">
+<img src="resources/realLandingThree.png">
+<img src="resources/realLandingFour.png">
+<img src="resources/realLandingFive.png">
+<img src="resources/realLandingSix.png">
+<img src="resources/realLandingSeven.png">
+<img src="resources/realLandingEight.png">
+<img src="resources/realLandingNine.png">
 
 Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/]
 
