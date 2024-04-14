@@ -1710,7 +1710,7 @@ A continuación se presentarán la serie de pasos a seguir:
 
 En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Todo esto en un ambiente estático meramente visual. La herramienta de Trello fue la elegida de forma grupal para trabajar el primer Sprint, esto por la facilidad que brinda para trabajar con metodologías ágiles. La landing page cuenta con errorres y ciertas secciones que no siguen el Responsive Web Design, características en las cuales estaríamos trabajando para mejorar a futuro.
 
-[Poner Imagen]
+<img src="resources/TrelloImage.png">
 
 Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
 
@@ -1814,9 +1814,18 @@ Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
-||| 81d8d87 | cosados | cosados | 09/04/2024 |
-||| 82a41a7 | Merge pull request #1 from PaoloGuillen/checking | Merge pull request #1 from PaoloGuillen/checking | 09/04/2024 |
-||| 12104c4 | New images | New images | 09/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 01a4516 | landingPageAllSectionsDone | landingPageAllSectionsDone | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 8cf76a5 | imagenes mejoradas|imagenes mejoradas| 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| cef7c82 | cambios-navbar | cambios-navbar | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| e3e8d51 | login | login | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 1d4bf83 | sign-up | sign-up | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| c2b3305 | botones | botones | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 6ff48b0 | Merge pull request #1 from upc-pre-202401-si730-ws53-Error-404/feat/sign-in|Feat/sign in | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 46c3b58 | sign-up-es | sign-up-es | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 4143a91 | index-es-fix | index-es-fix | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| d8e4223 | index fix | index fix | 13/04/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 3dea5a1 | more fixes | more fixes | 13/04/2024 |
+
 
 
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
