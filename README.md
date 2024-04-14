@@ -1377,8 +1377,32 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 **Forum Managment**
 <img src="resources/forumManagment.png">
 
+<div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
+A continuación se presenta el diccionario de clases correspondiente al diagrama de clases de ChaquiTaclla.
+
+| Clase | Descripcion                                                                                                  |
+| --- |--------------------------------------------------------------------------------------------------------------|
+| User | Clase que representa a un usuario de la aplicación.Contiene métodos de verificación relacionados con Account |
+|Account | Clase que representa la cuenta de un usuario. Contiene métodos de verificación relacionados con User         |
+| ResetPassword | Clase que representa el proceso de restablecimiento de contraseña de un usuario                              |
+|Profile | Clase que representa el perfil de un usuario. Contiene métodos de verificación relacionados con User         |
+|Farmer | Clase que representa a un agricultor. Contiene métodos de negocio cómo añadir sembríos                       |
+|Horticulist | Clase que representa a un horticultor. Contiene métodos de negocio cómo añadir sembríos                      |
+|Sowing | Clase que representa un sembrío. Contiene métodos de negocio cómo añadir controles e insumos                 |
+|Crop | Clase que representa un cultivo. Contiene métodos de negocio verificar si está en tiempo adecuado.           |
+|PhaseByCrop | Clase que representa una fase de un cultivo. Contiene métodos de negocio cómo añadir parametros              |
+|Parameter | Clase que representa un parametro de una fase de un cultivo.                                                 |
+|PhasePhenological | Clase que representa una fase fenológica de un cultivo.                                                      |
+|Report | Clase que representa un reporte de un cultivo. Contiene métodos de negocio cómo un análisis                  |
+|Statisc | Clase que representa una estadística referente a un reporte.                                                 |
+|Forum | Clase que representa un foro. Contiene métodos de negocio cómo añadir preguntas y respuestas                 |
+|Post | Clase que representa un post en un foro. Contiene métodos de negocio cómo añadir respuestas                   |
+
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
+
+A continuación se presenta el diagrama de la base de datos de ChaquiTaclla, el cual muestra las tablas y las relaciones entre ellas.
+
 <img src="resources/ChaquitacllaDatabase.png">
 
 
