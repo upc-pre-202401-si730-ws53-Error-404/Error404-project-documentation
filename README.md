@@ -1326,6 +1326,16 @@ Enlace a LucidChart:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a22
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
+El prototipo de nuestra aplicación web se trato de enfocar en lo que tratamos de brindar en Chaquitaclla, una solución para gestionar los cultivos de una forma más eficiente y que sea una web intuitiva y fácil de usar. Se tomo en cuenta lo siguiente:
+
+* **Responsive Web Design**
+* **Funcionalidades relevantes**
+* **UI sencillo de entender**
+
+<img src="resources/PrototypePic.png">
+
+Enlace para acceder al vídeo de la explicación del prototipo: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
+
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 El  Domain Driven Design (DDD) es un enfoque de diseño de software que se centra en comprender y modelar el dominio de negocio de una aplicación. Se basa en la idea de que el éxito de un software radica en su capacidad para reflejar fielmente este dominio, utilizando un lenguaje común entre expertos y desarrolladores. A través del modelado del dominio y la separación de la lógica del dominio de la infraestructura técnica, este enfoque garantiza que el software sea más comprensible, adaptable y alineado con las necesidades del negocio.
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
@@ -1872,6 +1882,7 @@ Landing page: https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPage
 
 * **Entrevistas:**[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=I7dtHo]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
+* **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
 
 
 
