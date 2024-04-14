@@ -1825,11 +1825,11 @@ Para el primer sprint, consideramos que avanzamos buena porción de la landing p
 
 **Seccion Home:**
 
-<img src="resources/Mock/Home.png">
+<img src="resources/Mock/HomeLanding.png">
 
 **Sección Footer:**
 
-<img src="resources/Mock/Footer.png">
+<img src="resources/Mock/FooterPlusTeam.png">
 
 **Sección Suscripcion:**
 
@@ -1859,7 +1859,7 @@ Al ser el primer sprint no se contempla evidencia de la documentación de los se
 
 
 
-Landing page: https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb/deployments/github-pages
+Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/]
 
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 
@@ -1880,6 +1880,7 @@ Landing page: https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPage
 
 <div id='8.'><h2>Anexos</h2></div>
 
+* **LandingPage:** [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/]
 * **Entrevistas:**[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=I7dtHo]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 * **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
