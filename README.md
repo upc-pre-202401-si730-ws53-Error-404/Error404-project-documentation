@@ -54,6 +54,10 @@ Todos los integrantes del grupo "Error 404" tomaron parte en la realización de 
 <img src="resources/TimelineGithub.png">
 <img src="resources/CommitsGithub.png">
 
+En esta sección se observa el tiempo de la semana en la que hubo mayor actividad de commits: 
+
+<img src="resources/MoreCommits.png">
+
 ## Contenido 
 1. [**Capítulo I: Introducción.**](#1.) <br>
 1.1. [***Startup Profile***](#1.1.) <br>
