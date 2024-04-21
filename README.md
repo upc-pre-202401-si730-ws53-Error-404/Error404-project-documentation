@@ -135,6 +135,7 @@ En esta sección se observa el tiempo de la semana en la que hubo mayor activida
 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5.2.1.6.)<br>
 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5.2.1.7.)<br>
 5.2.1.8. [Team Collaboration Insights during Sprint](#5.2.1.8.)<br>
+5.2.2. [Sprint 2](#5.2.2.)<br>
 6. [**Conclusiones**](#6.)<br>
 7. [**Bibliografía**](#7.)<br>
 8. [**Anexos**](#8.)<br>
@@ -1924,6 +1925,8 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 |Quispe Condori, Fernando Daniel|Testing Exploratorio parcial de la landing page en busca de errores|
 
 <img src="resources/landingPageCommits.png">
+
+<div id='5.2.2.'><h4> 5.2.2.Sprint 2</h4></div>
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
