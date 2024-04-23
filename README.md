@@ -360,8 +360,6 @@ En el contexto de la agricultura y su relación con la tecnología, se presentan
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.Análisis Competitivo</h4></div>
 
-¡Claro! Aquí tienes una tabla más detallada con información específica sobre cada competidor, incluyendo la fortaleza adicional de tu aplicación:
-
 ||Chaquitaclla <img src='resources/ChaquitacllaLogoNuevo.png' width="50" height="50"> |AgroSmart <img src='resources/images.jpeg' width="50" height="50">|Cropin <img src='resources/cropin.jpg' width="50" height="50">|DKALB <img src='resources/unnamed.jpg' width="50" height="50">|Agrobit <img src='resources/agrobit_logo.jpg' width="50" height="50">|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |**Overview**|Plataforma digital que organiza la gestión en el área de producción en cultivos agrícolas.|Software agrícola de gestión como administración, producción, operación y finanzas en el ámbito agrícola.|SaaS que ofrece soluciones basadas en la digitalización del ecosistema agrícola.|Plataforma digital de Dekalb, esta plataforma brinda asesorías a los agricultores para optimizar los cultivos, especialmente de maíz.|Plataforma que ofrece soluciones tecnológicas para la gestión agrícola, desde monitoreo de cultivos hasta análisis de datos.|
