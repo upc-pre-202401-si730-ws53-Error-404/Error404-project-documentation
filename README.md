@@ -420,9 +420,6 @@ A partir del análisis competitivo realizado se logró identificar las fortaleza
 - Establecer asociaciones y alianzas estratégicas con empresas locales en diferentes regiones para facilitar la entrada en nuevos mercados.
 
 
-Por supuesto, aquí continúo:
-
-
 **Oportunidades de nuestros competidores:**
 
 - Implementación o mejora de su interfaz visual de la aplicación.
