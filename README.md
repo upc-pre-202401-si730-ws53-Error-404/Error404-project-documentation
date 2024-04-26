@@ -1743,26 +1743,6 @@ Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
     </thead>
     <tbody>
         <tr>
-            <td>US01</td>
-            <td>Registro de usuario</td>
-            <td>01</td>
-            <td>Registrar sus datos para crear su usuario</td>
-            <td>Usuario puede interactuar con formulario de registro y registrar su usuario</td>
-            <td>2</td>
-            <td>Fernando Carrasco</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US02</td>
-            <td>Inicio de sesión de usuario</td>
-            <td>02</td>
-            <td>Inciar sesión con los datos que previamente registro</td>
-            <td>Usuario debe poder interactuar con el formulario de login e inciar sesión si ya tiene sus datos registrados</td>
-            <td>2</td>
-            <td>Fernando Carrasco</td>
-            <td>Done</td>
-        </tr>
-        <tr>
             <td>US03</td>
             <td>Contactar a Chaquitaclla</td>
             <td>03</td>
@@ -1791,26 +1771,6 @@ Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
             <td>3</td>
             <td>Fernando Carrasco</td>
             <td>In-Process</td>
-        </tr>
-        <tr>
-            <td>US05</td>
-            <td>Registrar cultivo</td>
-            <td>06</td>
-            <td>Añadir cultivos al registro</td>
-            <td>El usuario debe poder registrar un cultivo en la aplicación web y verlo visualizado</td>
-            <td>3</td>
-            <td>Not asigned yet</td>
-            <td>To-Do</td>
-        </tr>
-        <tr>
-            <td>US06</td>
-            <td>Eliminar cultivo</td>
-            <td>07</td>
-            <td>Eliminar registro de su cultivo</td>
-            <td>El usuario debe poder eliminar un cultivo registrado dentro de la aplicación web y al refrescar la página ya no debe estar</td>
-            <td>2</td>
-            <td>Not asigned yet</td>
-            <td>To-Do</td>
         </tr>
     </tbody>
 </table>
