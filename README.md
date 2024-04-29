@@ -582,31 +582,32 @@ De todos los entrevistados de este segmento, el 66% principalmente la hacen como
 En esta sección se presentan las tareas que realizan los usuarios, teniendo en cuenta los segmentos de AGRICULTORES y JARDINEROS. A continuación se presentan las tareas de los usuarios con el artefacto de User Task Matrix.
 Teniendo la escala de importancia y frecuencia, se presentan las tareas de los usuarios. Definides en un rango de Bajo, Medio y Alto.
 
-SEGMENTO AGRICULTORES: 
 
-|              Tareas              | Importancia | Frecuencia |
-|:----------------:|:-----------:|:----------:|
-|       Registro de cultivos       |    Alta     |    Alta    |
-|      Monitoreo de cultivos       |    Alta     |    Alta    |
-|   Revisión de recomendaciones    |    Alta     |    Alta    |
-|     Revisión de estadísticas     |    Media    |   Media    |
-|     Revisión de trazabilidad     |    Media    |   Media    |
-| Revisión de procesos fenológicos |    Media    |   Media    |
-| Revisión de cuidados necesarios  |    Media    |   Media    |
-|       Revisión de calidad        |    Alta     |    Alta    |
+Esta matriz detalla las tareas que realizan los diferentes segmentos representados por las tareas de los User Persona, especificando la frecuencia e importancia de cada una, para entender cómo contribuyen estas a sus respectivos objetivos. Los segmentos considerados son **agricultores** y **jardineros**.
 
-SEGMENTO JARDINEROS:
+| Tareas                                                         | Agricultores Importancia | Agricultores Frecuencia | Jardineros Importancia | Jardineros Frecuencia |
+|----------------------------------------------------------------|:------------------------:|:-----------------------:|:----------------------:|:---------------------:|
+| Realizar el sembrío de un cultivo                              |           Alta           | Alta                    | Alta                   | Alta                  |
+| Revisión de campo de cultivos                                  |           Alta           | Alta                    | Alta                   | Alta                  |
+| Escuchar o indagar recomendaciones                             |           Alta           | Alta                    | Alta                   | Alta                  |
+| Verificar cómo se encuentra su cultivo                         |          Media           | Media                   | Media                  | Media                 |
+| Revisión de trazabilidad                                       |          Media           | Media                   | Media                  | Media                 |
+| Verificar la etapa en la que se encuentra en revisión de campo |          Media           | Media                   | Media                  | Media                 |
+| Colocar cuidados necesarios al cultivo                         |           Alta           | Media                   | Media                  | Media                 |
+| Revisión de calidad en la cosecha                              |           Alta           | Alta                    | Alta                   | Media                 |
 
-|              Tareas              | Importancia | Frecuencia             |
-|:----------------:|:-----------:|:---------------------------------:|
-|       Registro de cultivos       |    Alta     | Alta|
-|      Monitoreo de cultivos       |    Alta     | Alta|
-|   Revisión de recomendaciones    |    Alta     | Alta|
-|     Revisión de estadísticas     |    Media    | Media|
-|     Revisión de trazabilidad     |    Media    | Media|
-| Revisión de procesos fenológicos |    Media    | Media|
-| Revisión de cuidados necesarios  |    Media    | Media|
-|       Revisión de calidad        |    Alta     | Media|
+#### Explicación de la User Task Matrix
+Las tareas con mayor frecuencia e importancia para ambos segmentos incluyen: 
+- Realizar el sembrío de un cultivo
+- Revisión de campo de cultivos
+- Revisión de calidad en la cosecha
+- Colocar cuidados necesarios al cultivo
+
+Esto viene a ser importante puesto que, nos ayuda a determinar de que manera nos podríamos centrar
+en las características de nuestro software. Las diferencias están en la revisión de campo de cultivos ya que, los
+agricultores revisan más seguido que los jardineros. Esto se evidencia pues los jardineros según el user persona, se
+dedican principalmente a otra actividad económica. 
+
 
 </div>
 
