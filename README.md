@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Informe del TB1  </h1>
+<h1 style="text-align: center;"> Informe del TP  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
@@ -1878,6 +1878,251 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 
 <div id='5.2.2.'><h4> 5.2.2.Sprint 2</h4></div>
 
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2</h5></div>
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>28/04/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00 hrs</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>Error 404</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe Condori ,Fernando Daniel/ Carrasco , Fernando/ Cantoral Paredes, Diego André</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>Se logro el diseño y despliegue de la landing page.</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>La colaboración entre los miembros del equipo fue efectiva, lo que permitió resolver los problemas de manera oportuna.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>Implementar lo que es el core del negocio, el cual es la implementación del CRUD de cultivos, además del despliegue de la Front-end Web Application</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>To be decided</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>33</td>
+        </tr>
+    </tbody>
+</table>
+
+<div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2</h5></div>
+En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que es el core del negocio, básicamente, implementar el CRUD de los cultivos, la visualización de estadísticas de estos, así como una enorme mejora en lo que respecta a la landing page, todo esto con el fin de presentar una aplicación mínimamente viable (MVP) y que sea útil para el consumidor. A pesar de realizar una organización somos conscientes de que habrán ciertos bugs e imprevisto que no pudimos arreglar a tiempo. 
+
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2">US01</th>
+      <td rowspan="2">Registro de usuario</td>
+      <td>TK01</td>
+      <td>Diseñar formulario de registro</td>
+      <td>Crear la estructura del formulario con campos básicos para nombre, correo, contraseña, y confirmación de contraseña.</td>
+      <td>3</td>
+      <td>No one asigned yet</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TK02</td>
+      <td>Implementar formulario de registro</td>
+      <td>Agregar funcionalidad para que el formulario permita crear un nuevo usuario y realizar validaciones.</td>
+      <td>5</td>
+      <td>No one asigned yet</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US02</th>
+      <td rowspan="2">Inicio de sesión de usuario existente</td>
+      <td>TK03</td>
+      <td>Diseñar formulario de inicio de sesión</td>
+      <td>Crear el formulario para que el usuario pueda ingresar con su correo y contraseña.</td>
+      <td>3</td>
+      <td>No one asigned yet</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <td>TK04</td>
+      <td>Implementar formulario de inicio de sesión</td>
+      <td>Agregar funcionalidad para verificar credenciales y permitir el acceso al usuario.</td>
+      <td>5</td>
+      <td>No one asigned yet</td>
+      <td>To-do</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US09</th>
+      <td rowspan="2">Visualización de informes</td>
+      <td>TK05</td>
+      <td>Diseñar interfaz para informes</td>
+      <td>Crear la interfaz gráfica para visualizar informes y datos estadísticos.</td>
+      <td>3</td>
+      <td>Paolo Guillen</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>TK06</td>
+      <td>Implementar funcionalidad para informes</td>
+      <td>Agregar lógica para generar y mostrar datos estadísticos en la interfaz de informes.</td>
+      <td>5</td>
+      <td>Paolo Guillen</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US05</th>
+      <td rowspan="2">Registrar cultivo</td>
+      <td>TK07</td>
+      <td>Diseñar formulario para registrar cultivo</td>
+      <td>Crear un formulario para que el usuario pueda registrar un nuevo cultivo.</td>
+      <td>3</td>
+      <td>Fernando Quispe</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>TK08</td>
+      <td>Implementar funcionalidad para registrar cultivo</td>
+      <td>Agregar lógica para guardar el cultivo registrado por el usuario.</td>
+      <td>5</td>
+      <td>Fernando Carrasco</td>
+      <td>In-process</td>
+    </tr>
+      <tr>
+      <th rowspan="2">US06</th>
+      <td rowspan="2">Eliminar registro de cultivo</td>
+      <td>TK09</td>
+      <td>Diseñar interfaz para eliminación de cultivo</td>
+      <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
+      <td>3</td>
+      <td>Fernando Quispe</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>TK10</td>
+      <td>Implementar funcionalidad para eliminar cultivo</td>
+      <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
+      <td>5</td>
+      <td>Fernando Quispe</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US07</th>
+      <td rowspan="2">Visualización de registros</td>
+      <td>TK11</td>
+      <td>Diseñar interfaz para visualización de cultivos</td>
+      <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
+      <td>3</td>
+      <td>Diego Cantoral</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>TK12</td>
+      <td>Implementar funcionalidad para visualizar registros</td>
+      <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
+      <td>5</td>
+      <td>Diego Cantoral</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US08</th>
+      <td rowspan="2">Editar registro de cultivo</td>
+      <td>TK13</td>
+      <td>Diseñar interfaz para editar cultivo</td>
+      <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
+      <td>3</td>
+      <td>Fernando Quispe</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Implementar funcionalidad para editar cultivo</td>
+      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
+      <td>5</td>
+      <td>Fernando Carrasco</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US18</th>
+      <td rowspan="2">Comunidad y foros</td>
+      <td>TK15</td>
+      <td>Diseñar interfaz para foros</td>
+      <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
+      <td>3</td>
+      <td>Amner LLamno</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Implementar funcionalidad para foros</td>
+      <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
+      <td>5</td>
+      <td>Amner LLamno</td>
+      <td>In-process</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review</h5></div>
+
+<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
+
+
+
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
@@ -1889,6 +2134,9 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 <div id='6.'><h2>Conclusiones</h2></div>
 
 **TB1:** Para esta TB1, consideramos que fue un desafío, trabajar un proyecto así con metodologías ágiles fue beneficioso, pero al ser nuestro primera vez fue complicado. Las herramientas utilizadas para despliegue de nuestro software son conocidas por mayor parte de nuestros integrantes, razón por la cual las elegimos. Para esta primera entrega todos los integrantes trabajamos de manera adecuada y efectiva. Para las futuras entregas se espera mejorar secciones donde hayamos fallado con el fin de brindar una mejor solución de calidad.
+
+**TP:** Para este TP, el uso de gitflow, nos facilito demasiado en lo que es trabajar de forma remota, sobre todo para lo que es la implementación de una aplicación web, esto fue crucial, puesto que nos ayudo a juntar cada uno de nuestros feature de una forma más eficiente, para que nosotros como equipo entendamos el código de forma general y nos ayude a comprender que función tiene cada componente respectivamente.
+
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
