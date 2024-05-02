@@ -136,6 +136,14 @@ En esta sección se observa el tiempo de la semana en la que hubo mayor activida
 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5.2.1.7.)<br>
 5.2.1.8. [Team Collaboration Insights during Sprint](#5.2.1.8.)<br>
 5.2.2. [Sprint 2](#5.2.2.)<br>
+5.2.2.1.[Sprint Planning 2](#5.2.2.1.)<br>
+5.2.2.2.[Sprint Backlog 2](#5.2.2.2.)<br>
+5.2.2.3.[Development Evidence for Sprint Review](#5.2.2.3.)<br>
+5.2.2.4.[Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
+5.2.2.5.[Execution Evidence for Sprint Review](#5.2.2.5.)<br>
+5.2.2.6.[Services Documentation Evidence for Sprint Review](#5.2.2.6.)<br>
+5.2.2.7.[Software Deployment Evidence for Sprint Review](#5.2.2.7.)<br>
+5.2.2.8.[Team Collaboration Insights during Sprint](#5.2.2.8.)<br>
 6. [**Conclusiones**](#6.)<br>
 7. [**Bibliografía**](#7.)<br>
 8. [**Anexos**](#8.)<br>
@@ -587,14 +595,14 @@ Esta matriz detalla las tareas que realizan los diferentes segmentos representad
 
 | Tareas                                                         | Agricultores Importancia | Agricultores Frecuencia | Jardineros Importancia | Jardineros Frecuencia |
 |----------------------------------------------------------------|:------------------------:|:-----------------------:|:----------------------:|:---------------------:|
-| Realizar el sembrío de un cultivo                              |           Alta           | Alta                    | Alta                   | Alta                  |
-| Revisión de campo de cultivos                                  |           Alta           | Alta                    | Alta                   | Alta                  |
+| Realizar el sembrío de un cultivo                              |           Alta           | Alta                    | Baja                   | Baja                  |
+| Revisión de campo de cultivos                                  |           Alta           | Alta                    | Media                  | Media                 |
 | Escuchar o indagar recomendaciones                             |           Alta           | Alta                    | Alta                   | Alta                  |
-| Verificar cómo se encuentra su cultivo                         |          Media           | Media                   | Media                  | Media                 |
-| Revisión de trazabilidad                                       |          Media           | Media                   | Media                  | Media                 |
-| Verificar la etapa en la que se encuentra en revisión de campo |          Media           | Media                   | Media                  | Media                 |
-| Colocar cuidados necesarios al cultivo                         |           Alta           | Media                   | Media                  | Media                 |
-| Revisión de calidad en la cosecha                              |           Alta           | Alta                    | Alta                   | Media                 |
+| Verificar cómo se encuentra su cultivo                         |           Alta           | Alta                    | Alta                   | Alta                  |
+| Diariamente cuidar a sus cultivos                         |           Alta           | Alta                    | Alta                   | Alta                  |
+| Revisión de calidad en la cosecha                              |           Alta           | Alta                    | Baja                   | Baja                  |
+| Verificar el tallo del cutltivo para determinar una etapa aproximada del desarrollo del cultivo                   |           Alta           | Alta                    | Media                  | Media                 |
+| Revisar el registro en papel de los cultivos |    Alta    |Alta    |Media    |Alta|
 
 #### Explicación de la User Task Matrix
 Las tareas con mayor frecuencia e importancia para ambos segmentos incluyen: 
