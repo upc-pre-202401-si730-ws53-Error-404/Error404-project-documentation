@@ -363,12 +363,17 @@ Enlace para acceder al [Canvas](https://app.mural.co/t/aplicacionesweb8834/m/apl
 
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
 
-En el contexto de la agricultura y su relación con la tecnología, se presentan dos aspectos relevantes: la adopción de herramientas digitales por parte de los agricultores en países desarrollados y la creciente tendencia de aficionados a la agricultura. Según datos de la FAO, aproximadamente el 80% de los agricultores en países desarrollados utilizan internet para acceder a información agrícola, y se ha observado un incremento en la adopción de aplicaciones móviles agrícolas, con un crecimiento anual del 15-20%. Estos avances tecnológicos han contribuido a reducir las pérdidas poscosecha en un rango similar. En contraste, en países en desarrollo, menos del 20% de la población rural posee habilidades básicas para el manejo de tecnologías digitales, y la mayoría de los agricultores aún optan por métodos tradicionales, lo que resulta en una pérdida sustancial de ingresos y un subaprovechamiento del potencial productivo. Además, los aficionados a la agricultura muestran un creciente interés, pero muchos prefieren seguir prácticas tradicionales en lugar de adoptar herramientas digitales debido a la falta de aplicaciones específicas para su uso. Esto conlleva a una pérdida de tiempo al tener que buscar información individualmente en internet . Todo esto significaría que si logramos que nuestro producto sea más accesible para todos, cumpliría la necesidad básica para nuestro segmento de aficionados, mientras que al implementar una interfaz intutitiva con datos claros y sencillos de entender, nuestro segmeneto de agricultores profesionales y/o comerciales podrían brindar un vistazo a nuestra aplicación para aumentar la calidad de sus cultivos a partir de una gestión mucho más eficiente que los métodos tradicionales.
+En el ámbito de la agricultura y tecnología, es fundamental identificar segmentos objetivo precisos para abordar necesidades específicas. Nuestro producto se dirige a dos segmentos clave:
+
+1. Agricultores Profesionales: Este segmento incluye a agricultores de países desarrollados y en desarrollo que se dedican a la agricultura como su actividad principal. Aunque la adopción de herramientas digitales es más alta en países desarrollados, hay una tendencia creciente entre los agricultores en países en desarrollo para usar tecnología para mejorar la productividad. Sin embargo, los agricultores en países en desarrollo pueden enfrentar barreras como acceso limitado a internet o falta de habilidades técnicas. A nivel global, este segmento busca soluciones que les permitan gestionar sus cultivos de manera eficiente, reducir pérdidas y aumentar la productividad.
+
+2. Jardineros en casa o aficionados a la Agricultura: Este segmento está compuesto por personas que practican la agricultura como hobby o en pequeña escala. Aunque tienen un creciente interés en herramientas digitales para mejorar sus prácticas agrícolas, a menudo prefieren enfoques tradicionales y pueden ser reacios a adoptar nuevas tecnologías. Necesitan aplicaciones que sean fáciles de usar y que proporcionen información clara y accesible para respaldar sus actividades agrícolas.
 
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders</h4></div>
 
 * **Stakelholder Internos:** Integrantes pertenecientes al equipo de desarrollo, además del equipo creador de la startup.
 * **Stakelholder Externos:** Sector agrícola empresarial, vendedores de productos naturales y estudiantes de alguna relacionada con la agricultura.
+
 
 [//]: #CAPITULO2
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
