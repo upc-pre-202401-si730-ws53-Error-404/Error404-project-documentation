@@ -254,11 +254,19 @@ Si consideramos lo mencionado en el punto anterior y suponemos que nuestro produ
 
 ##### **Problem Statement:** 
 
-Chaquitaclla, nuestra solución, tiene como objetivo proporcionar a los agricultores, tanto principiantes como profesionales, una herramienta de gestión para sus cultivos. Esta herramienta se diseñó para ser ágil, sencilla de usar e implementar en sus labores, permitiendo que trabajen con ella de manera eficiente.
+Chaquitaclla, nuestra herramienta de gestión agrícola, fue diseñada para ofrecer a los agricultores, tanto novatos como expertos, una solución para organizar y controlar sus cultivos de manera eficiente y sencilla. El objetivo original era simplificar la gestión diaria del campo y proporcionar información precisa para la toma de decisiones.
 
-El problema surge al registrar las características de cada cultivo de forma individual. Los métodos tradicionales de gestión, como los registros en papel y las hojas de cálculo, pueden llevar a omitir detalles cruciales. Por ejemplo, no considerar el proceso fenológico en el que se encuentra un cultivo o evaluar si la temporada actual es la más adecuada para él.
+Sin embargo, con el tiempo, se ha vuelto evidente que el registro manual de datos sobre los cultivos, a través de métodos como el papel y las hojas de cálculo, genera errores y omisiones que afectan la calidad y la precisión de la información. Por ejemplo, los agricultores pueden no tener una visión clara de las etapas fenológicas de sus cultivos o del momento óptimo para determinadas prácticas agrícolas.
 
-A pesar de los prejuicios sobre la implementación de tecnología en la agricultura, los datos estadísticos demuestran que aquellos que han adoptado herramientas digitales, como sistemas de gestión de cultivos, han obtenido beneficios significativos. Estos sistemas proporcionan datos más precisos y evitan la pérdida de información relevante. Por lo tanto surge la pregunta de ¿Cómo podemos implementar una gestión automatizada de la información de los cultivos sin generar desconfianza en los agricultores y asegurando que tendrán una mejora de calidad en sus cultivos al hacer uso de esta?
+La adopción de tecnología en la agricultura puede ser un desafío debido a la desconfianza o falta de experiencia tecnológica entre algunos agricultores. A pesar de esto, estudios muestran que aquellos que utilizan herramientas digitales para gestionar sus cultivos tienden a lograr mejores resultados, como mayores rendimientos y menor desperdicio de recursos. Por lo tanto, nuestro desafío es: ¿Cómo podemos automatizar la gestión de la información agrícola, superando las barreras de confianza y asegurando que los agricultores vean beneficios tangibles, como una mayor productividad y eficiencia?
+
+Para abordar esta pregunta, necesitamos centrarnos en las siguientes directrices:
+
+* Enfoque centrado en el cliente: La solución debe ser fácil de usar y entender para agricultores de todos los niveles de experiencia.
+* Alcance claro: Nos centraremos en la gestión de información de los cultivos, excluyendo otras áreas como maquinaria o logística.
+* Medidas de éxito: El éxito se medirá por la reducción de errores en el registro de datos, la adopción de la herramienta por parte de los agricultores, y el aumento en la productividad o calidad de los cultivos.
+* Al plantear esta pregunta de manera abierta, podemos explorar diversas soluciones sin definir de antemano cómo deben ser. La clave es garantizar que cualquier solución propuesta aporte valor real a los agricultores y sea aceptada por ellos.
+
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
@@ -302,24 +310,24 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 
 ###### **Feature Assumptions:**
 
-**Creemos que** una interfaz intuitiva y fácilmente accesible permitirá que tanto agricultores principiantes como profesionales adopten nuestra aplicación con mayor facilidad. Esto facilitará una rápida comprensión del funcionamiento de la aplicación y contribuirá a una adopción más amplia entre la comunidad agrícola.
 
 **Creemos que**  al incluir herramientas estadísticas y opciones de visualización de datos, proporcionaremos a los agricultores profesionales la capacidad de tomar decisiones informadas sobre qué cultivos plantar en cada temporada. Esto favorecerá la aceptación de la aplicación y su utilidad en la toma de decisiones agrícolas estratégicas.
 
-**Creemos que** al ofrecer notificaciones y avisos sobre la proximidad de la cosecha y los cambios en las fases fenológicas de los cultivos, ayudaremos a los agricultores a prepararse adecuadamente. Esto se traducirá en una mejora de la calidad de los productos agrícolas y una mayor eficiencia en la gestión de los cultivos.
+**Creemos que** un foro de discusión permitirá a los usuarios compartir conocimientos, hacer preguntas y recibir respuestas de otros agricultores y jardineros incrementando una interacción y compartiendo más conocimientos.
 
-**Creemos que**  la inclusión de encuestas permitirá a los usuarios proporcionar retroalimentación continua sobre la aplicación. Esta retroalimentación nos ayudará a corregir cualquier error rápidamente y a mejorar la experiencia del usuario, lo que a su vez fortalecerá la confianza en la aplicación y su utilidad a largo plazo.
+**Creemos que** al proporcionar datos históricos de rendimiento y recomendaciones de cultivos por temporada, los agricultores podrán tomar decisiones más informadas sobre qué cultivar y cuándo, mejorando así la productividad y la calidad de sus cosechas.
 
+**Creemos que** que brindar una herramienta para llevar un registro detallado de las plagas y enfermedades que afectan a los cultivos permitirá a los agricultores tomar medidas preventivas y correctivas de manera más eficiente.
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 * **Hypothesis Statement 01:**
     
-    **Creemos que** tanto los agricultores principiantes como los profesionales estarán dispuestos a adoptar nuestra aplicación de gestión de cultivos para llevar un registro más eficiente de sus procesos fenológicos y características de los cultivos
+    **Creemos que** tanto los agricultores principiantes como los profesionales estarán dispuestos a adoptar nuestra aplicación de gestión de cultivos e interactuar con el foro de comunidad para aprender más sobre agricultura
     
     **Sabremos** que hemos tenido éxito
     
-    **Cuando** observemos que la tasa de usuarios activos de nuestra aplicación durante el primer año supera el 40% del total de agricultores en Perú. Esto indicará una adopción significativa y una respuesta positiva por parte de la comunidad agrícola.
+    **Cuando** observemos que hay un promedio de 600 usuarios en los dos primeros meses que interactuen continuamente en el foro de preguntas y respuestas.
 
 * **Hypothesis Statement 02:**
     
@@ -330,12 +338,12 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
     **Cuando** observemos en los registros que los cultivos más comunes durante la presente temporada son precisamente aquellos que nuestra aplicación recomendó. Esto indicará que estamos influyendo positivamente en las decisiones de cultivo y en la calidad de las cosechas.
   
 * **Hypothesis Statement 03:**
-    
-    **Creemos que** al proporcionar consejos específicos a los agricultores sobre los cuidados necesarios para cada etapa fenológica de sus cultivos, lograremos mejorar significativamente la calidad de los productos agrícolas
-    
-    **Sabremos** que hemos tenido éxito
-    
-    **Cuando** encuestas a los agricultores profesionales y ellos reporten una percepción positiva de la mejora en la calidad de sus productos. Además, si observamos un aumento en las ventas como resultado directo de estas mejoras, consideraremos que estamos en el camino correcto.
+
+    **Creemos que** al proporcionar datos sobre enferemedades que podrían tener los cultivos, nuestra aplicación permitirá a tomas más preocupaciones a los usuarios al momento de cuidar sus cultivos con el fin de que sean de mejor calidad.
+
+    **Sabremos que** hemos tenido éxito
+
+    **Cuando** observemos unas  400  visitas usuarios en el primer mes hacia la sección de plagas y enfermedades de cultivos y sus cultivos hayan sido constantes en ese tiempo. 
 
 * **Hypothesis Statement 04:**
     
