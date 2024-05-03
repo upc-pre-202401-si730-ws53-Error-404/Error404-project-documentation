@@ -2216,6 +2216,34 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 
 <div id='5.2.2.3.'><h5> 5.2.2.3.Development Evidence for Sprint Review</h5></div>
 
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-list-and-registration  |b1894e2| correction toolbar and add styles |  | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/consultation-forum-management  |91c74ef| Merge branch 'refs/heads/develop' into feature/consultation-forum-management |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/consultation-forum-management   |ded7b07| feat(forum): added table of myqueries component.  |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/consultation-forum-management  |324b634| feat(new-consultation): added component my-queries and new consultation. TODO:FIX STYLES. |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-history  |099f173| feat: add crop-history  |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-history |8e77e3d| feat: changed crop-list-and-registration css |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-history |df30f60| mensaje  |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-list-and-registration  |3fc17dd| add crop registration  |  | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-list-and-registration  |b1894e2| correction toolbar and add styles |  | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/crops-statistics/ |3dea5a1 | chore: add dependency chart.js vue |  | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/crops-statistics/| 7d82b11 | fix: change how http.service works, plus added good practices to the code |  | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/crops-statistics/| 0104cba | feat: added pie chart|  | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/crops-statistics/| 5249c58 | feat: changed package.json|   | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/crops-statistics/| 21f7932 |feat: changed env. routes |  | 02/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/crops-statistics/| 47daab9 | feat: added dialog box to interact with in the statistics section |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-information  |59cf2ca| feat: prueba router  |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-information  |2b5a300| feat: controls.component.vue  |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| feature/crop-information  |3533b92|feat: products-used.component.vue and diseases-or-pests.component.vue|  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 05a6009 | feat: added call-to-action to the frontend-web-application |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| a09f7ac | added placeholders for videos items| 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| develop |2f153b8|feat: crop care and routing |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| develop  |2b5a300| feat: controls.component.vue |  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| develop   |3533b92| feat: products-used.component.vue and diseases-or-pests.component.vue|  | 03/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application| develop   |6bbaf9a| Merge branch 'refs/heads/develop' into feature/consultation-forum-management |  | 03/05/2024 |
+
+
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
 
 Al finalizar por completo lo que es la landing page y gran parte de la aplicación web, se pueden empezar a hacer pruebas de estas funcionalidades, si bien las pruebas se pueden realizar mediante pruebas exploratorias, con el fin de la documentación más formal, la sección "Testing" se centro en la implementación de los archivos feature siguiendo la sintaxis de Gherkin. Estos features están basados en los user stories especificados para este sprint, todos estos arhcivos .feature se encuentran dentro de la documentación de este repositorio como un folder llamado features, esto para no interferir con los demás repositorios donde se trabajan los proyectos respectivamente. 
