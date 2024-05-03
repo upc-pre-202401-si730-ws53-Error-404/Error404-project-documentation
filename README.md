@@ -2269,15 +2269,29 @@ Al finalizar por completo lo que es la landing page y gran parte de la aplicaci√
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 
 US05:
+<img src="resources/evidencia/One.png">
 
 US06:
+<img src="resources/evidencia/Two.png">
 
 US07:
+<img src="resources/evidencia/Three.png">
 
 US08: 
+<img src="resources/evidencia/Four.png">
 
 US09:
+<img src="resources/evidencia/Five.png">
 
+US10:
+<img src="resources/evidencia/Six.png">
+
+US13:
+<img src="resources/evidencia/Seven.png">
+
+US16:
+
+<img src="resources/evidencia/Eight.png">
 
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
