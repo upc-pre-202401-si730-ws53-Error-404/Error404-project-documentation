@@ -667,9 +667,15 @@ Aquí para el segmento de jardineros se presenta el Empathy Mapping.
 
 * **Hobby:** Este término hace referencia a una actividad recreativa o pasatiempo que una persona realiza por diversión o placer, sin una motivación necesaria de carácter profesional o económico.
 * **Phenological Phase:** Eventos recurrentes en el ciclo de vida de las plantas y su interacción con el medio ambient que están estrechamente relacionados con factores climáticos y ambientales.
-* **Crops Statistics::** Sección donde los usuarisos de nuestros segmentos objetivos podrán revisar estadísticas en relación a sus cultivos.
+* **Crops Statistics (Estadísticas de cultivos):** Sección donde los usuarisos de nuestros segmentos objetivos podrán revisar estadísticas en relación a sus cultivos.
+* **Crop Tracking (Seguimiento de Cultivos):** Se refiere al proceso de monitorear el crecimiento y desarrollo de los cultivos a lo largo del tiempo. Esto puede incluir registrar fechas de siembra, etapas fenológicas, condiciones del suelo, clima, tratamientos aplicados y cualquier otro dato relevante para evaluar el progreso de los cultivos.
+* **Data Visualization (Visualización de Datos):** Se refiere a la representación gráfica de datos, como gráficos, diagramas y tablas, que facilita la comprensión y el análisis de la información. En el contexto agrícola, la visualización de datos puede ayudar a los agricultores a identificar tendencias, patrones y anomalías en sus cultivos.
+* **Yield Optimization (Optimización de Rendimiento):** Término que describe el proceso de mejorar la producción agrícola para obtener el mayor rendimiento posible. Incluye la aplicación de mejores prácticas agrícolas, el uso de tecnología para gestionar los cultivos y la toma de decisiones estratégicas para maximizar la producción.
+* **Forum (Foro):** Espacio dentro de una aplicación o plataforma digital donde los usuarios pueden interactuar, compartir experiencias, hacer preguntas y recibir respuestas de otros agricultores o expertos. Los foros fomentan el aprendizaje colaborativo y ayudan a crear una comunidad de usuarios con intereses comunes.
+* **Crops Management (Gestión de Cultivos):** Se refiere a la planificación, organización y control de todas las actividades relacionadas con la producción agrícola. Incluye aspectos como selección de cultivos, programación de tareas, manejo de recursos, control de plagas, y toma de decisiones estratégicas para maximizar el rendimiento agrícola.
+* **Sustainability in Agriculture (Sostenibilidad en la Agricultura):** Enfoque agrícola que busca equilibrar la producción de alimentos con la preservación del medio ambiente y la responsabilidad social. Este enfoque es lo que el equipo detrás de Chaquitaclla siempre tiene en mente al realizar sus productos y es algo que nuestros stakeholders entienden bien.
 
-
+  
 [//]: #CAPITULO3
 
 <div id='3.'><h2>Capítulo 3: Requirements Specification</h2></div>
