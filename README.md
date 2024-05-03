@@ -1707,9 +1707,9 @@ Con el fin de poder desplegar nuestro fronten web application es necesario conta
 
 A continuación se presentarán la serie de pasos a seguir: 
 
-1. Usar ng build en el terminal del proyecto que vamos a desplegar, esto con el fin de prepararlo para este.
+1. Usar npm run build en el terminal del proyecto que vamos a desplegar, esto con el fin de prepararlo para este.
 2. Una vez realizado deberiamos de poder ver una carpeta "dist" en nuestro proyecto
-3. Posteriormente en el ide, en su terminal nos logeamos a lo que es firebase, el cual en mi caso ya lo hice.
+3. Posteriormente en el ide, en su terminal nos logeamos a lo que es firebase con firebase login, el cual en mi caso ya lo hice.
 4. Una vez logeado, seguimos con el comando de firebase init.
 5. Le damos que (Y) a que estamos listos para proceder.
 6. Una vez terminado todos los procesos y haber elegido ">( ) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys   "
@@ -1718,10 +1718,12 @@ A continuación se presentarán la serie de pasos a seguir:
 9. Quedaría los ultimos pasos el cual es el despliegue, esto se realiza con el comando "firebase deploy" 
 10. Elegimos el proyecto de firebase en el cual se desplegara el proyecto y !Listo!, hemos podido desplegar nuestra aplicación web Frontend, que trabaja con datos de un json-server alojado en la siguiente url:
 
-
-PonerFotos
-PonerFotos
-
+![stepOne](/resources/firebase/webDeploymentFirebaseOne.png)
+![stepTwo](/resources/firebase/webDeploymentFirebaseTwo.png)
+![stepThree](/resources/firebase/webDeploymentFirebaseThree.png)
+![stepFour](/resources/firebase/webDeploymentFirebaseFour.png)
+![stepFive](/resources/firebase/webDeploymentFirebaseFive.png)
+![stepSix](/resources/firebase/webDeploymentFirebaseSix.png)
 
 
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
