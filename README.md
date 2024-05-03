@@ -2302,12 +2302,27 @@ El despliegue de la landing page se encuentra en lo que es GithubPages, por la f
 
 **Capturas de pantalla de la landing page**
 
+<img src="resources/fotosSprintDos/One.png">
+<img src="resources/fotosSprintDos/Two.png">
+<img src="resources/fotosSprintDos/Three.png">
+<img src="resources/fotosSprintDos/Four.png">
+<img src="resources/fotosSprintDos/Five.png">
+<img src="resources/fotosSprintDos/Six.png">
+
 
 
 Web Application:
 Se certifica la exitosa implementación de la aplicación web frontend en lo que es Firebase, así como el correcto funcionamiento de esto en conjunto al uso del my-json-server, para el siguiente sprint se buscará implementar una mejor interfaz gráfica y más amigable para el usuario. 
 
 **Capturas de pantalla de la web application**
+
+<img src="resources/fotosSprintDos/Seven.png">
+<img src="resources/fotosSprintDos/Eight.png">
+<img src="resources/fotosSprintDos/Nine.png">
+<img src="resources/fotosSprintDos/Ten.png">
+<img src="resources/fotosSprintDos/Eleven.png">
+<img src="resources/fotosSprintDos/Twelve.png">
+<img src="resources/fotosSprintDos/Thirteen.png">
 
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
