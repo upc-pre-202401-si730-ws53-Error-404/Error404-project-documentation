@@ -2006,11 +2006,11 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
-            <td>To be decided</td>
+            <td>25</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td></td>
+            <td>25</td>
         </tr>
     </tbody>
 </table>
@@ -2148,6 +2148,55 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>Fernando Quispe</td>
       <td>In-process</td>
     </tr>
+       <tr>
+      <th rowspan="2">US10</th>
+      <td rowspan="2">Ver video sobre el equipo en la landing page</td>
+      <td>TK17</td>
+      <td>Diseñar la interfaz para el video del equipo</td>
+      <td>Crear la sección en la landing page para mostrar el video del equipo.</td>
+      <td>3</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK18</td>
+      <td>Implementar funcionalidad para el video del equipo</td>
+      <td>Agregar la lógica para mostrar y reproducir el video en la landing page.</td>
+      <td>4</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+  <th rowspan="1">US13</th>
+  <td rowspan="1">Buscar los servicios que deseo utilizar</td>
+  <td>TK19</td>
+  <td>Diseñar la interfaz para el cuadro de búsqueda de servicios</td>
+  <td>Crear el diseño visual para el cuadro de búsqueda de servicios en la aplicación.</td>
+  <td>1</td>
+  <td>Paolo Guillen</td>
+  <td>Done</td>
+</tr>
+      <tr>
+  <th rowspan="1">US15</th>
+  <td rowspan="1">Planificación de cultivos</td>
+  <td>TK20</td>
+  <td>Desarrollar herramientas para la rotación de cultivos</td>
+  <td>Crear herramientas que ayuden con la planificación y rotación de cultivos en el huerto.</td>
+  <td>3</td>
+  <td>Amner Llamno</td>
+  <td>Done</td>
+</tr>
+      <tr>
+  <th rowspan="1">US16</th>
+  <td rowspan="1">Compatibilidad con otros dispositivos</td>
+  <td>TK21</td>
+  <td>Desarrollar una aplicación o interfaz para gestionar el huerto desde dispositivos móviles</td>
+  <td>Permitir la gestión del huerto desde teléfonos inteligentes o tabletas en cualquier lugar y momento.</td>
+  <td>2</td>
+  <td>Paolo Guillen</td>
+  <td>Done</td>
+</tr>
+
   </tbody>
 </table>
 
