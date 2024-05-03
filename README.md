@@ -1775,7 +1775,7 @@ PonerFotos
 
 En este primer Sprint backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación junto con del CRUD de cultivos. Todo esto en un ambiente estático meramente visual. La herramienta de Trello fue la elegida de forma grupal para trabajar el primer Sprint, esto por la facilidad que brinda para trabajar con metodologías ágiles. La landing page cuenta con errorres y ciertas secciones que no siguen el Responsive Web Design, características en las cuales estaríamos trabajando para mejorar a futuro.
 
-<img src="resources/TrelloImage.png">
+<img src="resources/trelloSprintOneAppWeb.png">
 
 Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
 
