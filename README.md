@@ -2191,6 +2191,8 @@ Gaviria González, N. (2022, 8 de febrero). Según Minagricultura cerca de 15% d
 
 Foro Económico Mundial. (2020, 9 de julio). ¿Volver a crecer mejor? He aquí cómo la agricultura digital podría revolucionar las comunidades rurales afectadas por COVID-19. Recuperado de [https://es.weforum.org/agenda/2020/07/volver-a-crecer-mejor-he-aqui-como-la-agricultura-digital-podria-revolucionar-las-comunidades-rurales-afectadas-por-covid-19/"]
 
+Muhammad Usman. (2022, 19 de abril). Deployment/Hosting of Vue.js app using Firebase. Recuperado de: [https://medium.com/nerd-for-tech/deployment-hosting-of-vue-app-using-firebase-20d2f6a6819b]
+
 <div id='8.'><h2>Anexos</h2></div>
 
 * **LandingPage:** [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/]
