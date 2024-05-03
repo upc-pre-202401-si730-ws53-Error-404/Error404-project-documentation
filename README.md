@@ -2205,6 +2205,15 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review</h5></div>
 
+Al finalizar por completo lo que es la landing page y gran parte de la aplicación web, se pueden empezar a hacer pruebas de estas funcionalidades, si bien las pruebas se pueden realizar mediante pruebas exploratorias, con el fin de la documentación más formal, la sección "Testing" se centro en la implementación de los archivos feature siguiendo la sintaxis de Gherkin. Estos features están basados en los user stories especificados para este sprint, todos estos arhcivos .feature se encuentran dentro de la documentación de este repositorio como un folder llamado features, esto para no interferir con los demás repositorios donde se trabajan los proyectos respectivamente. 
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+||main||chore: uploaded acceptance test for user stories||03/05/2024|
+
+
+
+
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
