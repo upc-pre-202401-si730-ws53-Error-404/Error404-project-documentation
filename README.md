@@ -2268,6 +2268,18 @@ Al finalizar por completo lo que es la landing page y gran parte de la aplicaci�
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 
+US05:
+
+US06:
+
+US07:
+
+US08: 
+
+US09:
+
+
+
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
 
 Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarrollo restante de la landing page y el front-end y para evitar limitaciones al probar las funcionalidades, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local, sin embargo tras haber aprendido sobre My Json Server, se optó por usar este último puesto que nos permite interactuar con él desde una Front End Web Application ya desplegada. Sin embargo no encontramos un problema y es que el my-json server solo trabaja con maximo 5 endpoints, por esto lo separamos en dos dbs separados nuestros BC. 
@@ -2299,6 +2311,26 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Guillen Luna, Paolo César|Reestructuración de la landing page. Elaboración del json-server. Despliegue de la aplicación web y landing page en Firebase y github pages respectivamente. Elaborar componente relacionado a las estadísticas de los cultivos|
+|Carrasco Fernando|Elaborar componente crop-information para brindarle información al usuario sobre su cultivo registrado.|
+|Amner Llamno |Elorar entidad crop, component register-crop, entre otros. Como miembro del equipo su actividad principal fue de confirmar que se sigan las nomenclaturas del código de forma correcta.|
+|Cantoral, Diego|Elaboración de componentes relacionados al historial de cultivos chequeo parcial por errores dentro del código.|
+|Quispe Fernando|Elaboración de los componentes relacionados a los foros. Elbaoración del db.json. Elaborar componente header (toolbar) y home|
+
+**Landing Page**
+<img src="resources/todosCommits/One.png">
+<img src="resources/todosCommits/Two.png">
+<img src="resources/todosCommits/Three.png">
+
+
+**Web Application**
+<img src="resources/todosCommits/Four.png">
+<img src="resources/todosCommits/Five.png">
+<img src="resources/todosCommits/Six.png">
+
 
 
 
