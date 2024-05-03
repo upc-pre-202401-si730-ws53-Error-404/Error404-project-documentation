@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Informe del TP  </h1>
+![image](https://github.com/upc-pre-202401-si730-ws53-Error-404/Error404-project-documentation/assets/129306198/837c67eb-1f41-4e1c-ba49-bb268923cb58)<h1 style="text-align: center;"> Informe del TP  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
@@ -700,7 +700,7 @@ Aquí para el segmento de jardineros se presenta el Empathy Mapping.
 | US07 | Visualización de Registros | Como usuario de la aplicación, Quiero poder visualizar mis registros de cultivos Para evaluar su evolución. | **Escenario 1:** Visualización de los registros de cultivos satisfactoriamente <br> Dado que el usuario desea evaluar la evolución de sus cultivos <br> Cuando accede a la sección de registros de cultivos <br> Entonces se muestra una lista de todos los cultivos previamente registrados. <br> **Escenario 2:** No existen registros de cultivos <br> Dado que el usuario accede a la sección de registros de cultivos <br> Cuando no tiene ningún cultivo registrado previamente <br> Entonces se muestra un mensaje indicando que no hay registros disponibles. <br> **Escenario 3:** Error al intentar visualizar sus registros de cultivos <br> Dado que el usuario intenta acceder a la sección de registros de cultivos <br> Cuando el sistema encuentra un error durante la recuperación o visualización <br> Entonces se muestra un mensaje de error y se proporciona una opción para intentar nuevamente o contactar al soporte técnico. | EPIC02: Interacción con el Huerto |
 | US08 | Editar registro de cultivo | Como usuario de la aplicación, Quiero poder editar mis registros de cultivos Para corregir errores. | **Escenario 1:** Registro editado satisfactoriamente <br> Dado que el usuario desea editar un registro <br> Cuando realiza las modificaciones necesarias en los datos del registro <br> Entonces el sistema actualiza el registro con la información editada. <br> **Escenario 2:** Edición de registro cancelada <br> Dado que el usuario está editando un registro de cultivo <br> Cuando decide cancelar la operación de edición antes de guardar los cambios <br> Entonces se descartan los cambios y se mantiene la información original. <br> **Escenario 3:** Error al editar registro <br> Dado que el usuario desea editar un registro <br> Cuando realiza modificaciones pero el sistema encuentra un error <br> Entonces se indica que la información no pudo ser procesada y se muestra un mensaje de error. | EPIC02: Interacción con el Huerto |
 | US09 | Visualización de informes | Como usuario de la aplicación, Quiero poder generar informes basados en los datos registrados y visualizarlos Para tomar decisiones fundamentadas. | **Escenario 1:** Acceder a informes <br> Dado que el usuario desea ver informes estadísticos <br> Cuando selecciona el informe deseado <br> Entonces el sistema muestra un informe estadístico detallado. **Escenario 2:** Fallo en la visualización de informes <br> Dado que el usuario desea ver informes estadísticos <br> Cuando selecciona el informe deseado <br> Entonces el sistema muestra un mensaje de error o no carga el informe, lo que le impide al usuario obtener la información necesaria.| EPIC02: Interacción con el Huerto |
-| US10 | Notificaciones sobre cosecha y cambios en fase fenológica de cultivos | Como usuario de la aplicación, Quiero recibir notificaciones y avisos cuando un cultivo se esté acercando a la cosecha o cuando su fase fenológica esté por cambiar, Para que pueda prepararme con los recursos necesarios de manera oportuna. | **Escenario 1:** Usuario recibe notificación sobre la proximidad de la cosecha <br> Dado que el usuario ha registrado un cultivo <br> Cuando se acerca el período de cosecha y el sistema detecta esta situación <br> Entonces el sistema envía una notificación recordándole preparar los recursos necesarios. <br> **Escenario 2:** Usuario recibe notificación sobre cambio de fase fenológica del cultivo <br> Dado que el usuario ha registrado un cultivo <br> Cuando se acerca un cambio de fase fenológica y el sistema detecta esta situación <br> Entonces el sistema envía una notificación indicando el cambio próximo y sugiriendo acciones. | EPIC05: Notificaciones y alertas |
+| US10 | Ver video sobre el equipo en la landing page | Como visitante de la aplicación, quiero ver un video que explique quiénes son los miembros del equipo y qué hacen, para conocer más sobre la gente detrás del proyecto y entender su visión y valores.  | **Escenario 1: Video se carga correctamente** <br> Dado que el visitante está en la landing page<br> Cuando hace clic para ver el video sobre el equipo<br> Entonces el video se reproduce sin problemas y el visitante puede ver el contenido completo.<br><br> **Escenario 2: Fallo al cargar el video** <br> Dado que el visitante está en la landing page<br> Cuando intenta ver el video sobre el equipo<br> Entonces el video no se carga o muestra un error, impidiendo que el visitante vea el contenido. | EPIC03: Interfaz y Experiencia de Usuario |
 | US11 | Ver perfil de usuario | Como usuario registrado en la aplicación, Quiero poder ver mi perfil Para acceder a información relevante sobre mi cuenta. | **Escenario 1:** Usuario accede a su perfil satisfactoriamente <br> Dado que el usuario desea ver la información de su perfil <br> Cuando ingresa a su perfil de usuario <br> Entonces se muestra la información relevante del usuario. **Escenario 2:** Fallo al acceder al perfil <br> Dado que el usuario desea ver su información de perfil <br> Cuando intenta acceder a su perfil <br> Entonces el sistema muestra un mensaje de error o la información no se carga, impidiendo al usuario visualizar sus datos. | EPIC01: Gestión de Usuario |
 | US12 | Editar perfil de usuario | Como usuario registrado en la aplicación, Quiero poder editar mi perfil Para mantener actualizada mi información personal. | **Escenario 1:** Usuario edita su perfil satisfactoriamente <br> Dado que el usuario desea actualizar su información personal <br> Cuando realiza los cambios y confirma su intención <br> Entonces la información se guarda correctamente en la base de datos y se refleja en el perfil. **Escenario 2:** Fallo al editar el perfil <br> Dado que el usuario desea actualizar su información personal <br> Cuando intenta realizar cambios y confirmar la edición <br> Entonces el sistema muestra un mensaje de error o no guarda las modificaciones, dejando el perfil sin cambios.| EPIC01: Gestión de Usuario |
 | US13 | Buscar los servicios que deseo utilizar | Como cliente, Quiero buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio Para acceder a las funciones de manera rápida. | **Escenario 1:** Cliente busca el servicio de gestión <br> Dado que el usuario desea utilizar el servicio de gestión <br> Cuando lo encuentra dentro de los servicios <br> Entonces lo selecciona y accede a la gestión de su huerto o la sección correspondiente. **Escenario 2:** Fallo al buscar servicios <br> Dado que el cliente desea buscar un servicio en el cuadro de búsqueda <br> Cuando ingresa el nombre del servicio y presiona "buscar" <br> Entonces el sistema muestra resultados incorrectos o no encuentra el servicio, dificultando que el usuario acceda a las funciones deseadas. | EPIC03: Interfaz y Experiencia de Usuario |
@@ -742,31 +742,37 @@ Para una correcta calificacion de los story points, optamos por seguir la escala
 
 | Orden  | User Story ID| Título|Descripción |Story Points|
 | ------------- |:--------:| ------------- |:-------------:|:-------------:|
-| 1      | US04    |Barra de navegación| Como visitante de la landing page. Quiero poder usar la barra de navegación de la landing page para desplazarme por esta.|3|
-| 3      | US03    |Contactar a Chaquitaclla|Como usuario que se encuentra en la landing page, Quiero poder contactar al equipo de Chaquitaclla mediante correo algún formulario de contacto.|3|
-| 2      | US01    |Registro de usuario|Como visitante de la aplicación, Quiero poder registrarme como nuevo usuario Para acceder a las funciones exclusivas y personalizar mi experiencia en la plataforma.	|2|
-| 2      | US02    |Inicio de sesión de usuario existente|Como usuario registrado en la aplicación, Quiero poder iniciar sesión en mi cuenta con mi nombre de usuario y contraseña Para acceder a mis datos y continuar con mis actividades de gestión de mis cultivos en la plataforma.|2|
+| 1      | US04    |Barra de navegación| Como visitante de la landing page. Quiero poder usar la barra de navegación de la landing page para desplazarme por esta.|1|
+| 3      | US03    |Contactar a Chaquitaclla|Como usuario que se encuentra en la landing page, Quiero poder contactar al equipo de Chaquitaclla mediante correo algún formulario de contacto.|2|
+| 2      | US01    |Registro de usuario|Como visitante de la aplicación, Quiero poder registrarme como nuevo usuario Para acceder a las funciones exclusivas y personalizar mi experiencia en la plataforma.	|3|
+| 2      | US02    |Inicio de sesión de usuario existente|Como usuario registrado en la aplicación, Quiero poder iniciar sesión en mi cuenta con mi nombre de usuario y contraseña Para acceder a mis datos y continuar con mis actividades de gestión de mis cultivos en la plataforma.|3|
 | 5      | US05    |Registrar cultivo|Como usuario de la aplicación, Quiero poder registrar nuevos cultivos Para llevar un seguimiento detallado de cada uno de ellos.|3|
 | 6      | US06    |Eliminar registro de cultivo|Como usuario de la aplicación, Quiero poder eliminar mis registros de cultivos Para mantener los registros relevantes.|3|
-| 7      | US07    |Visualización de Registros|Como usuario de la aplicación, Quiero poder visualizar mis registros de cultivos Para evaluar su evolución.|5|
-| 8      | US08    |Editar registro de cultivo|Como usuario de la aplicación, Quiero poder editar mis registros de cultivos Para corregir errores.|5|
-| 9      | US09    |Visualización de informes|Como usuario de la aplicación, Quiero poder generar informes basados en los datos registrados y visualizarlos Para tomar decisiones fundamentadas.|5|
-| 10     | US10    |Notificaciones sobre cosecha y cambios en fase fenológica de cultivos|Como usuario de la aplicación, Quiero recibir notificaciones y avisos cuando un cultivo se esté acercando a la cosecha o cuando su fase fenológica esté por cambiar, Para que pueda prepararme con los recursos necesarios de manera oportuna.|8|
-| 11     | US11    |Ver perfil de usuario|Como usuario registrado en la aplicación, Quiero poder ver mi perfil Para acceder a información relevante sobre mi cuenta.|5|
-| 12     | US12    |Editar perfil de usuario|Como usuario registrado en la aplicación, Quiero poder editar mi perfil Para mantener actualizada mi información personal.|5|
-| 13     | US13    |Buscar los servicios que deseo utilizar|Como cliente quiero buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio Para acceder a las funciones de manera más rápida.|8|
-| 14     | US14    |Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario|Como cliente quiero que pueda revisar el estado del producto elegido a lo largo del tiempo que inicio y finalice con el proyecto Para así tener más criterio de tomar decisiones.|5|
-| 15     | US15    |Planificación de cultivos|Como usuario quiero contar con herramientas en que me ayuden con la rotación de los cultivos y disposición de plantas en el huerto Para mejorar la productividad de mis cultivos.|8|
-| 16     | US16    |Compatibilidad con otros dispositivos|Como usuario quiero gestionar el huerto desde cualquier dispositivo Para realizarlo en cualquier lugar y cuando quiera.|8|
-| 17     | US17    |Integración con redes sociales|Como usuario quiero compartir fotos, consejos y logros de mi huerto con amigos o familiares en las redes sociales Para que vean mis logros con el cultivo.|8|
-| 18     | US18    |Comunidad y foros|Como usuario quiero tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios Para que me ayude con mi cultivo.|13|
-| 19     | US19    |Recuperación de contraseña olvidada|Como usuario que ha olvidado su contraseña, Quiero tener la opción de restablecer mi contraseña Para poder acceder nuevamente a mi cuenta sin perder datos ni configuraciones.|5|
-| 20     | TS01    |Post Horticulturist|Como desarrollador de la aplicación de Chaquitaclla Quiero registrar a un nuevo horticultor mediante una API Para visualizar los horticultor afiliados a nuestra aplicación	|5|
-| 21      | TS02    |Get Horticulturist|Como desarrollador de la aplicación Chaquitaclla Quiero obtener la información de un horticultor mediante una API Para mostrarla en la aplicación cuando se solicite.	|5|
-| 22      | TS03    |Post Farmer|Como desarrollador de la aplicación de Chaquitaclla Quiero registrar a un nuevo granjero mediante una API Para visualizar los granjeros afiliados a nuestra aplicación	|5|
-| 23      | TS04    |Get Farmer|Como desarrollador de la aplicación Chaquitaclla Quiero obtener la información de un granjero mediante una API Para mostrarla en la aplicación cuando se solicite.	|5|
-| 24      | TS05    |Post Crops|Como desarrollador de la aplicación de Chaquitaclla Quiero registrar un nuevo cultivo mediante una API Para mantener el registro de los cultivos	|5|
-| 25      | TS06    |Get Crops|Como desarrollador de la aplicación de Chaquitaclla Quiero obtener información sobre un cultivo mediante una API Para mostrar el cultivo en la aplicación al momento de ser solicitado.	|5|
+| 7      | US07    |Visualización de Registros|Como usuario de la aplicación, Quiero poder visualizar mis registros de cultivos Para evaluar su evolución.|2|
+| 8      | US08    |Editar registro de cultivo|Como usuario de la aplicación, Quiero poder editar mis registros de cultivos Para corregir errores.|3|
+| 9      | US09    |Visualización de informes|Como usuario de la aplicación, Quiero poder generar informes basados en los datos registrados y visualizarlos Para tomar decisiones fundamentadas.|2|
+| 10     | US10    |Ver video sobre el equipo en la landing page|Como visitante de la aplicación, quiero ver un video que explique quiénes son los miembros del equipo y qué hacen, para conocer más sobre la gente detrás del proyecto y entender su visión y valores.|1|
+| 11     | US11    |Ver perfil de usuario|Como usuario registrado en la aplicación, Quiero poder ver mi perfil Para acceder a información relevante sobre mi cuenta.|2|
+| 12     | US12    |Editar perfil de usuario|Como usuario registrado en la aplicación, Quiero poder editar mi perfil Para mantener actualizada mi información personal.|3|
+| 13     | US13    |Buscar los servicios que deseo utilizar|Como cliente quiero buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio Para acceder a las funciones de manera más rápida.|1|
+| 14     | US14    |Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario|Como cliente quiero que pueda revisar el estado del producto elegido a lo largo del tiempo que inicio y finalice con el proyecto Para así tener más criterio de tomar decisiones.|3|
+| 15     | US15    |Planificación de cultivos|Como usuario quiero contar con herramientas en que me ayuden con la rotación de los cultivos y disposición de plantas en el huerto Para mejorar la productividad de mis cultivos.|3|
+| 16     | US16    |Compatibilidad con otros dispositivos|Como usuario quiero gestionar el huerto desde cualquier dispositivo Para realizarlo en cualquier lugar y cuando quiera.|2|
+| 17     | US17       |Navegación por la landing page | Como visitante, Quiero navegar por la landing page de Chaquitaclla,Para informarme mejor sobre el producto. |2|
+| 18     | US18    |Comunidad y foros|Como usuario quiero tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios Para que me ayude con mi cultivo.|5|
+| 19     | US19    |Recuperación de contraseña olvidada|Como usuario que ha olvidado su contraseña, Quiero tener la opción de restablecer mi contraseña Para poder acceder nuevamente a mi cuenta sin perder datos ni configuraciones.|2|
+| 20     | US20     | Ver beneficios de Chaquitaclla | Como visitante de la landing page, Quiero poder ver los beneficios del producto Chaquitaclla para realizar una decisión informada antes de comprar mi suscripción. |1|
+| 21     | US21 |  Ver equipo de Chaquitaclla| Como visitante de la landing page, Quiero poder informarme sobre el equipo que trabajo para crear el producto Chaquitaclla para ver si tienen experiencia previas en productos similares y tener una idea de la calidad del producto.|2|
+| 22     | TS01 | Get user | **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** obtener información de un usuario mediante la API RESTful <br> **Para** mostrar sus detalles cuando sea necesario |3|
+| 23     | TS02 |Delete user  |**Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** eliminar un usuario mediante la API RESTful <br> **Para** mantener la base de datos actualizada y eliminar usuarios innecesarios     |3|
+| 24     | TS03 |  Update user|  **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** actualizar la información de un usuario mediante la API RESTful <br> **Para** mantener la información actualizada y precisa |3|
+| 25     | TS04 | Post crops| **Como** desarrollador de la aplicación de Chaquitaclla <br> **Quiero** registrar un nuevo cultivo mediante una API <br> **Para** mantener el registro de los cultivos |3|
+| 26     | TS05 | Get crops| **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** obtener información sobre un cultivo mediante la API RESTful <br> **Para** mostrarlo en la aplicación cuando sea necesario |3|
+| 27     | TS06 | Delete crop| **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** eliminar un cultivo mediante la API RESTful <br> **Para** mantener la base de datos limpia y actualizada   |3|
+| 28     | TS07 | Update crops |**Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** actualizar la información de un cultivo mediante la API RESTful <br> **Para** mantener la información actualizada y precisa  |3|
+| 29     | TS08 |  Register Sowing|**Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** registrar un nuevo lote de siembra mediante la API RESTful <br> **Para** llevar un registro del área sembrada y su progreso |3|
+| 30     | TS09 | Get Sowing | **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** obtener información de una siembra mediante la API RESTful <br> **Para** obtener detalles sobre el área sembrada y su progreso  |3|
+| 31     | TS10 |  Update sowing|**Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** actualizar la información de una siembra mediante la API RESTful <br> **Para** mantener el registro actualizado y reflejar cambios en el área sembrada o el tipo de cultivo   |3|
 
 
 
@@ -1615,6 +1621,34 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Separación de palabras con un guion "-".
 * Margin y padding en "*" con valor de 0.
 
+**JavaScript:**
+* Usar notación camelCase para nombrar variables y funciones (por ejemplo, getUserData).
+* Preferir la declaración de funciones con const o let en lugar de var.
+* Siempre usar punto y coma (;) para finalizar las declaraciones.
+* Aplicar la estructura ES6 para declarar clases y módulos.
+* Utilizar espacios de 2 o 4 caracteres para la indentación, pero mantenerla constante en todo el código.
+* Colocar llaves {} en la misma línea que el encabezado de la función o declaración (por ejemplo, if (condition) { ... }).
+* Usar comentarios para explicar partes complejas del código y mantener la documentación del código actualizada.
+
+**C#:**
+* Usar PascalCase para nombres de clases y métodos (por ejemplo, CustomerAccount).
+* Usar camelCase para nombres de variables y parámetros (por ejemplo, customerName).
+* Terminar todas las sentencias con punto y coma (;).
+* Declarar variables antes de su uso y preferir var para la inferencia de tipo cuando el tipo es evidente.
+* Colocar llaves {} en la misma línea que el encabezado de clase, método o declaración (por ejemplo, public class Example { ... }).
+* Utilizar espacios de 4 caracteres para la indentación y mantener consistencia en todo el código.
+* Usar comentarios XML para documentar métodos, clases y propiedades.
+* Aplicar convenciones de nombres consistentes y evitar nombres ambiguos o genéricos para las variables.
+
+**Base de Datos:**
+* Usar nombres descriptivos y claros para tablas y columnas.
+* Utilizar snake_case para nombres de tablas y columnas (por ejemplo, user_accounts para tablas y user_id para columnas).
+* Establecer claves primarias con el nombre del tipo de objeto seguido de _id (por ejemplo, user_id).
+* Usar singular para el nombre de tablas, ya que representa el tipo de entidad (por ejemplo, product en lugar de products).
+* Definir claves foráneas siguiendo la convención {tabla_referenciada}_id (por ejemplo, user_id para una relación entre tablas).
+* Nombrar índices y restricciones de forma clara, siguiendo la estructura {tabla}_{columna}_index para índices y {tabla}_{columna}_fk para claves foráneas.
+* Evitar nombres ambiguos o genéricos y preferir nombres que describan claramente la función del objeto.
+
 **Commit conventions:** Para las convenciones de commit, se utilizarán las convenciones básicas es decir: 
  `git commit -m "<message>" -m"<description">`
 
@@ -1749,7 +1783,6 @@ En este primer Sprint backlog el grupo se enfoco en realizar la landing page y e
 
 Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
 
-
 <table>
     <thead>
         <tr>
@@ -1775,36 +1808,56 @@ Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
         <tr>
             <td>US03</td>
             <td>Contactar a Chaquitaclla</td>
-            <td>03</td>
+            <td>01</td>
             <td>Contactar al equipo de Chaquitaclla mediante formulario</td>
             <td>Usuario debe poder interactuar con el formulario de la landing page y poder mandar un mensaje al equipo de Chaquitaclla</td>
-            <td>3</td>
+            <td>4</td>
             <td>Paolo Guillen</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US04</td>
             <td>Barra de navegación</td>
-            <td>04</td>
+            <td>02</td>
             <td>Interactuar con barra de navegación</td>
             <td>Usuario debe poder interactuar con la barra de navegación y ser dirigido a la sección que este le dé click</td>
-            <td>1</td>
+            <td>4</td>
             <td>Fernando Carrasco</td>
             <td>Done</td>
         </tr>
          <tr>
-            <td>US04</td>
-            <td>Barra de navegación</td>
-            <td>05</td>
-            <td>Barra de navegación Responsive</td>
-            <td>La barra de navegación debe seguir el modelo de Responsive Web Design y adaptarse al dispositivo del usuario</td>
+            <td>US20</td>
+            <td>Beneficios de Chaquitaclla</td>
+            <td>03</td>
+            <td>Interactuar con los beneficios de Chaquitaclla</td>
+            <td>Usuario debe poder interactuar con la sección de beneficios de Chaquitaclla</td>
             <td>3</td>
             <td>Fernando Carrasco</td>
-            <td>In-Process</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US21</td>
+            <td>Visualizar equipo de Chaquitaclla</td>
+            <td>04</td>
+            <td>Visualizar equipo de Chaquitaclla</td>
+            <td>El usuaria debe poder de forma clara y simple la sección de equipo de Chaquitaclla</td>
+            <td>4</td>
+            <td>Paolo Guillen</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US17</td>
+            <td>Navegación por la Landing Page</td>
+            <td>05</td>
+            <td>Navegar en la landing page</td>
+            <td>Navegar por la landing page sin problemas y de forma clara</td>
+            <td>3</td>
+            <td>Fernando Daniel/td>
+            <td>Done</td>
         </tr>
     </tbody>
 </table>
-    
+
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
