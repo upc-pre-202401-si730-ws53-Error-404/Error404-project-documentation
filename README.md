@@ -2262,7 +2262,33 @@ Al finalizar por completo lo que es la landing page y gran parte de la aplicaci�
 
 <div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review </h5></div>
 
+Para el sprint 2 únicamente se planificó que el sprint abarcaría el desarrollo restante de la landing page y el front-end y para evitar limitaciones al probar las funcionalidades, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local, sin embargo tras haber aprendido sobre My Json Server, se optó por usar este último puesto que nos permite interactuar con él desde una Front End Web Application ya desplegada. Sin embargo no encontramos un problema y es que el my-json server solo trabaja con maximo 5 endpoints, por esto lo separamos en dos dbs separados nuestros BC. 
+
+
+| Endpoint | Details about it |
+| :--: | :--: | 
+|crops/sowings | Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como el los getSowings desde el Placeholder Json para la tabla de los terrenos con algún cultivos registrados.|
+|crops/diseases | Se implementaron las opciones de CRUD de la cuales se puede evidenciar el funcionamiento de estos de manera local. Cabe destacar que la tabla "diseases" es de solo lectura para el usuario; no puede añadir, eliminar ni actualizar datos, pero puede ver la información disponible. El CRUD es orientado al administrado de la app web |
+|crops/products |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como el los getProducts desde el Placeholder Json para la tabla de los productos que se han utilizado en los registrados. |
+|forum/questions |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como el los getQuestions desde el Placeholder Json para la tabla de las preguntas que se han registrado dentro de la sección de forum |
+|forum/answers |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como el los getAnswers desde el Placeholder Json para la tabla de las respuestas de acuerdo a la pregunta que el usuario se encuentre interesado en saber más información |
+
+
 <div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review</h5></div>
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo las user stories relacionadas a estas Igualmente se desplego lo que es web application de Chaquitaclla parcialmente completa, pues peresenta ciertos bugs así como ausencia de algunos hipervínculos para conectarse entre secciones de manera adecuada.
+
+Landing page:
+El despliegue de la landing page se encuentra en lo que es GithubPages, por la facilidad que permite para el despliegue de páginas web estáticas, como bien es el caso de una Landing Page.
+
+**Capturas de pantalla de la landing page**
+
+
+
+Web Application:
+Se certifica la exitosa implementación de la aplicación web frontend en lo que es Firebase, así como el correcto funcionamiento de esto en conjunto al uso del my-json-server, para el siguiente sprint se buscará implementar una mejor interfaz gráfica y más amigable para el usuario. 
+
+**Capturas de pantalla de la web application**
+
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint</h5></div>
 
