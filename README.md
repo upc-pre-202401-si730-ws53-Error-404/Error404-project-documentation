@@ -2209,7 +2209,7 @@ Al finalizar por completo lo que es la landing page y gran parte de la aplicaci√
 
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
-||main||chore: uploaded acceptance test for user stories||03/05/2024|
+||main||chore: uploaded acceptance tests for user stories related to sprint two||03/05/2024|
 
 
 
