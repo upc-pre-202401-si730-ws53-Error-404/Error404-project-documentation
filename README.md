@@ -2031,6 +2031,10 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
 <div id='5.2.2.2.'><h5> 5.2.2.2.Sprint Backlog 2</h5></div>
 En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que es el core del negocio, básicamente, implementar el CRUD de los cultivos, la visualización de estadísticas de estos, así como una enorme mejora en lo que respecta a la landing page, todo esto con el fin de presentar una aplicación mínimamente viable (MVP) y que sea útil para el consumidor. A pesar de realizar una organización somos conscientes de que habrán ciertos bugs e imprevisto que no pudimos arreglar a tiempo. 
 
+
+<img src="resources/trelloSprintTwo.png">
+
+Enlace del sprint 2 en trello:[https://trello.com/invite/b/82iCWXCj/ATTIfcdb7a38b227aa144d08e6284780fcce9950E2D7/sprint2]
 <table>
   <thead>
     <tr>
@@ -2251,7 +2255,6 @@ Al finalizar por completo lo que es la landing page y gran parte de la aplicaci�
 | Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
 | :--: | :--: | :--: | :--:  |   :--: |  :--: |
 |https://github.com/upc-pre-202401-si730-ws53-Error-404/Error404-project-documentation|main|83e121d|chore: uploaded acceptance tests for user stories related to sprint two||03/05/2024|
-
 
 
 
