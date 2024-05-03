@@ -2117,7 +2117,7 @@ Enlace del sprint 2 en trello:[https://trello.com/invite/b/82iCWXCj/ATTIfcdb7a38
       <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
       <td>5</td>
       <td>Amner Llamno</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <th rowspan="2">US07</th>
@@ -2152,7 +2152,7 @@ Enlace del sprint 2 en trello:[https://trello.com/invite/b/82iCWXCj/ATTIfcdb7a38
       <td>Implementar funcionalidad para editar cultivo</td>
       <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
       <td>5</td>
-      <td>Fernando Carrasco</td>
+      <td>Amner LLamno</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -2163,7 +2163,7 @@ Enlace del sprint 2 en trello:[https://trello.com/invite/b/82iCWXCj/ATTIfcdb7a38
       <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
       <td>3</td>
       <td>Fernando Quispe</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <td>TK16</td>
@@ -2171,7 +2171,7 @@ Enlace del sprint 2 en trello:[https://trello.com/invite/b/82iCWXCj/ATTIfcdb7a38
       <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
       <td>5</td>
       <td>Fernando Quispe</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
        <tr>
       <th rowspan="2">US10</th>
@@ -2209,7 +2209,7 @@ Enlace del sprint 2 en trello:[https://trello.com/invite/b/82iCWXCj/ATTIfcdb7a38
   <td>Crear herramientas que ayuden con la planificación y rotación de cultivos en el huerto.</td>
   <td>3</td>
   <td>Amner Llamno</td>
-  <td>Done</td>
+  <td>In-Process</td>
 </tr>
       <tr>
   <th rowspan="1">US16</th>
