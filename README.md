@@ -737,9 +737,8 @@ Aquí para el segmento de jardineros se presenta el Empathy Mapping.
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
 
-<img src="resources/impactMap.jpg"/>
+<img src="resources/AppWebImpact.png"/>
 
-**URL del Impact Mapping:** [https://miro.com/app/board/uXjVKUhuoEg=/?share_link_id=967568682514]
 
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
