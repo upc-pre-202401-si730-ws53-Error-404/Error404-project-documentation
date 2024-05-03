@@ -1394,7 +1394,7 @@ El Diagrama de Contexto es una representación visual de alto nivel del sistema 
 <img src="resources/C4Imagenes/ChaquiTaclla-SystemContext.png">
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 El diagrama de contenedores ofrece una representación de alto nivel de cómo se relacionan entre sí las aplicaciones y las fuentes de datos que forman parte del sistema de software ChaquiTaclla durante su ejecución.
-<img src="resources/C4Imagenes/ChaquiTaclla-SystemContainer.png">
+<img src="resources/C4Imagenes/ChaquiTaclla-SystemContainer1.png">
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 Los diagramas de componentes proporcionan una visión de las relaciones entre los principales componentes del sistema de software. Estos componentes describen la implementación detallada de los respectivos módulos del programa.
 
