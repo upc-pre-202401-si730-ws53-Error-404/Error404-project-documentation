@@ -1,4 +1,4 @@
-![image](https://github.com/upc-pre-202401-si730-ws53-Error-404/Error404-project-documentation/assets/129306198/837c67eb-1f41-4e1c-ba49-bb268923cb58)<h1 style="text-align: center;"> Informe del TP  </h1>
+<h1 style="text-align: center;"> Informe del TP  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
