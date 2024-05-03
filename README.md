@@ -1688,34 +1688,26 @@ Una vez se cuente con estos requisitos se podrá realizar un correcto despliegue
 
 ### Frontend-Web-Application Deployment
 
-Con el fin de poder desplegar nuestro fronten web application es necesario contar con requisitos similares a los mencionados para el despliegue de la landing page. Sin embargo, aquí se usará una plataforma ajena a github, llamada Netlify, que es excelente para el tema de despliegues de aplicaciones web con el fin de mostrar su uso.
+Con el fin de poder desplegar nuestro fronten web application es necesario contar con requisitos similares a los mencionados para el despliegue de la landing page. Sin embargo, aquí se usará una plataforma ajena a github, llamada Firebase, que es excelente para el tema de despliegues de aplicaciones web con el fin de mostrar su uso.
 
-**Link de Netlify:** https://www.netlify.com
+**Link de Firebase:** https://firebase.google.com
 
 A continuación se presentarán la serie de pasos a seguir: 
 
-1. Nos ubicams en **https://www.netlify.com** y hacemos click en "Deploy to Netlify"
-2. Seleccionamos la opción de "Sign up with Github". 
-3. Le otorgamos los permisos necesarios y continuamos.
-4. Completamos con la información que nos pida.
-5. Seleccionamos "Deploy with Github".
-6. Seleccionamos la organización la cual se le instalará Netlify, en este caso nuestra organización "upc-pre-202401-si730-ws53-Error-404" 
-7. Encontradonos en la sección de instalar netlify, elegimos nuestro repositorio donde se vaya a encontrar la web application.
-8. Elegimos nuestra organización y el repositorio al que se les instalo netlify. 
-9. Hacemos click en "Deploy [nombreRepositorio] to Netlify".
-10. Esperamos y estaría todo listo!, al ser la primera entrega de nuestro proyecto, esta web todavía no cuenta con una web Application, por esta razón se estaría añadiendo los documentos de landing page por mientras.
+1. Usar ng build en el terminal del proyecto que vamos a desplegar, esto con el fin de prepararlo para este.
+2. Una vez realizado deberiamos de poder ver una carpeta "dist" en nuestro proyecto
+3. Posteriormente en el ide, en su terminal nos logeamos a lo que es firebase, el cual en mi caso ya lo hice.
+4. Una vez logeado, seguimos con el comando de firebase init.
+5. Le damos que (Y) a que estamos listos para proceder.
+6. Una vez terminado todos los procesos y haber elegido ">( ) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys   "
+7. Debemos de elegir la carpeta de nuestro proyecto que se va a desplegar al browser, siendo esta la direccion en nuestro caso: "dist"
+8. Tendríamos visualizar que la inicialización de Firebase se completo.
+9. Quedaría los ultimos pasos el cual es el despliegue, esto se realiza con el comando "firebase deploy" 
+10. Elegimos el proyecto de firebase en el cual se desplegara el proyecto y !Listo!, hemos podido desplegar nuestra aplicación web Frontend, que trabaja con datos de un json-server alojado en la siguiente url:
 
-![stepOne](/resources/stepsDeploymentWebApp/stepOneWeb.png)
-![stepTwo](/resources/stepsDeploymentWebApp/stepTwoWeb.png)
-![stepThree](/resources/stepsDeploymentWebApp/stepThreeWeb.png)
-![stepFour](/resources/stepsDeploymentWebApp/stepFourWeb.png)
-![stepFive](/resources/stepsDeploymentWebApp/stepFiveWeb.png)
-![stepSix](/resources/stepsDeploymentWebApp/stepSixWeb.png)
-![stepSeven](/resources/stepsDeploymentWebApp/stepSevenWeb.png)
-![stepEight](/resources/stepsDeploymentWebApp/stepEightWeb.png)
-![stepNine](/resources/stepsDeploymentWebApp/stepNineWeb.png)
-![stepTen](/resources/stepsDeploymentWebApp/stepTenWeb.png)
 
+PonerFotos
+PonerFotos
 
 
 
@@ -1771,11 +1763,11 @@ A continuación se presentarán la serie de pasos a seguir:
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>10</td>
+            <td>8</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>16</td>
+            <td>9</td>
         </tr>
     </tbody>
 </table>
@@ -1858,6 +1850,16 @@ Tabla de Trello: https://trello.com/b/YyxUKNJl/sprint1
             <td>3</td>
             <td>Fernando Daniel/td>
             <td>Done</td>
+        </tr>
+            <tr>
+            <td>US10</td>
+            <td>Ver video sobre el equipo en la landing page</td>
+            <td>05</td>
+            <td>Visualizar sección en la landing page con video sobre el equipo</td>
+            <td>Visualizar video del equipo en la sección de la landing page</td>
+            <td>3</td>
+            <td>Fernando Daniel/td>
+            <td>In-Process</td>
         </tr>
     </tbody>
 </table>
@@ -2008,7 +2010,7 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>33</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -2039,53 +2041,17 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
   </thead>
   <tbody>
     <tr>
-      <th rowspan="2">US01</th>
-      <td rowspan="2">Registro de usuario</td>
-      <td>TK01</td>
-      <td>Diseñar formulario de registro</td>
-      <td>Crear la estructura del formulario con campos básicos para nombre, correo, contraseña, y confirmación de contraseña.</td>
-      <td>3</td>
-      <td>No one asigned yet</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>TK02</td>
-      <td>Implementar formulario de registro</td>
-      <td>Agregar funcionalidad para que el formulario permita crear un nuevo usuario y realizar validaciones.</td>
-      <td>5</td>
-      <td>No one asigned yet</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <th rowspan="2">US02</th>
-      <td rowspan="2">Inicio de sesión de usuario existente</td>
-      <td>TK03</td>
-      <td>Diseñar formulario de inicio de sesión</td>
-      <td>Crear el formulario para que el usuario pueda ingresar con su correo y contraseña.</td>
-      <td>3</td>
-      <td>No one asigned yet</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
-      <td>TK04</td>
-      <td>Implementar formulario de inicio de sesión</td>
-      <td>Agregar funcionalidad para verificar credenciales y permitir el acceso al usuario.</td>
-      <td>5</td>
-      <td>No one asigned yet</td>
-      <td>To-do</td>
-    </tr>
-    <tr>
       <th rowspan="2">US09</th>
       <td rowspan="2">Visualización de informes</td>
-      <td>TK05</td>
+      <td>TK02</td>
       <td>Diseñar interfaz para informes</td>
       <td>Crear la interfaz gráfica para visualizar informes y datos estadísticos.</td>
       <td>3</td>
-      <td>Paolo Guillen</td>
-      <td>In-process</td>
+      <td>Fernando Quispe</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td>TK06</td>
+      <td>TK03</td>
       <td>Implementar funcionalidad para informes</td>
       <td>Agregar lógica para generar y mostrar datos estadísticos en la interfaz de informes.</td>
       <td>5</td>
@@ -2095,83 +2061,83 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
     <tr>
       <th rowspan="2">US05</th>
       <td rowspan="2">Registrar cultivo</td>
-      <td>TK07</td>
+      <td>TK04</td>
       <td>Diseñar formulario para registrar cultivo</td>
       <td>Crear un formulario para que el usuario pueda registrar un nuevo cultivo.</td>
       <td>3</td>
-      <td>Fernando Quispe</td>
-      <td>In-process</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td>TK08</td>
+      <td>TK05</td>
       <td>Implementar funcionalidad para registrar cultivo</td>
       <td>Agregar lógica para guardar el cultivo registrado por el usuario.</td>
       <td>5</td>
-      <td>Fernando Carrasco</td>
-      <td>In-process</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
     </tr>
       <tr>
       <th rowspan="2">US06</th>
       <td rowspan="2">Eliminar registro de cultivo</td>
-      <td>TK09</td>
+      <td>TK06</td>
       <td>Diseñar interfaz para eliminación de cultivo</td>
       <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
       <td>3</td>
-      <td>Fernando Quispe</td>
-      <td>In-process</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td>TK10</td>
+      <td>TK07</td>
       <td>Implementar funcionalidad para eliminar cultivo</td>
       <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
       <td>5</td>
-      <td>Fernando Quispe</td>
+      <td>Amner Llamno</td>
       <td>In-process</td>
     </tr>
     <tr>
       <th rowspan="2">US07</th>
       <td rowspan="2">Visualización de registros</td>
-      <td>TK11</td>
+      <td>TK08</td>
       <td>Diseñar interfaz para visualización de cultivos</td>
       <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
       <td>3</td>
       <td>Diego Cantoral</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td>TK12</td>
+      <td>TK09</td>
       <td>Implementar funcionalidad para visualizar registros</td>
       <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
       <td>5</td>
       <td>Diego Cantoral</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <th rowspan="2">US08</th>
       <td rowspan="2">Editar registro de cultivo</td>
-      <td>TK13</td>
+      <td>TK10</td>
       <td>Diseñar interfaz para editar cultivo</td>
       <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
       <td>3</td>
-      <td>Fernando Quispe</td>
-      <td>In-process</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td>TK14</td>
+      <td>TK11</td>
       <td>Implementar funcionalidad para editar cultivo</td>
       <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
       <td>5</td>
       <td>Fernando Carrasco</td>
-      <td>In-process</td>
+      <td>Done</td>
     </tr>
     <tr>
       <th rowspan="2">US18</th>
       <td rowspan="2">Comunidad y foros</td>
-      <td>TK15</td>
+      <td>TK12</td>
       <td>Diseñar interfaz para foros</td>
       <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
       <td>3</td>
-      <td>Amner LLamno</td>
+      <td>Fernando Quispe</td>
       <td>In-process</td>
     </tr>
     <tr>
@@ -2179,7 +2145,7 @@ En lo que respecta al segundo sprint backlog, nos estuvimos enfocando en lo que 
       <td>Implementar funcionalidad para foros</td>
       <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
       <td>5</td>
-      <td>Amner LLamno</td>
+      <td>Fernando Quispe</td>
       <td>In-process</td>
     </tr>
   </tbody>
