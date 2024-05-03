@@ -54,9 +54,22 @@ Todos los integrantes del grupo "Error 404" tomaron parte en la realización de 
 <img src="resources/TimelineGithub.png">
 <img src="resources/CommitsGithub.png">
 
-En esta sección se observa el tiempo de la semana en la que hubo mayor actividad de commits: 
 
-<img src="resources/MoreCommits.png">
+**TP**
+
+|                       Integrante                       |                                 Tareas Asignadas                                 |
+|:------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+|               Guillen Luna, Paolo César                |                                         |
+|            Quispe Condori, Fernando Daniel             |  |
+|            Cantoral Paredes, Diego André               |            |
+|            Carrasco Godos, Juan Fernando               |                 |
+|              Llamo Sánchez, Amner Levi                 |       |
+
+***TP Github***
+
+Al haber trabajado en esta organización de github, este presenta cierta información relevante en lo que es la participación de los participantes, como la cantidad de commits realizados por cada uno, en que rama y el contenido añadido en estos. 
+Todos los integrantes del grupo "Error 404" tomaron parte en la realización de estos commits, donde se adjuntan las siguiente captura, estos commits son repartidos de acuerdo a los repositorios que más se trabajaron, el de la documentación, Frontend-web-application y LandingPage. 
+
 
 ## Contenido 
 1. [**Capítulo I: Introducción.**](#1.) <br>
@@ -747,27 +760,27 @@ Para una correcta calificacion de los story points, optamos por seguir la escala
 | Orden  | User Story ID| Título|Descripción |Story Points|
 | ------------- |:--------:| ------------- |:-------------:|:-------------:|
 | 1      | US04    |Barra de navegación| Como visitante de la landing page. Quiero poder usar la barra de navegación de la landing page para desplazarme por esta.|1|
-| 3      | US03    |Contactar a Chaquitaclla|Como usuario que se encuentra en la landing page, Quiero poder contactar al equipo de Chaquitaclla mediante correo algún formulario de contacto.|2|
-| 2      | US01    |Registro de usuario|Como visitante de la aplicación, Quiero poder registrarme como nuevo usuario Para acceder a las funciones exclusivas y personalizar mi experiencia en la plataforma.	|3|
-| 2      | US02    |Inicio de sesión de usuario existente|Como usuario registrado en la aplicación, Quiero poder iniciar sesión en mi cuenta con mi nombre de usuario y contraseña Para acceder a mis datos y continuar con mis actividades de gestión de mis cultivos en la plataforma.|3|
-| 5      | US05    |Registrar cultivo|Como usuario de la aplicación, Quiero poder registrar nuevos cultivos Para llevar un seguimiento detallado de cada uno de ellos.|3|
-| 6      | US06    |Eliminar registro de cultivo|Como usuario de la aplicación, Quiero poder eliminar mis registros de cultivos Para mantener los registros relevantes.|3|
-| 7      | US07    |Visualización de Registros|Como usuario de la aplicación, Quiero poder visualizar mis registros de cultivos Para evaluar su evolución.|2|
-| 8      | US08    |Editar registro de cultivo|Como usuario de la aplicación, Quiero poder editar mis registros de cultivos Para corregir errores.|3|
-| 9      | US09    |Visualización de informes|Como usuario de la aplicación, Quiero poder generar informes basados en los datos registrados y visualizarlos Para tomar decisiones fundamentadas.|2|
-| 10     | US10    |Ver video sobre el equipo en la landing page|Como visitante de la aplicación, quiero ver un video que explique quiénes son los miembros del equipo y qué hacen, para conocer más sobre la gente detrás del proyecto y entender su visión y valores.|1|
-| 11     | US11    |Ver perfil de usuario|Como usuario registrado en la aplicación, Quiero poder ver mi perfil Para acceder a información relevante sobre mi cuenta.|2|
-| 12     | US12    |Editar perfil de usuario|Como usuario registrado en la aplicación, Quiero poder editar mi perfil Para mantener actualizada mi información personal.|3|
-| 13     | US13    |Buscar los servicios que deseo utilizar|Como cliente quiero buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio Para acceder a las funciones de manera más rápida.|1|
-| 14     | US14    |Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario|Como cliente quiero que pueda revisar el estado del producto elegido a lo largo del tiempo que inicio y finalice con el proyecto Para así tener más criterio de tomar decisiones.|3|
-| 15     | US15    |Planificación de cultivos|Como usuario quiero contar con herramientas en que me ayuden con la rotación de los cultivos y disposición de plantas en el huerto Para mejorar la productividad de mis cultivos.|3|
-| 16     | US16    |Compatibilidad con otros dispositivos|Como usuario quiero gestionar el huerto desde cualquier dispositivo Para realizarlo en cualquier lugar y cuando quiera.|2|
-| 17     | US17       |Navegación por la landing page | Como visitante, Quiero navegar por la landing page de Chaquitaclla,Para informarme mejor sobre el producto. |2|
-| 18     | US18    |Comunidad y foros|Como usuario quiero tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios Para que me ayude con mi cultivo.|5|
-| 19     | US19    |Recuperación de contraseña olvidada|Como usuario que ha olvidado su contraseña, Quiero tener la opción de restablecer mi contraseña Para poder acceder nuevamente a mi cuenta sin perder datos ni configuraciones.|2|
-| 20     | US20     | Ver beneficios de Chaquitaclla | Como visitante de la landing page, Quiero poder ver los beneficios del producto Chaquitaclla para realizar una decisión informada antes de comprar mi suscripción. |1|
-| 21     | US21 |  Ver equipo de Chaquitaclla| Como visitante de la landing page, Quiero poder informarme sobre el equipo que trabajo para crear el producto Chaquitaclla para ver si tienen experiencia previas en productos similares y tener una idea de la calidad del producto.|2|
-| 22     | TS01 | Get user | **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** obtener información de un usuario mediante la API RESTful <br> **Para** mostrar sus detalles cuando sea necesario |3|
+| 2      | US03    |Contactar a Chaquitaclla|Como usuario que se encuentra en la landing page, Quiero poder contactar al equipo de Chaquitaclla mediante correo algún formulario de contacto.|2|
+| 3     | US20     | Ver beneficios de Chaquitaclla | Como visitante de la landing page, Quiero poder ver los beneficios del producto Chaquitaclla para realizar una decisión informada antes de comprar mi suscripción. |1|
+| 4     | US21 |  Ver equipo de Chaquitaclla| Como visitante de la landing page, Quiero poder informarme sobre el equipo que trabajo para crear el producto Chaquitaclla para ver si tienen experiencia previas en productos similares y tener una idea de la calidad del producto.|2|
+| 5     | US17       |Navegación por la landing page | Como visitante, Quiero navegar por la landing page de Chaquitaclla,Para informarme mejor sobre el producto. |2|
+| 6     | US10    |Ver video sobre el equipo en la landing page|Como visitante de la aplicación, quiero ver un video que explique quiénes son los miembros del equipo y qué hacen, para conocer más sobre la gente detrás del proyecto y entender su visión y valores.|1|
+| 7      | US05    |Registrar cultivo|Como usuario de la aplicación, Quiero poder registrar nuevos cultivos Para llevar un seguimiento detallado de cada uno de ellos.|3|
+| 8      | US06    |Eliminar registro de cultivo|Como usuario de la aplicación, Quiero poder eliminar mis registros de cultivos Para mantener los registros relevantes.|3|
+| 9      | US07    |Visualización de Registros|Como usuario de la aplicación, Quiero poder visualizar mis registros de cultivos Para evaluar su evolución.|2|
+| 10      | US08    |Editar registro de cultivo|Como usuario de la aplicación, Quiero poder editar mis registros de cultivos Para corregir errores.|3|
+| 11     | US09    |Visualización de informes|Como usuario de la aplicación, Quiero poder generar informes basados en los datos registrados y visualizarlos Para tomar decisiones fundamentadas.|2|
+| 12     | US13    |Buscar los servicios que deseo utilizar|Como cliente quiero buscar los servicios que deseo utilizar colocando en el cuadro de texto de búsqueda el servicio Para acceder a las funciones de manera más rápida.|1|
+| 13     | US15    |Planificación de cultivos|Como usuario quiero contar con herramientas en que me ayuden con la rotación de los cultivos y disposición de plantas en el huerto Para mejorar la productividad de mis cultivos.|3|
+| 14     | US16    |Compatibilidad con otros dispositivos|Como usuario quiero gestionar el huerto desde cualquier dispositivo Para realizarlo en cualquier lugar y cuando quiera.|2|
+| 15     | US18    |Comunidad y foros|Como usuario quiero tener una comunidad o pertenecer a una donde pueda compartir mis experiencias y ver las experiencias de otros usuarios Para que me ayude con mi cultivo.|5|
+| 16     | US14    |Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario|Como cliente quiero que pueda revisar el estado del producto elegido a lo largo del tiempo que inicio y finalice con el proyecto Para así tener más criterio de tomar decisiones.|3|
+| 17     | US11    |Ver perfil de usuario|Como usuario registrado en la aplicación, Quiero poder ver mi perfil Para acceder a información relevante sobre mi cuenta.|2|
+| 18     | US01    |Registro de usuario|Como visitante de la aplicación, Quiero poder registrarme como nuevo usuario Para acceder a las funciones exclusivas y personalizar mi experiencia en la plataforma.	|3|
+| 19      | US02    |Inicio de sesión de usuario existente|Como usuario registrado en la aplicación, Quiero poder iniciar sesión en mi cuenta con mi nombre de usuario y contraseña Para acceder a mis datos y continuar con mis actividades de gestión de mis cultivos en la plataforma.|3|
+| 20     | US12    |Editar perfil de usuario|Como usuario registrado en la aplicación, Quiero poder editar mi perfil Para mantener actualizada mi información personal.|3|
+| 21     | US19    |Recuperación de contraseña olvidada|Como usuario que ha olvidado su contraseña, Quiero tener la opción de restablecer mi contraseña Para poder acceder nuevamente a mi cuenta sin perder datos ni configuraciones.|2|
+| 22    | TS01 | Get user | **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** obtener información de un usuario mediante la API RESTful <br> **Para** mostrar sus detalles cuando sea necesario |3|
 | 23     | TS02 |Delete user  |**Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** eliminar un usuario mediante la API RESTful <br> **Para** mantener la base de datos actualizada y eliminar usuarios innecesarios     |3|
 | 24     | TS03 |  Update user|  **Como** desarrollador de la aplicación Chaquitaclla <br> **Quiero** actualizar la información de un usuario mediante la API RESTful <br> **Para** mantener la información actualizada y precisa |3|
 | 25     | TS04 | Post crops| **Como** desarrollador de la aplicación de Chaquitaclla <br> **Quiero** registrar un nuevo cultivo mediante una API <br> **Para** mantener el registro de los cultivos |3|
