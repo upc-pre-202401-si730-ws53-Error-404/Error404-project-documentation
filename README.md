@@ -2027,7 +2027,7 @@ Landing page: [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPage
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
-            <td>25</td>
+            <td>19</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
