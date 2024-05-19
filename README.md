@@ -1443,7 +1443,7 @@ A continuación se presenta el diccionario de clases correspondiente al diagrama
 
 A continuación se presenta el diagrama de la base de datos de ChaquiTaclla, el cual muestra las tablas y las relaciones entre ellas.
 
-<img src="resources/ChaquitacllaDatabase1.png">
+<img src="resources/ChaquitacllaDatabase2.png">
 
 
 
