@@ -1445,6 +1445,17 @@ A continuación se presenta el diagrama de la base de datos de ChaquiTaclla, el 
 
 <img src="resources/ChaquitacllaDatabase2.png">
 
+**User BC**
+
+<img src="resources/UsersBC.png">
+
+**Forum BC**
+
+<img src="resources/ForumBC.png">
+
+**Crops BC**
+
+<img src="resources/CropsBC.png">
 
 
 <div id='5.'><h2>Capítulo 5: Product Implementation, Validation & Deployment</h2></div>
