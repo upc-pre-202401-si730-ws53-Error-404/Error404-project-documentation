@@ -834,6 +834,11 @@ Para una correcta calificacion de los story points, optamos por seguir la escala
 | 32     | TS11 | Get Cares | Como desarrollador de la aplicación Chaquitaclla <br> Quiero obtener información sobre los cuidados de una siembra mediante la API RESTful <br> Para mantener el registro actualizado y proporcionar datos relevantes sobre los cuidados requeridos para una siembra específica |3|
 | 33     | TS12 | Get Pests | Como desarrollador de la aplicación Chaquitaclla <br> Quiero obtener información sobre las plagas que afectan una siembra mediante la API RESTful <br> Para mantener el registro actualizado y proporcionar datos relevantes sobre las plagas que pueden afectar a una siembra específica |3|
 | 34     | TS13 | Get Diseases | Como desarrollador de la aplicación Chaquitaclla <br> Quiero obtener información sobre las enfermedades que afectan una siembra mediante la API RESTful <br> Para mantener el registro actualizado y proporcionar datos relevantes sobre las enfermedades que pueden afectar a una siembra específica |3|
+| 35     | TS14 |  Create Product	| Como desarrollador de la aplicación Chaquitaclla <br> Quiero crear un nuevo producto mediante la API RESTful <br> Para mantener un registro actualizado y proporcionar datos relevantes sobre los productos disponibles |3|
+| 36     | TS15 |  Get Product	| Como desarrollador de la aplicación Chaquitaclla <br> Quiero obtener información sobre un producto específico mediante la API RESTful <br> Para mantener un registro actualizado y proporcionar datos relevantes sobre los productos disponibles |3|
+| 37     | TS16 |  Update Product	| Como desarrollador de la aplicación Chaquitaclla <br> Quiero actualizar la información de un producto existente mediante la API RESTful <br> Para mantener los datos actualizados y precisos sobre los productos disponibles|3|
+| 38     | TS17 |  Delete Product	| Como desarrollador de la aplicación Chaquitaclla <br> Quiero eliminar un producto existente mediante la API RESTful <br> Para mantener el registro actualizado y eliminar productos que ya no están disponibles|3|
+
 
 
 <div id='4.'><h2>Capítulo 4: Product Design</h2></div>
