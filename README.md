@@ -2404,12 +2404,110 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 <img src="resources/todosCommits/Five.png">
 <img src="resources/todosCommits/Six.png">
 
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3</h5></div>
 
+<div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3</h5></div>
+En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio, básicamente, implementar el CRUD de los cultivos a un nivel de API, además de esto el equipo se enfoco en finalizar lo que restaba de la frontend web application, con el fin de entregar un MVP (Minimum viable product), la interfaz gráfica principalmente en lo que respecta al aspecto visual se mejoró un poco y se añadio procesos de login y registro. 
+
+
+<div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
+
+
+
+<div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
+
+<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4</h5></div>
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
 
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
+
+
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la página web destinada a optimizar la gestión de cultivos para los agricultores profesionales, así como amateurs que se encuentran en el Perú. A través de entrevistas estructuradas, buscamos captar puntos claves, como sus primeras impresiones, así como sugerencias respecto a la aplicación. Lo mencionado garantiza que la web no solo cumpla con los estándares técnicos sino que también ayude a las actividades diarias de nuestros segmentos en relación con los cultivos. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
+
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
+
+Dentro de esta sección se detalla los objetivos de usuarios que deben cumplir nuestros entrevistados con el fin de evaluar la eficiencia de nuestra aplicación así como que los entrevistados de acuerdo a como cumplan estos user goals y su opinión en diversos factores, son datos que se tomara en cuenta al momento del registro de las entrevistas
+
+
+* **User Goal:Iniciar sesión**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+
+Explicación del flujo: Este user goal se enfoca en que los usuarios, cuando se encuentren en la aplicación de chaquitaclla, esta contará con un formulario de inicio de sesion, donde se pedira el usuario y contraseña, en caso se cumpla de forma exitosa, el usuario será redirigido a la sección del panel de control, sección principal de la aplicación de Chaquitaclla, en caso el usuario no cuente con una cuenta, entonces pasará por el proceso de registro.
+
+
+* **User Goal:Crear un nuevo sembrío**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+
+Explicación del flujo: Cuando el usuario se dirija a la sección "Registro de cultivos" o "Crop Registration", este cuando presione la opción para añadir un nuevo cultivo, se le pedirá datos como el area del sembrio y el tipo de cultivo, para manejar toda la información relacionada a este nuevo sembrío que acaba de iniciar, en caso se presente algun error en el proceso de registro de este, entonces podrá eliminarlo o editarlo según convenga. 
+
+
+* **User Goal:Navegar por el panel de control**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+Explicación del flujo: El usuario tras iniciar sesión, ingresa al panel de control, sección la cual el usuario deberá de interactuar por toda la pagina y de acuerdo al boton o sección que necesite será redirigido, el panel de control de control tiene como objetivo de ser la sección con la que el usuario deberá de familiarizarse con el fin del correcto uso de la aplicación.
+
+
+* **User Goal:Permitir una correcta visualización de estadísticas e historial de sembríos**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+Explicación del flujo: Al momento que el usuario seleccione la sección de estadísticas, el usuario es presentando con dos gráficos de pizza, los cuales informará al usuario sobre la información suya de su cuenta, como cultivos más registrados, así como sembríos los cuales tengan la mayor cantidad de controles, en relación al tipo de cultivo que trata este sembrío.
+
+  
+
+* **User Goal:Visualizar información del sembrío**
+  
+User persona: Agricultores profesionales y jardineros en casa.
+Explicación del flujo: Una vez el usuario registre su sembrio a seguir, cuando presione este sembrio, se le será presentado con una extensa información, sobre los cuidados que debe tener este sembrío, así como información adicional sobre que enfermedades puede tener en cierto casos, esto con la finalidad que el usuario pueda adaptarse y tener herramientas con las cuales pueda trabajar en conjunto para que su cultivo sea fructifero.
+
+
+
+
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+
+**Primer segmento objetivo (Agricultores profesionales):**
+
+Entrevista de validación usuario agricultor profesional 01:
+
+Entrevista de validación usuario agricultor profesional 02:
+
+Entrevista de validación usuario agricultor profesional 03:
+
+
+
+**Segundo segmento objetivo (Agricultores amateurs/Jardineros en casa):**
+
+Entrevista de validación usuario jardinero en casa 01:
+
+Entrevista de validación usuario jardinero en casa 02:
+
+Entrevista de validación usuario jardinero en casa 03:
+
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <h3>SITE o APP A EVALUAR: </h3>
 <h4>Chaquitaclla</h3>
@@ -2592,6 +2690,8 @@ Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios más co
 
 **TP:** Para este TP, el uso de gitflow, nos facilito demasiado en lo que es trabajar de forma remota, sobre todo para lo que es la implementación de una aplicación web, esto fue crucial, puesto que nos ayudo a juntar cada uno de nuestros feature de una forma más eficiente, para que nosotros como equipo entendamos el código de forma general y nos ayude a comprender que función tiene cada componente respectivamente.
 
+
+**TB2:** Para este TB2, el uso de un control de versiones nos ayudo demasiado al momento de finalizar el desarrollo de la aplicación web, esto nos ayudo a ser eficientes y terminar a tiempo su desarrollo para concentrarnos en el desarrollo del backend, en lo que respecto a lo ultimo, consideramos que terminamos su desarrollo en un 50% o incluso más, esto puesto que los endpoints principales se encuentran funcionales con operaciones CRUD simples y algunos de estos endpoints tienen alguna relacion directa a como funciona nuestro negocio, al menos en sus apartados respectivos.
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
