@@ -2390,10 +2390,10 @@ Meta: El propósito general de la evaluación es encontrar problemas existentes 
 Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 <h3>TAREAS A EVALUAR:</h3>
 1. Desktop landing page<br>
-    1. Información y descripción de la aplicación y sus funcionalidades<br>
-    2. Visualización de planes de pago y precio de la aplicación<br>
-    3. Interacción del landing page con la aplicación<br>
-    4. Header y footer apropiado para la landing page<br>
+   -1. Información y descripción de la aplicación y sus funcionalidades<br>
+   -2. Visualización de planes de pago y precio de la aplicación<br>
+   -3. Interacción del landing page con la aplicación<br>
+   -4. Header y footer apropiado para la landing page<br>
 2. Web Application<br>
     1. Registro de una nuevo cultivo<br>
     2. Edición de registros<br>
