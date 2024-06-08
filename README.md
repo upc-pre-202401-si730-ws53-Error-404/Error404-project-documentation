@@ -2384,6 +2384,46 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
+<h3>SITE o APP A EVALUAR: </h3>
+<h4>Chaquitaclla</h3>
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Chaquitaclla.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+<h3>TAREAS A EVALUAR:</h3>
+1. Desktop landing page
+    1. Información y descripción de la aplicación y sus funcionalidades
+    2. Visualización de planes de pago y precio de la aplicación
+    3. Interacción del landing page con la aplicación
+    4. Header y footer apropiado para la landing page
+2. Web Application
+    1. Registro de una nuevo cultivo
+    2. Edición de registros
+    3. Eliminación de registros
+    3. Iconografía comprensible y consistente con el mundo real
+    4. Mensajes de error que reflejen el registro de datos incorrectos
+    5. Acciones de retroceso dentro de la aplicación
+    6. Evaluar existencia de patrones de diseño o navegación
+    7. Elementos de la interfaz de usuario consistentes
+    8. Botones interactivos y de uso intuitivo
+    9. Navegación y orientación dentro de la aplicación
+    10. Visualizacion de la informacion de cultivos registrados
+    11. Mensajes que orienten al usuario sobre el estado del sistema
+    12. Estética general de la interfaz atractiva y agradable visualmente.
+    13. Publicacíon de una pregunta
+    14. Publicación de respuesta a una pregunta
+    15. Busqueda de cultivo
+    16. Busqueda de pregunta
+    17. Visualización de estadisticas de cultivos 
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Desktop landing page
+    1. Redes sociales asociadas al startup
+    2. Política de privacidad y condiciones de uso
+2. Web Application
+    1. Registro de nuevo usuario
+    2. Flexibilidad de uso a través de atajos por teclado
+    3. Acceso a recursos de ayuda dentro de la aplicación
+    4. Notificación de acciones realizadas en la aplicación 
+    5. Política de privacidad y condiciones de uso
+
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
