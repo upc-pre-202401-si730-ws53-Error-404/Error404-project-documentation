@@ -169,6 +169,29 @@ Todos los integrantes del grupo "Error 404" tomaron parte en la realización de 
 5.2.2.6.[Services Documentation Evidence for Sprint Review](#5.2.2.6.)<br>
 5.2.2.7.[Software Deployment Evidence for Sprint Review](#5.2.2.7.)<br>
 5.2.2.8.[Team Collaboration Insights during Sprint](#5.2.2.8.)<br>
+5.2.3. [Sprint 3](#5.2.3.)<br>
+5.2.3.1.[Sprint Planning 3](#5.2.3.1.)<br>
+5.2.3.2.[Sprint Backlog 3](#5.2.3.2.)<br>
+5.2.3.3.[Development Evidence for Sprint Review](#5.2.3.3.)<br>
+5.2.3.4.[Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
+5.2.3.5.[Execution Evidence for Sprint Review](#5.2.3.5.)<br>
+5.2.3.6.[Services Documentation Evidence for Sprint Review](#5.2.3.6.)<br>
+5.2.3.7.[Software Deployment Evidence for Sprint Review](#5.2.3.7.)<br>
+5.2.3.8.[Team Collaboration Insights during Sprint](#5.2.3.8.)<br>
+5.2.4. [Sprint 4](#5.2.4.)<br>
+5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
+5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
+5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
+5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
+5.2.4.6. [Services Documentation Evidence for Sprint Review](#5.2.4.6.)<br>
+5.2.4.7. [Software Deployment Evidence for Sprint Review](#5.2.4.7.)<br>
+5.2.4.8. [Team Collaboration Insights during Sprint](#5.2.4.8.)<br>
+5.3. [Validation Interviews](#5.3.)<br>
+5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
+5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
+5.3.3.[Evaluaciones según Heurísticas](#5.3.3.)<br>
+5.4. [Video About-the-Product](#5.4.)<br>
 6. [**Conclusiones**](#6.)<br>
 7. [**Bibliografía**](#7.)<br>
 8. [**Anexos**](#8.)<br>
