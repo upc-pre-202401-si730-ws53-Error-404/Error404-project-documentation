@@ -2389,40 +2389,44 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Chaquitaclla.
 Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 <h3>TAREAS A EVALUAR:</h3>
-1. Desktop landing page<br>
-   -1. Información y descripción de la aplicación y sus funcionalidades<br>
-   -2. Visualización de planes de pago y precio de la aplicación<br>
-   -3. Interacción del landing page con la aplicación<br>
-   -4. Header y footer apropiado para la landing page<br>
-2. Web Application<br>
-    1. Registro de una nuevo cultivo<br>
-    2. Edición de registros<br>
-    3. Eliminación de registros<br>
-    3. Iconografía comprensible y consistente con el mundo real<br>
-    4. Mensajes de error que reflejen el registro de datos incorrectos<br>
-    5. Acciones de retroceso dentro de la aplicación<br>
-    6. Evaluar existencia de patrones de diseño o navegación<br>
-    7. Elementos de la interfaz de usuario consistentes<br>
-    8. Botones interactivos y de uso intuitivo<br>
-    9. Navegación y orientación dentro de la aplicación<br>
-    10. Visualizacion de la informacion de cultivos registrados<br>
-    11. Mensajes que orienten al usuario sobre el estado del sistema<br>
-    12. Estética general de la interfaz atractiva y agradable visualmente<br>
-    13. Publicacíon de una pregunta<br>
-    14. Publicación de respuesta a una pregunta<br>
-    15. Busqueda de cultivo<br>
-    16. Busqueda de pregunta<br>
-    17. Visualización de estadisticas de cultivos<br> 
-No están incluidas en esta versión de la evaluación las siguientes tareas:<br>
-1. Desktop landing page<br>
-    1. Redes sociales asociadas al startup<br>
-    2. Política de privacidad y condiciones de uso<br>
-2. Web Application<br>
-    1. Registro de nuevo usuario<br>
-    2. Flexibilidad de uso a través de atajos por teclado<br>
-    3. Acceso a recursos de ayuda dentro de la aplicación<br>
-    4. Notificación de acciones realizadas en la aplicación<br> 
-    5. Política de privacidad y condiciones de uso<br>
+
+1. Desktop landing page
+    1. Información y descripción de la aplicación y sus funcionalidades
+    2. Visualización de planes de pago y precio de la aplicación
+    3. Interacción del landing page con la aplicación
+    4. Header y footer apropiado para la landing page
+2. Web Application
+    1. Registro de una nuevo cultivo
+    2. Edición de registros
+    3. Eliminación de registros
+    4. Iconografía comprensible y consistente con el mundo real
+    5. Mensajes de error que reflejen el registro de datos incorrectos
+    6. Acciones de retroceso dentro de la aplicación
+    7. Evaluar existencia de patrones de diseño o navegación
+    8. Elementos de la interfaz de usuario consistentes
+    9. Botones interactivos y de uso intuitivo
+    10. Navegación y orientación dentro de la aplicación
+    11. Visualización de la información de cultivos registrados
+    12. Mensajes que orienten al usuario sobre el estado del sistema
+    13. Estética general de la interfaz atractiva y agradable visualmente
+    14. Publicación de una pregunta
+    15. Publicación de respuesta a una pregunta
+    16. Búsqueda de cultivo
+    17. Búsqueda de pregunta
+    18. Visualización de estadísticas de cultivos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+    1. Redes sociales asociadas al startup
+    2. Política de privacidad y condiciones de uso
+2. Web Application
+    1. Registro de nuevo usuario
+    2. Flexibilidad de uso a través de atajos por teclado
+    3. Acceso a recursos de ayuda dentro de la aplicación
+    4. Notificación de acciones realizadas en la aplicación
+    5. Política de privacidad y condiciones de uso
+
 
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
