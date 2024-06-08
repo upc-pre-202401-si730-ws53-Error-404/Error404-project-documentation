@@ -2436,6 +2436,64 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3</h5></div>
 
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>20/05/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00 hrs</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>Agriculture</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe Tipo, Godofredo /Quispe Condori, Fernando Daniel	/ Carrasco Godos, Juan Fernando	</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>Se logró una correcta implementación de lo que es el frontend-web-application y mejoras de la landing page.</td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>A pesar de haber tenido conflictos respecto a las tareas a realizar, se logró en gran medida una correcta implementación de las historias de usuarios para aquel sprint</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>Implementar lo restante del frontend-web-application. Además de implementar un backend</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>29</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>35</td>
+        </tr>
+    </tbody>
+</table>
+
 <div id='5.2.3.2.'><h5> 5.2.3.2.Sprint Backlog 3</h5></div>
 En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que es el backend del negocio, básicamente, implementar el CRUD de los cultivos a un nivel de API, además de esto el equipo se enfoco en finalizar lo que restaba de la frontend web application, con el fin de entregar un MVP (Minimum viable product), la interfaz gráfica principalmente en lo que respecta al aspecto visual se mejoró un poco y se añadio procesos de login y registro. 
 
@@ -2452,6 +2510,30 @@ En lo que respecta al tercer sprint backlog, nos estuvimos enfocando en lo que e
 
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
 
+|Alumno|Actividad|
+|-|-|
+|Guillen Luna, Paolo César|Reestructuración de la landing page. Elaboración de los endpoints con relacion a los controles de sowings. Redespliegue de la aplicación web actualizada y landing page en Firebase y github pages respectivamente. Añadir seccion de edicion de perfil en el frontend|
+|Carrasco Fernando|Elborar el login y register de frontend, además del desarrollo de backend del bc-users con operaciones CRUD sencillas|
+|Amner Llamno |Elaboracion completa del apartado de foro tanto en backend como frontend, mejora de UI en la sección de foro de la aplicacion frontend|
+|Cantoral, Diego|Mejora del historial de cultivos, así como elaboración del endpoint donde se registra los crops que se podrán utilizar para manejar un registro adecuado y seguimiento por parte de los usuarios|
+|Quispe Fernando|Elaboración del backend, el bc de users, bc el cual se enfoca en guardar la informacion de los usuarios registrados de la app como info de su suscripción,etc. Realizar el frontend, la seccion de login y register|
+
+**Landing Page**
+<img src="resources/todosCommitsSprintTres/One.png">
+<img src="resources/todosCommitsSprintTres/Two.png">
+<img src="resources/todosCommitsSprintTres/Three.png">
+
+
+**Web Application**
+<img src="resources/todosCommitsSprintTres/Four.png">
+<img src="resources/todosCommitsSprintTres/Five.png">
+<img src="resources/todosCommitsSprintTres/Six.png">
+
+
+**Web Services**
+<img src="resources/todosCommitsSprintTres/Seven.png">
+<img src="resources/todosCommitsSprintTres/Eight.png">
+<img src="resources/todosCommitsSprintTres/Nine.png">
 
 
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
