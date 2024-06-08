@@ -2441,7 +2441,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.| 
 | 4     |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.| 
 
-<h5>TABLA RESUMEN:</h5>
+<h3>TABLA RESUMEN</h3>
 
 <h3>Desktop landing page</h3>
 
@@ -2487,10 +2487,73 @@ Recomendación: Para mejorar la experiencia del usuario y prevenir este error, s
 
 | # |   Problema   | Escala de severidad |Heurística/Principio violada(o) |
 |---|--------------|--------------|-------------|
-| 1 |              |              |             |
-| 2 |              |              |             |
-| 3 |              |              |             |
+| 1 |Incapacidad para cerrar el diálogo de creación o edición de crop usando la "x"| 01 |Usabilidad - Control y libertad del usuario|
+| 2 | Falta de funcionalidad de edición en la seccion "Controls" de la página "Crop Information Management"| 02 |Usabilidad - Control y libertad del usuario|
+| 3 |Falta de funcionalidad de edición en la seccion "Products" de la página "Crop Information Management"| 02 |Usabilidad - Control y libertad del usuario|
+| 4 |Falta de funcionalidad de búsqueda en la sección "Diseases or Pest" de la página "Crop Information Management"| 02 |Usabilidad - Flexibilidad y eficiencia de uso|
+| 5 |Incapacidad para cerrar el diálogo de creación o edición de preguntas o respuestas usando el botón "x"| 01 |Usabilidad - Control y libertad del usuario|
+| 6 |Ausencia de funcionalidad de traducción a español en la aplicación web| 02 |Usabilidad - Control y libertad del usuario|
 
+
+PROBLEMA #01: Incapacidad para cerrar el diálogo de creación o edición de crop usando la "x"
+
+Escala de severidad: 01
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: Cuando los usuarios abren el diálogo para crear o editar un crop en la página "List of Crops in Progress", no pueden cerrarlo utilizando el icono de la "x" en la esquina superior derecha del diálogo. Esta falta de funcionalidad puede ser frustrante para los usuarios, ya que esperan poder cerrar el diálogo de la misma manera que cierran otros elementos modales en la aplicación.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios el control y la libertad deseados, se recomienda habilitar la capacidad de cerrar el diálogo utilizando la "x". Esto puede lograrse mediante la implementación de la funcionalidad de cierre del diálogo en respuesta a la acción de hacer clic en el icono de la "x".
+
+PROBLEMA #02: Falta de funcionalidad de edición en la seccion "Controls" de la página "Crop Information Management"
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: En la seccion "Controls" de la página "Crop Information Management", los usuarios pueden registrar y eliminar controles del cultivo, pero no cuentan con la capacidad de editar registros existentes. Esta falta de funcionalidad de edición limita la flexibilidad y la libertad de los usuarios para corregir errores o actualizar información de manera eficiente.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios el control deseado sobre sus datos, se recomienda implementar la funcionalidad de edición en la tabla de crops. Esto podría incluir la adición de botones de edición junto a cada registro, que al hacer clic en ellos permitan a los usuarios modificar la información existente en un formulario emergente o en la misma tabla. Además, se debería garantizar que los usuarios puedan realizar ediciones de manera clara y sin problemas, con la posibilidad de cancelar o revertir cambios si es necesario.
+
+PROBLEMA #03: Falta de funcionalidad de edición en la seccion "Products" de la página "Crop Information Management"
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: En la seccion "Products" de la página "Crop Information Management", los usuarios pueden registrar y eliminar productos usados en el cultivo, pero no cuentan con la capacidad de editar registros existentes. Esta ausencia de funcionalidad de edición limita la flexibilidad y la libertad de los usuarios para corregir errores o actualizar información de manera eficiente.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios el control deseado sobre sus datos, se sugiere implementar la funcionalidad de edición en la tabla de productos usados en crops. Esto podría lograrse agregando botones de edición junto a cada registro, que al hacer clic en ellos permitan a los usuarios modificar la información existente en un formulario emergente o en la misma tabla. Además, es importante garantizar que los usuarios puedan realizar ediciones de manera clara y sin problemas, con la opción de cancelar o revertir cambios si es necesario.
+
+PROBLEMA #04: Falta de funcionalidad de búsqueda en la sección "Diseases or Pest" de la página "Crop Information Management"
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Flexibilidad y eficiencia de uso
+
+Descripción del problema: En la sección "Diseases or Pest" de la página "Crop Information Management", donde se presenta información sobre enfermedades o plagas de cultivo y sus soluciones, no se proporciona una funcionalidad de búsqueda para ayudar a los usuarios a encontrar información específica de manera rápida y eficiente. Esto puede dificultar la navegación para los usuarios que desean buscar una enfermedad o plaga en particular y su solución correspondiente entre una gran cantidad de información.
+
+Recomendación: Para mejorar la usabilidad y la eficiencia de uso de la página, se recomienda implementar una funcionalidad de búsqueda que permita a los usuarios buscar enfermedades o plagas específicas y sus soluciones. Esto podría incluir la adición de un campo de búsqueda en la parte superior de la tabla o la implementación de filtros para permitir a los usuarios refinar los resultados según sus necesidades. La capacidad de búsqueda proporcionará a los usuarios una forma rápida y efectiva de acceder a la información relevante, mejorando así su experiencia en la aplicación web.
+
+PROBLEMA #05: Incapacidad para cerrar el diálogo de creación o edición de preguntas o respuestas usando el botón "x"
+
+Escala de severidad: 01
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: Al abrir el diálogo para crear o editar una pregunta o respuesta en la página del "Forum", los usuarios no pueden cerrarlo utilizando el icono de la "x" en la esquina superior derecha del diálogo. Esta falta de funcionalidad limita la libertad de los usuarios para decidir si desean continuar o cancelar la acción de crear o editar una pregunta o respuesta.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios un mayor control sobre su experiencia, se recomienda habilitar la capacidad de cerrar el diálogo utilizando la "x". Esto puede lograrse agregando un evento de clic al botón de la "x" que cierre el diálogo de manera consistente con las expectativas del usuario.
+
+PROBLEMA #06: Ausencia de funcionalidad de traducción a español en la aplicación web
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: La aplicación web está en inglés y no proporciona a los usuarios una opción para traducirla al español u otro idioma. Esto puede dificultar la accesibilidad y comprensión de la aplicación para usuarios que no hablan inglés con fluidez.
+
+Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios más control sobre su experiencia, se recomienda agregar una funcionalidad de traducción a la aplicación web. Esto podría incluir la implementación de un botón de traducción en la interfaz de usuario que permita a los usuarios seleccionar su idioma preferido, como español, y traducir automáticamente el contenido de la aplicación. Además, se debería proporcionar una opción para cambiar el idioma en cualquier momento, lo que brindaría a los usuarios más flexibilidad y libertad para adaptar la aplicación a sus necesidades lingüísticas.
 
 
 
