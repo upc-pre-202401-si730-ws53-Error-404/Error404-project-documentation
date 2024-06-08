@@ -2577,8 +2577,8 @@ Escala de severidad: 02
 
 Principio violado: Visibilidad del estado del sistema
 
-Descripción del problema: El botón de "Sign Up" en el toolbar no destaca lo suficiente para atraer la atención de los usuarios. Un llamado a la acción (CTA) claro y visible es crucial para guiar a los usuarios a realizar acciones importantes, como registrarse. En su estado actual, el botón de "Sign Up" puede pasar desapercibido, lo que puede dificultar que los usuarios se registren en la plataforma, especialmente si no está claramente diferenciado del resto de los elementos del menú.
-<img src="resources/heuristicas/toolbar.png">
+Descripción del problema: El botón de "Sign Up" en el toolbar no destaca lo suficiente para atraer la atención de los usuarios. Un llamado a la acción (CTA) claro y visible es crucial para guiar a los usuarios a realizar acciones importantes, como registrarse. En su estado actual, el botón de "Sign Up" puede pasar desapercibido, lo que puede dificultar que los usuarios se registren en la plataforma, especialmente si no está claramente diferenciado del resto de los elementos del menú.<br>
+<img src="resources/heuristicas/toolbar.png"><br>
 Recomendación: Para mejorara el llamado a la acción el boton "Sing Up", se recomienda utilizar un color contrastante que destaque en el toolbar.
 
 
@@ -2588,8 +2588,8 @@ Escala de severidad: 02
 
 Principio violado: Usability - Visibilidad del estado del sistema
 
-Descripción del problema: La sección de "Reseñas" en la landing page muestra el nombre, la foto (cuando está disponible) y el comentario de los usuarios. Sin embargo, algunas reseñas no cargan la foto correctamente. Esto puede causar confusión y frustración en los usuarios, ya que la falta de una imagen puede hacer que la reseña parezca incompleta o menos confiable.
-<img src="resources/heuristicas/reseñas.png">
+Descripción del problema: La sección de "Reseñas" en la landing page muestra el nombre, la foto (cuando está disponible) y el comentario de los usuarios. Sin embargo, algunas reseñas no cargan la foto correctamente. Esto puede causar confusión y frustración en los usuarios, ya que la falta de una imagen puede hacer que la reseña parezca incompleta o menos confiable.<br>
+<img src="resources/heuristicas/reseñas.png"><br>
 Recomendación: Para mejorar la usabilidad y la consistencia visual de la sección de reseñas, se recomienda implementar un sistema que garantice la carga correcta de las imágenes para todas las reseñas. Esto podría incluir la revisión del código para identificar y corregir cualquier error de carga de imágenes, así como la implementación de una solución de respaldo para casos en los que las imágenes no se puedan cargar correctamente. Además, se debería proporcionar un mensaje de error claro y orientado al usuario en caso de que una imagen no pueda cargarse, para que los usuarios entiendan la situación y sepan qué esperar.
 
 
@@ -2599,8 +2599,8 @@ Escala de severidad: 03
 
 Principio violado: Usabilidad - Prevención de errores
 
-Descripción del problema: Después de enviar el formulario en la sección "Contactanos", en lugar de mostrar un mensaje de confirmación o agradecimiento, los usuarios son redirigidos a una página de error que muestra "405 Not Allowed". Este error puede confundir a los usuarios y hacer que se sientan frustrados, ya que esperan una confirmación de que su mensaje ha sido enviado correctamente.
-<img src="resources/heuristicas/contactanos.png">
+Descripción del problema: Después de enviar el formulario en la sección "Contactanos", en lugar de mostrar un mensaje de confirmación o agradecimiento, los usuarios son redirigidos a una página de error que muestra "405 Not Allowed". Este error puede confundir a los usuarios y hacer que se sientan frustrados, ya que esperan una confirmación de que su mensaje ha sido enviado correctamente.<br>
+<img src="resources/heuristicas/contactanos.png"><br>
 Recomendación: Para mejorar la experiencia del usuario y prevenir este error, se recomienda corregir la configuración del formulario de contacto para que muestre un mensaje de confirmación o agradecimiento después de que se haya enviado con éxito. 
 
 
