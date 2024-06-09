@@ -3739,7 +3739,9 @@ Recomendación: Para mejorar la experiencia del usuario y prevenir este error, s
 | 4 |Falta de funcionalidad de búsqueda en la sección "Diseases or Pest" de la página "Crop Information Management"| 02 |Usabilidad - Flexibilidad y eficiencia de uso|
 | 5 |Incapacidad para cerrar el diálogo de creación o edición de preguntas o respuestas usando el botón "x"| 01 |Usabilidad - Control y libertad del usuario|
 | 6 |Ausencia de funcionalidad de traducción a español en la aplicación web| 02 |Usabilidad - Control y libertad del usuario|
-
+| 7 |Información estadística no precisa el sembrío más registrado en la aplicación| 02 |Usabilidad - Flexibilidad y eficiencia del uso|
+| 8 |Incapacidad para registrar el páis del usuario en "Sign In"| 02 |Usabilidad - Control y libertad del usuario|
+| 9 |Incapacidad de confirmar la contraseña a editar en la sección "My Profile"| 03| Usabilidad - Control y libertad del usuario|
 
 PROBLEMA #01: Incapacidad para cerrar el diálogo de creación o edición de crop usando la "x"
 
@@ -3800,6 +3802,7 @@ Principio violado: Usabilidad - Control y libertad del usuario
 Descripción del problema: La aplicación web está en gran parte en inglés, incluso cuando se busca trasladar la aplicación a otro idioma, no todas las secciones se traducen de forma correcta. Esto puede dificultar la accesibilidad y comprensión de la aplicación para usuarios que no hablan inglés con fluidez.<br>
 <img src="resources/heuristicas/cambioIdioma.png"><br>
 Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios más control sobre su experiencia, se recomienda agregar una funcionalidad de traducción más completa a la aplicación web. Esto podría incluir la implementación de un botón de traducción en la interfaz de usuario que permita a los usuarios seleccionar su idioma preferido, como español, y traducir automáticamente el contenido de la aplicación. Además, esta opción debería estar disponible en cualquier momento, lo que brindaría a los usuarios más flexibilidad y libertad para adaptar la aplicación a sus necesidades lingüísticas.
+
 
 
 
