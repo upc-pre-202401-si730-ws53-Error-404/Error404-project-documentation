@@ -3977,8 +3977,17 @@ Entrevista de validación usuario agricultor profesional 01:
 
 Entrevista de validación usuario agricultor profesional 02:
 
+|**Entrevistado 02**||
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
+
 Entrevista de validación usuario agricultor profesional 03:
 
+|**Entrevistado 03**||
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 
 **Segundo segmento objetivo (Agricultores amateurs/Jardineros en casa):**
@@ -3995,6 +4004,11 @@ Entrevista de validación usuario agricultor profesional 03:
 |Timing: |URL: |
 
 Entrevista de validación usuario jardinero en casa 03:
+
+|**Entrevistado 06**||
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <h3>SITE o APP A EVALUAR: </h3>
