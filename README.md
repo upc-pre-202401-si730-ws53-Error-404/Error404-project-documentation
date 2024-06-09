@@ -3593,6 +3593,82 @@ Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja c
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
 
+Para la entrega del sprint número tres se enfoco en hacer un despliegue y terminar el desarrollo completo de la landing page como la aplicación web frontend. Nuestro web service, el backend, está completado en una medida del 50% a más, puesto que los endpoints principales ya se encuentran realizados y quedaría refinarlos para que sigan más al funcionamiento de nuestra aplicación.
+
+
+* **Landing Page**
+
+Se terminó todo lo relacionado al landing page, se incluyo video sobre el producto así como del equipo de desarrollo de Chaquitaclla.
+
+<img src="resources/sprintTresCapturasEvidence/Uno.png">
+<img src="resources/sprintTresCapturasEvidence/Dos.png">
+<img src="resources/sprintTresCapturasEvidence/Tres.png">
+<img src="resources/sprintTresCapturasEvidence/Cuatro.png">
+<img src="resources/sprintTresCapturasEvidence/Cinco.png">
+
+
+* **Frontend-Web-Application**
+
+Se culminó el frontend web application, respecto al i18n hay incovenientes los cuales aún tratamos de resolver, sin embargo, en lo que respecta a funcionalidades de como debería ser nuestro producto se encuentra realizado y funciona de acuerdo a lo planteado inicialmente.
+
+<img src="resources/sprintTresCapturasEvidence/Seis.png">
+<img src="resources/sprintTresCapturasEvidence/Siete.png">
+<img src="resources/sprintTresCapturasEvidence/Ocho.png">
+<img src="resources/sprintTresCapturasEvidence/Nueve.png">
+<img src="resources/sprintTresCapturasEvidence/Diez.png">
+<img src="resources/sprintTresCapturasEvidence/Once.png">
+<img src="resources/sprintTresCapturasEvidence/Doce.png">
+<img src="resources/sprintTresCapturasEvidence/Trece.png">
+<img src="resources/sprintTresCapturasEvidence/Catorce.png">
+
+
+* **Web Services Backend**
+
+Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se avanzó en el backend para el presente sprint, en lo que respecta al backend se trabajo en todos los endpoints principales con el fin de una conexión más sencilla entre frontend y backend.
+
+<img src="resources/sprintTresCapturasEvidence/Quince.png">
+
+<img src="resources/sprintTresCapturasEvidence/Dieciseis.png">
+
+<img src="resources/PruebaUS01.png">
+
+<img src="resources/PruebaUS11.png">
+
+<img src="resources/PruebaUS12.png">
+
+<img src="resources/PruebaUS14.png">
+
+<img src="resources/PruebaTS01.png">
+
+<img src="resources/PruebaTS04.png">
+
+<img src="resources/PruebaTS05.png">
+
+<img src="resources/PruebaTS08.png">
+
+<img src="resources/PruebaTS09.png">
+
+<img src="resources/PruebaTS10.png">
+
+<img src="resources/PruebaTS12.png">
+
+<img src="resources/PruebaTS13.png">
+
+<img src="resources/PruebaTS14.png">
+
+<img src="resources/PruebaTS15.png">
+
+<img src="resources/PruebaUS18BackOne.png">
+
+<img src="resources/PruebaUS18BackTwo.png">
+
+<img src="resources/PruebaUS18BackThree.png">
+
+<img src="resources/PruebaUS18BackFour.png">
+
+<img src="resources/PruebaUS18BackFive.png">
+
+
 <div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint</h5></div>
 
 |Alumno|Actividad|
