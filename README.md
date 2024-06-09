@@ -3508,6 +3508,13 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
 
+Al finalizar por completo el frontend y una gran prporció del backend, con endpoints funcionales, se realizó features en relación a las technical stories realizadas, estas se encuentran en un formato gherkin para un facil entendimiento.
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Error404-project-documentation/features|main|aaf5706|chore: uploaded acceptance tests for technical stories related to sprint 3||03/05/2024|
+
+
 <div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
