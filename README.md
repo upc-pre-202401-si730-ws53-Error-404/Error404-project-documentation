@@ -2450,7 +2450,7 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
     <tbody>
         <tr>
             <td>Date</td>
-            <td>20/05/2024</td>
+            <td>29/05/2024</td>
         </tr>
         <tr>
             <td>Time</td>
@@ -2466,7 +2466,7 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Quispe Tipo, Godofredo /Quispe Condori, Fernando Daniel	/ Carrasco Godos, Juan Fernando	</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Cantoral, Diego /Quispe Condori, Fernando Daniel	/ Carrasco Godos, Juan Fernando	</td>
         </tr>
         <tr>
             <td>Sprint 2 Review Summary</td>
@@ -2529,7 +2529,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td rowspan="2">Registro de usuario - Front</td>
       <td>TK01</td>
       <td>Registro de usuario</td>
-      <td>crear el componente de angular</td>
+      <td>crear el componente de vue</td>
       <td>1</td>
       <td>Paolo Guillen</td>
       <td>Done</td>
@@ -2547,7 +2547,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td rowspan="3">Inicio de sesión de usuario existente - Front</td>
       <td>TK03</td>
       <td>Inicio de sesión</td>
-      <td>crear el componente de angular</td>
+      <td>crear el componente de vue</td>
       <td>1</td>
       <td>Paolo Guillen</td>
       <td>Done</td>
@@ -2573,7 +2573,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td rowspan="3">Ver perfil de usuario - Front</td>
       <td>TK06</td>
       <td>crear componente</td>
-      <td>crear el componente de angular</td>
+      <td>crear el componente de vue</td>
       <td>2</td>
       <td>Paolo Guillen</td>
       <td>Done</td>
@@ -2599,7 +2599,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td rowspan="4">Editar perfil de usuario - Front</td>
       <td>TK09</td>
       <td>Creacion de componente</td>
-      <td>crear el componente de angular</td>
+      <td>crear el componente de vue</td>
       <td>2</td>
       <td>Amner Llamno</td>
       <td>Done</td>
@@ -2607,7 +2607,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
     <tr>
       <td>TK10</td>
       <td>Crear secicon</td>
-      <td>crear la pagina de la seccion del usuario en angular</td>
+      <td>crear la pagina de la seccion del usuario en vue</td>
       <td>2</td>
        <td>Amner Llamno</td>
       <td>Done</td>
@@ -2815,312 +2815,178 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Done</td>
     </tr>
        <tr>
-      <th rowspan="3">US11</th>
-      <td rowspan="3">Ver perfil de usuario - Back</td>
-      <td>TK25</td>
-      <td>Crear los Queries</td>
-      <td>Crear los Queries</td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-    <tr>
-      <td>TK26</td>
-      <td>Crear y definir los QueryServices</td>
-      <td>Crear y definir los QueryServices</td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-    <tr>
-      <td>TK27</td>
-      <td>Crear e implementa los QueryServiceImpls</td>
-      <td>Crear e implementa los QueryServiceImpls</td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-       <tr>
-      <th rowspan="3">US02</th>
-      <td rowspan="3">Inicio de sesión de usuario existente - Back</td>
-      <td>TK28</td>
-      <td>Crear los Comamands </td>
-      <td>Crear los Comamands </td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-    <tr>
-      <td>TK29</td>
-      <td>Crear y definir los CommandServices </td>
-      <td>Crear y definir los CommandServices </td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-      <tr>
-      <td>TK30</td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-<tr>
-      <th rowspan="3">US19</th>
-      <td rowspan="3">Recuperación de contraseña olvidada - Back/td>
-      <td>TK31</td>
-      <td>Crear los Comamands </td>
-      <td>Crear los Comamands </td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-    <tr>
-      <td>TK32</td>
-      <td>Crear y definir los CommandServices </td>
-      <td>Crear y definir los CommandServices </td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-      <tr>
-      <td>TK33</td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>1</td>
-      <td>Godofredo Quispe</td>
-      <td>In-Progress</td>
-    </tr>
-<tr>
-      <th rowspan="3">US12</th>
-      <td rowspan="3">Editar perfil de usuario - Back</td>
-      <td>TK31</td>
-      <td>Crear los Comamands </td>
-      <td>Crear los Comamands </td>
-      <td>1</td>
-      <td>David Rivas</td>
-      <td>In-Progress</td>
-    </tr>
-    <tr>
-      <td>TK32</td>
-      <td>Crear y definir los CommandServices </td>
-      <td>Crear y definir los CommandServices </td>
-      <td>1</td>
-      <td>David Rivas</td>
-      <td>In-Progress</td>
-    </tr>
-      <tr>
-      <td>TK33</td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>1</td>
-      <td>David Rivas</td>
-      <td>In-Progress</td>
-    </tr>
-     <tr>
-      <th rowspan="11">US05</th>
-      <td rowspan="11">Registrar cultivo - Back</td>
-      <td>TK34</td>
-      <td>Crear y definir los ValueObject</td>
-      <td>Crear y definir los ValueObject</td>
-      <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-    <tr>
+      <th rowspan="3">TS02</th>
+      <td rowspan="3">Delete user</td>
       <td>TK35</td>
-      <td>Crear y definir los entitys</td>
-      <td>Crear y definir los entitys</td>
+      <td>Crear los Commands</td>
+      <td>Crear los Commands</td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>Juan Carrasco</td>
       <td>Done</td>
     </tr>
-       <tr>
+    <tr>
       <td>TK36</td>
-      <td>Crear los Comamands</td>
-      <td>Crear los Comamands</td>
+      <td>Crear y definir los CommandsServices</td>
+      <td>Crear y definir los CommandsServices</td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>Juan Carrasco</td>
       <td>Done</td>
     </tr>
-    </tr>
-       <tr>
+    <tr>
       <td>TK37</td>
-      <td>Crear los aggregates</td>
-      <td>Crear los aggregates</td>
+      <td>Crear e implementa los CommandsServiceImpls</td>
+      <td>Crear e implementa los CommandsServiceImpls</td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
-      <td>Done</td>
+      <td>Juan Carrasco</td>
+      <td>In-Progress</td>
     </tr>
        <tr>
+      <th rowspan="3">TS03</th>
+      <td rowspan="3">Update User</td>
       <td>TK38</td>
-      <td>Crear los Queries</td>
-      <td>Crear los Queries</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
-      <td>Done</td>
+      <td>Juan Carrasco</td>
+      <td>In-Progress</td>
     </tr>
-       <tr>
+    <tr>
       <td>TK39</td>
-      <td>Crear y definir los CommandServices</td>
-      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
-      <td>Done</td>
+      <td>Juan Carrasco</td>
+      <td>In-Progress</td>
     </tr>
-       <tr>
+      <tr>
       <td>TK40</td>
-      <td>Crear y definir los QueryService</td>
-      <td>Crear y definir los QueryService</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
-      <td>Done</td>
+      <td>Juan Carrasco</td>
+      <td>In-Progress</td>
     </tr>
-       </tr>
-       <tr>
+      <tr>
+      <th rowspan="3">US14</th>
+      <td rowspan="3">Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario</td>
       <td>TK41</td>
-      <td>Crear y definir los Repositories</td>
-      <td>Crear y definir los Repositories</td>
+      <td>Crear el componente </td>
+      <td>Crear el componente </td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>Diego Cantoral</td>
       <td>Done</td>
     </tr>
-     </tr>
-       <tr>
+    <tr>
       <td>TK42</td>
+      <td>Relacionarlo con la seccion de estadisticas  </td>
+      <td>Relacionarlo con la seccion de estadisticas </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="11">TS04</th>
+      <td rowspan="11">Post Crops</td>
+      <td>TK43</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK44</td>
+      <td>Crear y definir los entitys</td>
+      <td>Crear y definir los entitys</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK45</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK46</td>
+      <td>Crear los aggregates</td>
+      <td>Crear los aggregates</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK47</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK48</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK49</td>
+      <td>Crear y definir los QueryService</td>
+      <td>Crear y definir los QueryService</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK50</td>
+      <td>Crear y definir los Repositories</td>
+      <td>Crear y definir los Repositories</td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+     </tr>
+       <tr>
+      <td>TK51</td>
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>Diego Cantoral</td>
       <td>Done</td>
-    </tr>
      </tr>
        <tr>
-      <td>TK43</td>
+      <td>TK52</td>
       <td>Crear e implementa los QueryServiceImplse</td>
       <td>Crear e implementa los QueryServiceImpls</td>
       <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
+      <td>Diego Cantoral</td>
       <td>Done</td>
-    </tr>
-    </tr>
+       </tr>
        <tr>
-      <td>TK44</td>
-      <td>Crear e implementar los Controllers </td>
-      <td>Crear e implementar los Controllers </td>
-      <td>1</td>
-      <td>Diego Cantoral & Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="2">US14</th>
-      <td rowspan="2">Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario</td>
-      <td>TK45</td>
-      <td>Crear los Comamands </td>
-      <td>Crear los Comamands </td>
-      <td>1</td>
-      <td>Diego Cantoral</td>
-      <td>In-Progress</td>
-    </tr>
-    <tr>
-      <td>TK46</td>
-      <td>Crear los queries </td>
-      <td>Crear los queries </td>
-      <td>1</td>
-      <td>Diego Cantoral</td>
-      <td>In-Progress</td>
-    </tr>
-    <tr>
-      <th rowspan="3">US06</th>
-      <td rowspan="3"> Eliminar registro de cultivo - Back</td>
-      <td>TK47</td>
-      <td>Crear los Comamands </td>
-      <td>Crear los Comamands </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK48</td>
-      <td>Crear y definir los CommandServices </td>
-      <td>Crear y definir los CommandServices </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-      <tr>
-      <td>TK49</td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="3">US08</th>
-      <td rowspan="3"> Editar registro de cultivo - Back</td>
-      <td>TK50</td>
-      <td>Crear los Comamands </td>
-      <td>Crear los Comamands </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK51</td>
-      <td>Crear y definir los CommandServices </td>
-      <td>Crear y definir los CommandServices </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-      <tr>
-      <td>TK52</td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="3">US15</th>
-      <td rowspan="3"> Planificacion de cultivos - Back</td>
       <td>TK53</td>
-      <td>Crear los Comamands </td>
-      <td>Crear los Comamands </td>
+      <td>Crear e implementar los Controllers </td>
+      <td>Crear e implementar los Controllers </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <th rowspan="3">TS05</th>
+      <td rowspan="3"> Get Crops</td>
+      <td>TK54</td>
+      <td>Crear los Queries  </td>
+      <td>Crear los Queries  </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>TK54</td>
-      <td>Crear y definir los CommandServices </td>
-      <td>Crear y definir los CommandServices </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-      <tr>
       <td>TK55</td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>Crear e implementa los CommandServicesImpls </td>
-      <td>1</td>
-      <td>Paolo Guillen</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="3">US07</th>
-      <td rowspan="3"> Visualización de Registros - Back</td>
-      <td>TK53</td>
-      <td>Crear los Queries  </td>
-      <td>Crear los Queries  </td>
-      <td>1</td>
-      <td>Diego Cantoral</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK54</td>
       <td>Crear y definir los QueryServices </td>
       <td>Crear y definir los QueryServices </td>
       <td>0:30</td>
@@ -3128,11 +2994,441 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Done</td>
     </tr>
       <tr>
-      <td>TK55</td>
+      <td>TK56</td>
       <td>Crear e implementa los QueryServiceImpls </td>
       <td>Crear e implementa los QueryServiceImpls </td>
       <td>1</td>
       <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS06</th>
+      <td rowspan="3"> Delete Crops</td>
+      <td>TK54</td>
+      <td>Crear los Commands  </td>
+      <td>Crear los Commands  </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK55</td>
+      <td>Crear y definir los CommandsServices </td>
+      <td>Crear y definir los CommandsServices </td>
+      <td>0:30</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK56</td>
+      <td>Crear e implementa los CommandsServiceImpls </td>
+      <td>Crear e implementa los CommandsServiceImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS07</th>
+      <td rowspan="3"> Update Crops</td>
+      <td>TK57</td>
+      <td>Crear los Commands  </td>
+      <td>Crear los Commands  </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK58</td>
+      <td>Crear y definir los CommandsServices </td>
+      <td>Crear y definir los CommandsServices </td>
+      <td>0:30</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK59</td>
+      <td>Crear e implementa los CommandsServiceImpls </td>
+      <td>Crear e implementa los CommandsServiceImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS11</th>
+      <td rowspan="3"> Get Cares</td>
+      <td>TK60</td>
+      <td>Crear los Queries  </td>
+      <td>Crear los Queries  </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK61</td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>0:30</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK62</td>
+      <td>Crear e implementa los QueriesServiceImpls </td>
+      <td>Crear e implementa los QueriesServiceImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS12</th>
+      <td rowspan="3"> Get Pests</td>
+      <td>TK63</td>
+      <td>Crear los Queries  </td>
+      <td>Crear los Queries  </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK64</td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>0:30</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK65</td>
+      <td>Crear e implementa los QueriesServiceImpls </td>
+      <td>Crear e implementa los QueriesServiceImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS13</th>
+      <td rowspan="3"> Get Diseases</td>
+      <td>TK66</td>
+      <td>Crear los Queries  </td>
+      <td>Crear los Queries  </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK67</td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>0:30</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK68</td>
+      <td>Crear e implementa los QueriesServiceImpls </td>
+      <td>Crear e implementa los QueriesServiceImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="11">TS08</th>
+      <td rowspan="11">Register Sowing</td>
+      <td>TK69</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK70</td>
+      <td>Crear y definir los entitys</td>
+      <td>Crear y definir los entitys</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK71</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK72</td>
+      <td>Crear los aggregates</td>
+      <td>Crear los aggregates</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK73</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK74</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK75</td>
+      <td>Crear y definir los QueryService</td>
+      <td>Crear y definir los QueryService</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK76</td>
+      <td>Crear y definir los Repositories</td>
+      <td>Crear y definir los Repositories</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+     </tr>
+       <tr>
+      <td>TK77</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+     </tr>
+       <tr>
+      <td>TK78</td>
+      <td>Crear e implementa los QueryServiceImplse</td>
+      <td>Crear e implementa los QueryServiceImpls</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+       </tr>
+       <tr>
+      <td>TK79</td>
+      <td>Crear e implementar los Controllers </td>
+      <td>Crear e implementar los Controllers </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS09</th>
+      <td rowspan="3">Get Sowing</td>
+      <td>TK80</td>
+      <td>Crear los Queries </td>
+      <td>Crear los Queries </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK81</td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK82</td>
+      <td>Crear e implementa los QueriesServicesImpls </td>
+      <td>Crear e implementa los QueriesServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">TS10</th>
+      <td rowspan="2">Update Sowing</td>
+      <td>TK83</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK84</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>In-Progress</td>
+    </tr>
+     <tr>
+      <th rowspan="11">TS14</th>
+      <td rowspan="11">Create Product</td>
+      <td>TK85</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK86</td>
+      <td>Crear y definir los entitys</td>
+      <td>Crear y definir los entitys</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK87</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK88</td>
+      <td>Crear los aggregates</td>
+      <td>Crear los aggregates</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK89</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK90</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>TK91</td>
+      <td>Crear y definir los QueryService</td>
+      <td>Crear y definir los QueryService</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+       </tr>
+       <tr>
+      <td>TK92</td>
+      <td>Crear y definir los Repositories</td>
+      <td>Crear y definir los Repositories</td>
+      <td>1</td>
+      <td> Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK93</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>TK94</td>
+      <td>Crear e implementa los QueryServiceImplse</td>
+      <td>Crear e implementa los QueryServiceImpls</td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>TK95</td>
+      <td>Crear e implementar los Controllers </td>
+      <td>Crear e implementar los Controllers </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">TS16</th>
+      <td rowspan="2">Update Product</td>
+      <td>TK96</td>
+      <td>Crear los Comamands </td>
+      <td>Crear los Comamands </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK97</td>
+      <td>Crear e implementa los CommandServicesImpls  </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS15</th>
+      <td rowspan="3"> Get Product</td>
+      <td>TK98</td>
+      <td>Crear los Queries </td>
+      <td>Crear los Queries </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK99</td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>Crear y definir los QueriesServices </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK100</td>
+      <td>Crear e implementa los QueriesServicesImpls </td>
+      <td>Crear e implementa los QueriesServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS17</th>
+      <td rowspan="3"> Update Crops</td>
+      <td>TK57</td>
+      <td>Crear los Commands  </td>
+      <td>Crear los Commands  </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK58</td>
+      <td>Crear y definir los CommandsServices </td>
+      <td>Crear y definir los CommandsServices </td>
+      <td>0:30</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>TK59</td>
+      <td>Crear e implementa los CommandsServiceImpls </td>
+      <td>Crear e implementa los CommandsServiceImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
       <td>Done</td>
     </tr>
   </tbody>
