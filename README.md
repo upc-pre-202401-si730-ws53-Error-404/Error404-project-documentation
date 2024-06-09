@@ -3766,6 +3766,10 @@ Explicación del flujo: Una vez el usuario registre su sembrio a seguir, cuando 
 **Primer segmento objetivo (Agricultores profesionales):**
 
 Entrevista de validación usuario agricultor profesional 01:
+|**Entrevistado 01**|Josue Guerra|
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 Entrevista de validación usuario agricultor profesional 02:
 
@@ -3775,9 +3779,16 @@ Entrevista de validación usuario agricultor profesional 03:
 
 **Segundo segmento objetivo (Agricultores amateurs/Jardineros en casa):**
 
-Entrevista de validación usuario jardinero en casa 01:
 
-Entrevista de validación usuario jardinero en casa 02:
+|**Entrevistado 04**|Eligsela Luna|
+| :-: | :- |
+|<img src="resources/">|<p>Durante la entrevista de validación, nuestra entrevistada Eligsela menciona como la aplicación le gusta, excepto por el detalle de que la traducción completa de inglés a español no se encuentre 100% implementada</p> <p>Las funcionalidades que nuestro entrevistado prueban son acorde a los user goals planteados en un inicio, significando que su experiencia por la aplicación es fluida y con pocos obstáculos, el usuario tiene intriga por la seccion de consultas, puesto que a pesar que existe, menciona que le gustaría que esté mas organizado con otra interfaz, respecto a la sección para iniciar sesión y entrar a la aplicación no tuvo incovenientes</p> <p>Dentro de las recomendaciones principales, menciona que un sistema de notificaciones podría ser especialmente útil, principalmente para ella que no tiene mucha experiencia en el tema de agricultura y solo es una aficionada empezando en este rubro</p>|
+|Timing: |URL: |
+
+|**Entrevistado 05**|Farid Briceño|
+| :-: | :- |
+|<img src="resources/">||
+|Timing: |URL: |
 
 Entrevista de validación usuario jardinero en casa 03:
 
