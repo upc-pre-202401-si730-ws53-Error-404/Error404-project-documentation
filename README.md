@@ -3540,6 +3540,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
 <img src="resources/todosCommitsSprintTres/Seven.png">
 <img src="resources/todosCommitsSprintTres/Eight.png">
 <img src="resources/todosCommitsSprintTres/Nine.png">
+<img src="resources/todosCommitsSprintTres/Ten.png">
 
 
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
