@@ -2867,8 +2867,8 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>In-Progress</td>
     </tr>
       <tr>
-      <th rowspan="3">US14</th>
-      <td rowspan="3">Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario</td>
+      <th rowspan="2">US14</th>
+      <td rowspan="2">Visualizar el cambio en el estado del producto a lo largo de su cuidado en el huerto de acuerdo con los datos recopilados del usuario</td>
       <td>TK41</td>
       <td>Crear el componente </td>
       <td>Crear el componente </td>
