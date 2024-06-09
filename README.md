@@ -3273,7 +3273,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear y definir los ValueObject</td>
       <td>Crear y definir los ValueObject</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -3281,7 +3281,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear y definir los entitys</td>
       <td>Crear y definir los entitys</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
        <tr>
@@ -3289,7 +3289,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear los Comamands</td>
       <td>Crear los Comamands</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     </tr>
@@ -3298,7 +3298,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear los aggregates</td>
       <td>Crear los aggregates</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
        <tr>
@@ -3306,7 +3306,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear los Queries</td>
       <td>Crear los Queries</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
        <tr>
@@ -3314,7 +3314,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear y definir los CommandServices</td>
       <td>Crear y definir los CommandServices</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
        <tr>
@@ -3322,7 +3322,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear y definir los QueryService</td>
       <td>Crear y definir los QueryService</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
        </tr>
@@ -3331,7 +3331,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear y definir los Repositories</td>
       <td>Crear y definir los Repositories</td>
       <td>1</td>
-      <td> Paolo Guillen</td>
+      <td> Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
      </tr>
@@ -3340,7 +3340,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
      </tr>
@@ -3349,7 +3349,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear e implementa los QueryServiceImplse</td>
       <td>Crear e implementa los QueryServiceImpls</td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     </tr>
@@ -3358,7 +3358,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear e implementar los Controllers </td>
       <td>Crear e implementar los Controllers </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -3368,7 +3368,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear los Comamands </td>
       <td>Crear los Comamands </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -3376,7 +3376,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear e implementa los CommandServicesImpls  </td>
       <td>Crear e implementa los CommandServicesImpls </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -3386,7 +3386,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear los Queries </td>
       <td>Crear los Queries </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -3394,7 +3394,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear y definir los QueriesServices </td>
       <td>Crear y definir los QueriesServices </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
       <tr>
@@ -3402,7 +3402,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear e implementa los QueriesServicesImpls </td>
       <td>Crear e implementa los QueriesServicesImpls </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -3412,7 +3412,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear los Commands  </td>
       <td>Crear los Commands  </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -3420,7 +3420,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear y definir los CommandsServices </td>
       <td>Crear y definir los CommandsServices </td>
       <td>0:30</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
       <tr>
@@ -3428,7 +3428,7 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
       <td>Crear e implementa los CommandsServiceImpls </td>
       <td>Crear e implementa los CommandsServiceImpls </td>
       <td>1</td>
-      <td>Paolo Guillen</td>
+      <td>Fernando Daniel Quispe</td>
       <td>Done</td>
     </tr>
   </tbody>
