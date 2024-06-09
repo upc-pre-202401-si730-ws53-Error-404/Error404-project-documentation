@@ -3591,6 +3591,210 @@ Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja c
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review</h5></div>
 
+| Endpoint | Detalles |
+| :--: | :--: | 
+|users/subscriptions | Este endpoint proporciona información sobre los planes de suscripción disponibles. Cada plan tiene un id, nombre, descripción y precio. Por ejemplo, el plan "Básico" (id: 1) permite el registro de 5 cultivos y cuesta 9.99. |
+|users/users |Se implementaron las operaciones CRUD desde base.service.ts, logrando el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de los usuarios.|
+|users/countries | Este endpoint proporciona información sobre los países y sus ciudades. Cada país tiene un id, nombre y una lista de ciudades. Cada ciudad tiene un id y un nombre. Por ejemplo, Perú (id: 1) tiene ciudades como Lima (id: 1) y Cusco (id: 2). |
+|/crops/sowings	|CRUD para las siembras. Se implemento con ayuda del base.service.ts. Se obtienen datos como id, fechas, área, usuario, cultivo, fase fenológica y controles. Por ejemplo, la siembra de "Lemon" (id: 1) inició el 19/07/2024 en 500m².|
+|/crops/crops	|CRUD para los cultivos. Se obtienen id, nombre, imagen, descripción y tipo. Por ejemplo, "Lemon" (id: 1) es un cítrico usado medicinalmente.|
+|/crops/cares	|CRUD para los cuidados. Se obtienen id, siembra, fecha y sugerencia. Por ejemplo, para la siembra 1, el 25/07/2024 se recomendó regar por 30 minutos.|
+|/crops/diseases|CRUD para las enfermedades asociados con cultivos. Se obtienen id, cultivo, nombre, descripción y solución. Por ejemplo, "Bacterial stain" (id: 1) afecta a "Rice" y se controla con fungicidas de cobre.|
+|/crops/products|CRUD para los productos. Se obtienen id, siembra, fecha, tipo, nombre y cantidad. Por ejemplo, para la siembra 1, el 25/07/2024 se usaron 10 kg de "Aminofol Plus".|
+|forum/questions |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", además del getQuestions desde el Placeholder Json para la tabla de las preguntas que se han registrado dentro de la sección de forum |
+|forum/answers |Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", ademas de los getAnswers desde el Placeholder Json para la tabla de las respuestas de acuerdo a la pregunta que el usuario se encuentre interesado en saber más información |
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="12">Forum</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/forum/answers</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/forum/answers</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{answerId}</td>
+            <td>api/v1/forum/answers/{answerId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{answerId}</td>
+            <td>api/v1/forum/answers/{answerId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{answerId}</td>
+            <td>api/v1/forum/answers/{answerId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{questionId}</td>
+            <td>api/v1/forum/answers/question/{questionId}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/forum/questions</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/forum/questions</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{questionId}</td>
+            <td>api/v1/forum/questions/{questionId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{questionId}</td>
+            <td>api/v1/forum/questions/{questionId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{questionId}</td>
+            <td>api/v1/forum/questions/{questionId}</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Crops</td>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Diseases</td>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/diseases</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/diseases/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Pests</td>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/pests</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/pests/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Products</td>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/products</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/products</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{type}</td>
+            <td>api/v1/products/{type}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{productId}</td>
+            <td>api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Sowings</td>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/sowings</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/sowings</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/sowings/{id}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/sowings/{id}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{id}</td>
+            <td>api/v1/sowings/controls/{id}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{sowingId}</td>
+            <td>api/v1/sowings/{sowingId}/controls</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Users</td>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/users</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{country}</td>
+            <td>api/v1/users/country/{country}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{city}</td>
+            <td>api/v1/users/city/{city}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/users/register</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review</h5></div>
 
 Para la entrega del sprint número tres se enfoco en hacer un despliegue y terminar el desarrollo completo de la landing page como la aplicación web frontend. Nuestro web service, el backend, está completado en una medida del 50% a más, puesto que los endpoints principales ya se encuentran realizados y quedaría refinarlos para que sigan más al funcionamiento de nuestra aplicación.
