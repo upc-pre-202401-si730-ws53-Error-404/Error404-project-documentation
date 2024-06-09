@@ -3977,10 +3977,10 @@ Entrevista de validación usuario agricultor profesional 01:
 
 Entrevista de validación usuario agricultor profesional 02:
 
-|**Entrevistado 02**||
+|**Entrevistado 02**| Daniel Valverde|
 | :-: | :- |
-|<img src="resources/">||
-|Timing: |URL: |
+|<img src="resources/">|<p> Durante la entrevista de validación, nuestro entrevistado Daniel Valverde comenta apreciaciones positivas sobre el diseño de la página web en general y que simplifica adecuadamente las funciones que realiza nuestra aplicación, pero aclaró que los bloques de imágenes son desproporcionadas con el resto de la landing page y considera que las funciones mostradas no son tan específicas y que no son tan entendibles para los usuarios que desean usar aplicación en un ámbito profesional. <p> Con respecto a la aplicación y las funciones que se ofrece al usuario, la opción de realizar consultas mediante un foro la más funcional e interesante para una comunicación constante con demás usuarios. <p> Sin embargo, enfatizó que la navegación dentro de la aplicación no era tan fluida debido a la ausencia de un botón que permita retroceder al menú principal. <p> Concluyó que todas las funcionalidades ofrecidas se les hace útil para un registro  |
+|Timing: 10:12 |URL:  |
 
 Entrevista de validación usuario agricultor profesional 03:
 
