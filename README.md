@@ -3438,6 +3438,74 @@ Enlace del sprint 3 en trello:[https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review</h5></div>
 
+**Landing Page**
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 90fd0d5 | Update index.html |  | 31/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 9b0b436 | Update index.html | | 31/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| c291f67 | Update index-es.html |  | 31/05/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/LandingPageAplicacionesWeb|main| 2a7a26d | Update index.html |  | 31/05/2024 |
+
+**Frontend-web-application**
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/login-register|376fd30  |feat(users): add last changes  |  | 07/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/login-register|de71832  |feat: refactored the signing up and signing in section  |  | 07/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/login-register|402148a  |feat: added sign-up  |  | 07/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/login-register|83b1a4d  |feat: added everything related to authentication except for the profile editing section  |  | 07/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/login-register|237a0e0  |feat: finished profile editing section  |  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/login-register|b24e6c4  |feat: finished profile editing section  |  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|feature/login-register|5b5e61f  |feat: finished front-end-web.application with json-server  |  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|develop|fab84a3  |Merge pull request #23 from upc-pre-202401-si730-ws53-Error-404/feature/login-register  |  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|main|2aadfda  |feat: refactored the signing up and signing in section  |  | 08/06/2024 |
+
+**Web Services**
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|6154c09|refactor: deleted some aggregates that didn't fit to the project|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|f6b0fa6|refactor: deleted all unused things in this branch|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|a716fb2|feat: added packages into csproj|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|6327ab0|feat: added packages into csproj|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|21c8de2|feat(shared): added user entity in appdbcontext|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|7c43f72|feat(shared): added configuration and persistences in infrastructure layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|20f0150|feat(users): added queries for users entity in domain layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|5b9edb6|feat(shared): added kebab case convention for database table creation|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|04fccdd|feat(users): added interfaces to override them in the future|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|bf24b5b|feat(users): added value object subscriptions in domain layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|cc7fc5a|feat(users): added user repository on infrastructure layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|9730422|feat(users): added user query service in application layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|11d1bb5|feat(users): added user command service in application layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|5e43308|feat(users): created user entity in domain layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|1e24ea1|feat(users): added resources to interfaces layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|0cad3ae|feat(users): added transformers for interfaces layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|251e490|fix: fixed som compatibility issue with shared package usages|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-users|5d1484e|feat(users): added users controller for interfaces rest layer|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-forum|912d0ea|feat(forum): added methods to answer and question repositories.|  | 06/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-forum|ee7bb27|feat(forum): added validation for create questions and answers.|  | 06/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-forum|ad5e16d|feat(forum): added get by questionId method in answers controller.|  | 06/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-forum|834d501|feat(forum): corrected answer and question controller.|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-forum|f976369|feat(forum): corrected answer repository and command service.|  | 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|06f7b72|refactor: delete unnecesary property from product.|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|4b2b31b|Merge remote-tracking branch 'origin/bc-crops' into bc-crops|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|3df2a9c|feat(crops): rename entity cares|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|6dbd52d|feat: added many to many relationship with diseases to crops, as well as pests to crops|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|8f710d9|refactor: delete unnecessary parameter|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|e61eb02|feat(queries from products to GET): added queries to get all products and products by type.|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|de26e53|feat(commandservice product): added product command service|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|e86c095|fix: delete unnecessary conversion|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|3622c30|feat(crops): created controls entity|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|c1a0dc1|feat(crops): updated cares entity|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|6e9a646|feat(crop): created enums related with sowings: condition, soil moisture and stem condition|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops-testing|fdf4149|feat: added query find product by id|| 01/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops|98bfcc4|feat(controls): created the base of the controls with it relation with sowings|| 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|bc-crops|d592349|feat(crops): fixed some relations about crop|| 08/06/2024 |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|develop|41f2b76|feat: made changes related to appDbcontext|| 08/06/2024 |
+
+
+
+
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review</h5></div>
 
 <div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
