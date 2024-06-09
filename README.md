@@ -3962,6 +3962,35 @@ Descripción del problema: La aplicación web está en gran parte en inglés, in
 <img src="resources/heuristicas/cambioIdioma.png"><br>
 Recomendación: Para mejorar la usabilidad y proporcionar a los usuarios más control sobre su experiencia, se recomienda agregar una funcionalidad de traducción más completa a la aplicación web. Esto podría incluir la implementación de un botón de traducción en la interfaz de usuario que permita a los usuarios seleccionar su idioma preferido, como español, y traducir automáticamente el contenido de la aplicación. Además, esta opción debería estar disponible en cualquier momento, lo que brindaría a los usuarios más flexibilidad y libertad para adaptar la aplicación a sus necesidades lingüísticas.
 
+PROBLEMA #07: Información estadística no precisa el sembrío más registrado en la aplicación
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Flexibilidad y eficiencia del uso
+
+Descripción del problema: En la sección de reportes estadísticos de la aplicación web aparece datos estadísticos sobre los cultivos más registrados y los cultivos con más controles registrados, sin embargo al pasar el cursor por encima de dichos datos solo se llema a visualizar los datos, mas no el tipo de cultivo. Esto llega a ser un problema para los usuarios que no son familiarizados con la aplicación y no sienten una interacción intuitiva
+<img src="resources/heuristicas/estadisticas.png"><br>
+Recomendación: Para mejorar la usabilidad y eficiencia de uso de los usuarios, se recomienda la visualización del nombre del cultivo más registrado y cultivo con mayores controles registrados, envés de la cantidad; ya que esto está siendo presentado en los gráficos.
+
+Problema #08: Incapacidad para registrar el páis del usuario en "Sign In"
+
+Escala de severidad: 02
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: En la autenticación del usuario, al seleccionar "Sign Up" se presenta las opciones de registrar: "First Name", "Last Name", E-mail" y "Password", mas no se presenta la opción de seleccionar el país de residencia del usuario, lo cuál llega a ser un problema para llevar un registro adecuado de los usuarios que se registran dentro de la aplicación.
+<img src="resources/heuristicas/registro_pais.png"><br>
+Recomendación: Para mejorar la usabilidad y control de libertad del usuario, se recomienda agregar la opción de permitir el registro de país de los usuarios para que se pueda llevar un registro más adecuado de los usuarios y que el propio usuario tenga mayores opciones de especificar sus datos personales.
+
+Problema #09: Incapacidad de confirmar la contraseña a editar en la sección "My Profile"
+
+Escala de severidad: 03
+
+Principio violado: Usabilidad - Control y libertad del usuario
+
+Descripción del problema: En la sección de My Profile, cuando el usuario desea editar los datos registrados al momento de haberse registrado dentro de la aplicación, no se muestra la opción de "Confirmar contraseña" después del apartado donde se desea cambiar la contraseña. El contar con el apartado de "Confirmar contraseña" es importante para que exista una verificación de datos adecuada dentro de la aplicación. 
+<img src="resources/heuristicas/registro_editar_contraseña.png"><br>
+Recomendación: Para mejorar la usabilidad y libertad del usuario se recomienda agregar un cuadro de texto llamado "Confirmar contraseña" que le permita al usuario ingresar nuevamente la contraseña para que sea confirmada por el usuario y esté seguro de la contraseña nueva que desea ingresar.
 
 
 
