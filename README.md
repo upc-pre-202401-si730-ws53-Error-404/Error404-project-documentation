@@ -4241,6 +4241,7 @@ Muhammad Usman. (2022, 19 de abril). Deployment/Hosting of Vue.js app using Fire
 
 <div id='8.'><h2>Anexos</h2></div>
 
+* **Validation Interviews:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcCcUrloFjJPkHBN0xqmxkUBMhC3nVjgaFyrdt5NdRvfew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6rvfaZ]
 * **Video about the team:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EbTQcS7emhRPnlbhOHyAv8MBPUFpdi1eUe7V_aSlcQ7A2g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Cdl0cs]
 * **LandingPage:** [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/]
 * **Frontend Web application:** [chaquitaclla-app-web-tp.web.app]
