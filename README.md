@@ -40,8 +40,8 @@
 |29/05/2024| 2.6| Paolo Guillen, Fernando Quispe | Desarrollo del bounded context relacionado con crops, especialmente la seccion de sus productos y controles|
 |01/06/2024| 2.7| Diego Cantoral, Paolo Guillen | Desarrollo del bounded context relacionado con crops, la seccion de los crops|
 |04/06/2024| 2.8| Juan Carrasco | Desarrollo del bounded context relacionado con users, y documentacion|
-|04/06/2024| 2.9|Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisiones finales y documentación del sprint numero 3|
-|08/06/2024|3.0| Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Correccion de errores en la documentacion y añadir technical stories nuevas que se relacionan con el backend|
+|08/06/2024| 2.9|Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisiones finales y documentación del sprint numero 3|
+|09/06/2024|3.0| Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Correccion de errores en la documentacion y añadir technical stories nuevas que se relacionan con el backend|
 
 ## Project Report Collaboration Insights
 
