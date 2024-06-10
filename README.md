@@ -4259,6 +4259,7 @@ Muhammad Usman. (2022, 19 de abril). Deployment/Hosting of Vue.js app using Fire
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 * **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
 * **TB1 Video exposicion:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EacgNl2_wmxGsHLVjXJ84nMBgGnnjwpEeWYRrX_MDqq9sg?e=TclDed&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
+* **TB2 Video exposicion:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EdMp0CNX5YJEuv6LsPR71UsBwhIXWdRPzii9rN09qBfrMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CaPvbl]
 
 
 
