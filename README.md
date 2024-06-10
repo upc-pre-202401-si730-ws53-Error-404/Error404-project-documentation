@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Informe del TP  </h1>
+<h1 style="text-align: center;"> Informe del TB2  </h1>
 <h2 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h2>
 <img src="resources/UPCPng.png" width=50%" style="text-align: center;"/>
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
