@@ -4217,6 +4217,11 @@ Recomendación: Para mejorar la usabilidad y libertad del usuario se recomienda 
 
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 
+El video sobre el producto se realizo de forma satisfactoria, mostrando un poco de cada funcionalidad de la aplicación.
+
+<img src="resources/videoAboutTheProductPrueba.png">
+
+Enlace del video de about the product:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/ER-bkBpM76JPgm1TzeT6lFUB8K-p_8N2FoeCSSgL16hmAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=X4fcdx]
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
@@ -4241,10 +4246,13 @@ Muhammad Usman. (2022, 19 de abril). Deployment/Hosting of Vue.js app using Fire
 
 <div id='8.'><h2>Anexos</h2></div>
 
+* **About the product:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/ER-bkBpM76JPgm1TzeT6lFUB8K-p_8N2FoeCSSgL16hmAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=X4fcdx]
 * **Validation Interviews:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcCcUrloFjJPkHBN0xqmxkUBMhC3nVjgaFyrdt5NdRvfew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6rvfaZ]
 * **Video about the team:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EbTQcS7emhRPnlbhOHyAv8MBPUFpdi1eUe7V_aSlcQ7A2g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Cdl0cs]
 * **LandingPage:** [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/]
+
 * **Frontend Web application:** [chaquitaclla-app-web-tp.web.app]
+
 * **Entrevistas:**[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=I7dtHo]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
 * **Prototype:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EULCsKIFI0hBuU-pYDWa84cBDukU0RGqnSL8LTZPm3OQvw?e=ultytE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
