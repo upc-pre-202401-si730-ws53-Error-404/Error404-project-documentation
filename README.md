@@ -3517,6 +3517,8 @@ Al finalizar por completo el frontend y una gran prporció del backend, con endp
 
 <div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review</h5></div>
 
+Enlace del vídeo de youtube con explicación de la evidencia de ejecucion:[https://youtu.be/X8hkQyQpY4k]
+
 Para la entrega de este sprint se acabo todo lo que es el frontend que trabaja con el json-server, además de haber avanzado en una gran proporción lo que es el backend, si bien las evidencias actuales son en relación mayormente al backend, se esperan futuras mejoras, puesto que en el código actual del backend se buscar organizarlo mejor y posteriormente poder hacer un despliegue de la base de datos en "Zeabur" para conectar tanto frontend como backend de forma satisfactoria.
 
 
