@@ -3972,7 +3972,7 @@ Explicación del flujo: Una vez el usuario registre su sembrio a seguir, cuando 
 Entrevista de validación usuario agricultor profesional 01:
 |**Entrevistado 01**|Josue Guerra|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p>Durante la entrevista, el entrevistado menciona que la aplicación en el aspecto visual es agradable a la vista, al estar desde un dispositivo móvil tambien menciona que la aplicación no sigue complementamente un diseño personalizado para móviles, algo que puede ser problemática</p><p>En la sección de landing page, menciona que la información está clara sin embargo le gustaría que se explicase un poco más en la sección de about the product con información más sencilla para este.</p><p>Dentro de la aplicación le parece todo bien, mencionando que las secciones fundamentales de la aplicación son el foro de consultas, así como lo que es el apartado del registro de cultivos, puesto que el, a pesar de ser un profesional cree que un foro de consultas podría ser de gran ayuda, incluso para ellos, puesto que a veces hay casos de terceros los cuales situaciones como fenomenos naturales puedan acabar con nuestro cultivos y un apartado colaborativo puede ser lo más esencial</p><p>Como recomendaciones finales, menciona que un apartado de notificaciones podría ser necesario si el producto se busca escalar a una mayor audiencia así como un sistema para ver el clima actual y posibles eventos que puedan suceder</p>|
 |Timing: |URL: |
 
 Entrevista de validación usuario agricultor profesional 02:
@@ -4000,7 +4000,7 @@ Entrevista de validación usuario agricultor profesional 03:
 
 |**Entrevistado 05**|Farid Briceño|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p>El entrevistado es alguien que empezó en la agricultura, con el fin de empezar a cosechar sus productos naturales y combatir contra la reciente alza de precios, sin embargo por su poco conocimiento del tema recurre a veces a buscar tanto en internet que a veces le cansa puesto que no encuentra siempre lo que busca</p><p> Cuando se le muestra la landing page al entrevistado, este se ve perplejo con la interfaz gráfica, especialmente las secciones donde se da información del producto, sin embargo menciona que estos botones deben ser interactuables para sorprender mejor al usuario y que este pueda tener una mayor chance de convertirse en cliente</p><p>Al momento de ingresar la aplicación, el entrevistado menciona que apartados como la sección de estadísticas pueden mejorarse, puesto que siente que hace muchos esfuerzo para ver los datos y los colores no llegan a contrastarse tan bien, lo que puede ser problemático si se está observando la aplicación a altas horas de la noche</p><p>Al finalizar la entrevista, el entrevistado resalta varios puntos, entre ellos, una ausencia de que la aplicación no cuente al 100% con el lenguaje de español, puesto que bajo sus palabras puede hacer que menos usuarios quieran usar la aplicacion, de igual forma menciona que un sistema de notifiaciones por correo podría ser algo esencial a implementar, puesto que en sus palbras, el se suele olvidar a veces de cuidar sus plantas y sería de gran ayuda.</p>|
 |Timing: |URL: |
 
 Entrevista de validación usuario jardinero en casa 03:
