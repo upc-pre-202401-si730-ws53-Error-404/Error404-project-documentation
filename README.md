@@ -3984,9 +3984,9 @@ Entrevista de validación usuario agricultor profesional 02:
 
 Entrevista de validación usuario agricultor profesional 03:
 
-|**Entrevistado 03**||
+|**Entrevistado 03**|Jair Ramos|
 | :-: | :- |
-|<img src="resources/">||
+|<img src="resources/">|<p>En el entrevistado Jair Ramos del segtor agricultores en la entrevista nos muestra sus apreciaciones sobre las características que el realizaría y de que manera la utilizaría, realizando flujos como iniciar sesión, registro de cultivo, historial de cultivo y estadísticas. Nos menciona que le parece una buena forma de captar la atención desde la landing page. Al registrarse y a lo largo del uso, observa radicalmente que al cambiar el idioma solo cambian algunas secciones, lo que se le dificulta al no entender inglés. De igual manera en las otras secciónes como cultivos y panel de control, le parece perfecto que hayan íconos, esto ayuda a entender a lo que haceesa opción. En resumen, nos menciona que cumple con las funcionalidades que necesita pero faltan detalles para que en el uso él, no presente problemas.  </p>|
 |Timing: |URL: |
 
 
