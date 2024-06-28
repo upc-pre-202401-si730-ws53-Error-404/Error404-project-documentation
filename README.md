@@ -4379,6 +4379,25 @@ Al finalizar e inegrar el backend, se decidió hacer pruebas en formato gherkin,
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
+* **TS01**
+
+<img src="resources/evidenceSprint4/TS01.png">
+
+* **TS09**
+
+<img src="resources/evidenceSprint4/TS09.png">
+
+* **TS11**
+
+<img src="resources/evidenceSprint4/TS11.png">
+
+* **TS12**
+
+<img src="resources/evidenceSprint4/TS12.png">
+
+* **TS13**
+
+<img src="resources/evidenceSprint4/TS13.png">
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
