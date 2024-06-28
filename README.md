@@ -4281,6 +4281,92 @@ Link a Trello: [https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca707cd7d1998a00e
 
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
+**Landing Page**
+
+Dado que esta es la última entrega y en la entrega del TB2 se terminó la landing page, ya no se realizaron más cambios. Por lo tanto, no hubo modificaciones adicionales en esta fase final.
+
+**Frontend-web-application**
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|----------|------|---------|--------------|-------------------|------------------|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|b9a0548|feat(crops): crop frontend changed||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|b221e66|feat(crops): general information works||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|53e1676|feat: changed something slightly||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|ba4177e|Merge branch 'refs/heads/backendPlusFrontend' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|9035671|Merge branch 'refs/heads/feature/crop-registration' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|e4986ab|Merge branch 'refs/heads/feature/crop-new-information' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|5027fc7|feat(forum): corrected date in forum.||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|91f3b48|feat: changed preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|a9611cd|Feat (crops): advance joined part backend and frontend in statics.||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|3a7b5d9|feat(diseases-or-pests): connected the data of diseases and pests from backend to frontend||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|ac11d6b|feat(forum): connected getAnswersByQuestionId.||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|fcfcbcc|Merge remote-tracking branch 'origin/backendPlusFrontend' into backendPlusFrontend||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|4012747|Merge branch 'refs/heads/backendPlusFrontend' into preRelease ||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|45c7c7d|Merge branch 'refs/heads/feature/crop-new-information' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|a7e9df7|feat(controls): connected the data of control from backend to frontend||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|f2c1313|feat: addded diseases visualization||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|f48bf4c|feat(forum): added userName in question tables.||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|5a1bb73|feat: cares integration is left||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|965bac5|feat: create-profile.component.vue||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|70c0642|feat: edit-profile.component.vue||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|5e76d27|feat: edit-profile.component.vue||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|60c99d05|feat: membership-selector.component.vue||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|0b7f94d|feat: cares warking||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|8526c44|Merge branch 'refs/heads/feature/crop-new-information' into preRelease ||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|887c9f7|Merge branch 'refs/heads/backendPlusFrontend' into preRelease||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|3e83167|Merge branch 'refs/heads/conne-profiles/fixes' into preRelease||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|2fd2111|feat: statistics works again||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|9fec2dc|feat: finished crop-history||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|8f80389|feat: add product feature with show products with info and endpoints with backend.||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|a2200df|feat: format date with moment.||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|98ee44e|Merge branch 'refs/heads/feature/crop-registration' into preRelease||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|4f5c6de|feat: finished integration||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|92b5fbe|feat: add statics with backend crops-amount-stats-card.component.vue||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|9193dcb|feat: add statics about most controlled crop relation with backend to get statics.||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|5964153|feat: changed environemnt||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Frontend-Web-Application|preRelease|95eedca|feat: small change in general information in order to see crop's image||28/06/2024|
+
+
+**Web Services**
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|----------|------|---------|--------------|-------------------|------------------|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|e2cfdab|feat: made changes in order to make use of the forum bc in the frontend||21/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|62a4d55|feat: endpoint to delete a sowing implemented.||25/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|4b20d71|refactor: change sowing resource to return the phenological phase name.||25/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|7c2f97a|feat: added CORS Policy||26/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|44636e9|feat(crops): updated backend||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|7ec23cb|Merge branch 'refs/heads/bc-users' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|cc7b28d|feat: slight change||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|e23a72f|Merge branch 'refs/heads/feature/product-sowing-management' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|ab66244|feat: latest backendVersion||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|34c5369|feat: updated backend||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|85fc89c|feat(diseases): added a function to handle diseases by cropId||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|3386d2c|feat(pests): added function to handle pests by cropId||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|261d3d2|feat(pests): fixed endpoint POST||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|d94f717|feat: minimum changes||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|5908a7e|Merge branch 'refs/heads/bc-crops' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|e47a361|feat(forum): corrected get answers by questionId.||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|4d52704|Merge branch 'refs/heads/bc-crops' into preRelease||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|7cd12da|feat: crops related with cares, pests, diseases||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|a25d8e6|feat: add product to sowing||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|1884424|feat: get products by sowing||27/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|075d96e|feat(forum): corrected answer and question||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|891743a|feat(controls): created the logic for the the backend of controls||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|95251ed|feat: added function to handle pests by cropId||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|b9fbaae|Merge branch 'preRelease' of https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services into preRelease||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|2b7cc11|feat: cares integration is left||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|3b795a9|Merge branch 'refs/heads/bc-crops' into preRelease||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|2e058f2|fix: fixed sowingsController||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|817e36e|refactor: added more product types||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|fe18c9d|feat: added enpoints to delete a product by sowing and get info about product by sowing||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|87ffe5a|Merge branch 'preRelease' into feature/product-sowing-management||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|222aded|Merge pull request #9 from upc-pre-202401-si730-ws53-Error-404/feature/product-sowing-management||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|d9d2880|feat: 80% finished backend||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|9c660d6|feat: fully finished backend||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|eb78c45|feat: finished backend||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/Web-Services|preRelease|ebfdf3c|feat: now is fully finished||28/06/2024|
+
+
+
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
 
