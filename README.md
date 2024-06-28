@@ -4791,6 +4791,68 @@ Para este trabajo final se acabo todo lo relacionado a la aplicacion web tanto f
 
 **Web Service**
 
+<img src="resources/finalEndpoints/Answers1.png" alt="Answers1">
+<img src="resources/finalEndpoints/Answers2.png" alt="Answers2">
+<img src="resources/finalEndpoints/Answers3.png" alt="Answers3">
+<img src="resources/finalEndpoints/Answers4.png" alt="Answers4">
+<img src="resources/finalEndpoints/Answers5.png" alt="Answers5">
+<img src="resources/finalEndpoints/Answers6.png" alt="Answers6">
+<img src="resources/finalEndpoints/Authentication1.png" alt="Authentication1">
+<img src="resources/finalEndpoints/Authentication2.png" alt="Authentication2">
+<img src="resources/finalEndpoints/Categories1.png" alt="Categories1">
+<img src="resources/finalEndpoints/Categories2.png" alt="Categories2">
+<img src="resources/finalEndpoints/Categories3.png" alt="Categories3">
+<img src="resources/finalEndpoints/Categories4.png" alt="Categories4">
+<img src="resources/finalEndpoints/Categories5.png" alt="Categories5">
+<img src="resources/finalEndpoints/CropCares1.png" alt="CropCares1">
+<img src="resources/finalEndpoints/CropCares2.png" alt="CropCares2">
+<img src="resources/finalEndpoints/CropCares3.png" alt="CropCares3">
+<img src="resources/finalEndpoints/CropDiseases1.png" alt="CropDiseases1">
+<img src="resources/finalEndpoints/CropDiseases2.png" alt="CropDiseases2">
+<img src="resources/finalEndpoints/CropDiseases3.png" alt="CropDiseases3">
+<img src="resources/finalEndpoints/CropDiseases4.png" alt="CropDiseases4">
+<img src="resources/finalEndpoints/CropPests1.png" alt="CropPests1">
+<img src="resources/finalEndpoints/CropPests2.png" alt="CropPests2">
+<img src="resources/finalEndpoints/CropPests3.png" alt="CropPests3">
+<img src="resources/finalEndpoints/CropPests4.png" alt="CropPests4">
+<img src="resources/finalEndpoints/Crops1.png" alt="Crops1">
+<img src="resources/finalEndpoints/Crops2.png" alt="Crops2">
+<img src="resources/finalEndpoints/Crops3.png" alt="Crops3">
+<img src="resources/finalEndpoints/Crops4.png" alt="Crops4">
+<img src="resources/finalEndpoints/Crops5.png" alt="Crops5">
+<img src="resources/finalEndpoints/Crops6.png" alt="Crops6">
+<img src="resources/finalEndpoints/Profiles1.png" alt="Profiles1">
+<img src="resources/finalEndpoints/Profiles2.png" alt="Profiles2">
+<img src="resources/finalEndpoints/Profiles3.png" alt="Profiles3">
+<img src="resources/finalEndpoints/Profiles4.png" alt="Profiles4">
+<img src="resources/finalEndpoints/Questions1.png" alt="Questions1">
+<img src="resources/finalEndpoints/Questions2.png" alt="Questions2">
+<img src="resources/finalEndpoints/Questions3.png" alt="Questions3">
+<img src="resources/finalEndpoints/Questions4.png" alt="Questions4">
+<img src="resources/finalEndpoints/Questions5.png" alt="Questions5">
+<img src="resources/finalEndpoints/SowingControls1.png" alt="SowingControls1">
+<img src="resources/finalEndpoints/SowingControls2.png" alt="SowingControls2">
+<img src="resources/finalEndpoints/SowingControls3.png" alt="SowingControls3">
+<img src="resources/finalEndpoints/SowingControls4.png" alt="SowingControls4">
+<img src="resources/finalEndpoints/SowingControls5.png" alt="SowingControls5">
+<img src="resources/finalEndpoints/SowingControls6.png" alt="SowingControls6">
+<img src="resources/finalEndpoints/SowingProducts1.png" alt="SowingProducts1">
+<img src="resources/finalEndpoints/SowingProducts2.png" alt="SowingProducts2">
+<img src="resources/finalEndpoints/SowingProducts3.png" alt="SowingProducts3">
+<img src="resources/finalEndpoints/SowingProducts4.png" alt="SowingProducts4">
+<img src="resources/finalEndpoints/SowingProducts5.png" alt="SowingProducts5">
+<img src="resources/finalEndpoints/SowingProducts6.png" alt="SowingProducts6">
+<img src="resources/finalEndpoints/SowingProducts7.png" alt="SowingProducts7">
+<img src="resources/finalEndpoints/SowingProducts8.png" alt="SowingProducts8">
+<img src="resources/finalEndpoints/Sowings1.png" alt="Sowings1">
+<img src="resources/finalEndpoints/Sowings2.png" alt="Sowings2">
+<img src="resources/finalEndpoints/Sowings3.png" alt="Sowings3">
+<img src="resources/finalEndpoints/Sowings4.png" alt="Sowings4">
+<img src="resources/finalEndpoints/Sowings5.png" alt="Sowings5">
+<img src="resources/finalEndpoints/Sowings6.png" alt="Sowings6">
+<img src="resources/finalEndpoints/Subscriptions1.png" alt="Subscriptions1">
+<img src="resources/finalEndpoints/Users1.png" alt="Users1">
+<img src="resources/finalEndpoints/Users2.png" alt="Users2">
 
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
