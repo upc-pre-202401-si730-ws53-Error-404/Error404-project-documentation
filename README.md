@@ -96,9 +96,28 @@ Todos los integrantes del grupo "Error 404" tomaron parte en la realización de 
 |            Carrasco Godos, Juan Fernando               | Desarrollo del frontend, la parte de login y registro, dentro del backend, participación en el desarrollo del bounded context de users con sus respectivos aggregates, entities y value objects|
 |              Llamo Sánchez, Amner Levi                 | Desarrollo completo del backend de forum con sus endpoints funcionales, mejora del frontend con correcciones de bugs y realizar documentación de las evaluaciones segun heurísticas|
 
-***TB2 Github***
+***TF Github***
 
-El hecho de haber trabajado con ayuda del gestión de versión de controles, nos ayudó a terminar el frontend sin muchos errores de por medio, además de poder medir la participación de cada integrante, el frontend se desarrollo en el repositorio de "Frontend-Web-Application" y se separo en ramas de las funcionalidades que cada uno eligio a trabajar para finalizar, finalmente en lo que respecta al backend, se logró terminar una porción de más del 50%, con operaciones crud esenciales para lo que es nuestro negocio, en caso se buscara conectar el frontend con el backend en este momento, se podría hacer, sin embargo faltaría refinar ciertas porciones. Se considera de forma general que los participantes del grupo "Error 404" han trabajado de una forma satisfactoria para esta entrega.
+
+
+<img src="resources/TB2Insights.png">
+<img src="resources/TB2Timeline.png">
+<img src="resources/TB2Commits.png">
+
+
+**TB2**
+
+|                       Integrante                       |                                 Tareas Asignadas                                 |
+|:------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+|               Guillen Luna, Paolo César                ||
+|            Quispe Condori, Fernando Daniel             ||
+|            Cantoral Paredes, Diego André               ||
+|            Carrasco Godos, Juan Fernando               ||
+|              Llamo Sánchez, Amner Levi                 ||
+
+***TF Github***
+
+
 
 <img src="resources/TB2Insights.png">
 <img src="resources/TB2Timeline.png">
@@ -2463,7 +2482,7 @@ Se certifica la exitosa implementación de la aplicación web frontend en lo que
         </tr>
         <tr>
             <td>Prepared By</td>
-            <td>Agriculture</td>
+            <td>Error 404</td>
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
@@ -3908,7 +3927,199 @@ Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se a
 <div id='5.2.4.'><h4> 5.4.1. Sprint 4</h4></div>
 <div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4</h5></div>
 
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>16/06/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00 hrs</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>Error 404</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Guillen Luna, Paolo César / Llamo Sánchez, Amner Levi / Cantoral, Diego /Quispe Condori, Fernando Daniel	/ Carrasco Godos, Juan Fernando	</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>Se cumplió lo esperado para el sprint número tres, cuya meta era implementar un backend con todos los endpoints que creíamos convenientes utilizar con el frontend, se podría considerar que implementamos esto a un nivel del 60% de haberlo completado.</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>Se tuvo conflictos para el cumplimiento del sprint 3, a partir de una correcta comunicación, se logró solucionar y llegar a un acuerdo, cumpliendo la meta final de aquel sprint sin muchos problemast</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>Finalizar el backend por completa e implementar una correcta integración entre el frontend y backend</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>18</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>18</td>
+        </tr>
+    </tbody>
+</table>
+
 <div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4</h5></div>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2">TS01</th>
+      <td rowspan="2">Visualización de informes</td>
+      <td>TK02</td>
+      <td>Diseñar interfaz para informes</td>
+      <td>Crear la interfaz gráfica para visualizar informes y datos estadísticos.</td>
+      <td>3</td>
+      <td>Fernando Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK03</td>
+      <td>Implementar funcionalidad para informes</td>
+      <td>Agregar lógica para generar y mostrar datos estadísticos en la interfaz de informes.</td>
+      <td>5</td>
+      <td>Paolo Guillen</td>
+      <td>In-process</td>
+    </tr>
+    <tr>
+      <th rowspan="2">TS02</th>
+      <td rowspan="2">Registrar cultivo</td>
+      <td>TK04</td>
+      <td>Diseñar formulario para registrar cultivo</td>
+      <td>Crear un formulario para que el usuario pueda registrar un nuevo cultivo.</td>
+      <td>3</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK05</td>
+      <td>Implementar funcionalidad para registrar cultivo</td>
+      <td>Agregar lógica para guardar el cultivo registrado por el usuario.</td>
+      <td>5</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <th rowspan="2">TS11</th>
+      <td rowspan="2">Eliminar registro de cultivo</td>
+      <td>TK06</td>
+      <td>Diseñar interfaz para eliminación de cultivo</td>
+      <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
+      <td>3</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK07</td>
+      <td>Implementar funcionalidad para eliminar cultivo</td>
+      <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
+      <td>5</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">TS09</th>
+      <td rowspan="2">Visualización de registros</td>
+      <td>TK08</td>
+      <td>Diseñar interfaz para visualización de cultivos</td>
+      <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
+      <td>3</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK09</td>
+      <td>Implementar funcionalidad para visualizar registros</td>
+      <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
+      <td>5</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">TS13</th>
+      <td rowspan="2">Editar registro de cultivo</td>
+      <td>TK10</td>
+      <td>Diseñar interfaz para editar cultivo</td>
+      <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
+      <td>3</td>
+      <td>Amner Llamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK11</td>
+      <td>Implementar funcionalidad para editar cultivo</td>
+      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
+      <td>5</td>
+      <td>Amner LLamno</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">TS12</th>
+      <td rowspan="2">Comunidad y foros</td>
+      <td>TK12</td>
+      <td>Diseñar interfaz para foros</td>
+      <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
+      <td>3</td>
+      <td>Fernando Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Implementar funcionalidad para foros</td>
+      <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
+      <td>5</td>
+      <td>Fernando Quispe</td>
+      <td>Done</td>
+    </tr>
+</tr>
+  </tbody>
+</table>
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
 
