@@ -4595,6 +4595,31 @@ Link a Trello: [https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca707cd7d1998a00e
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
 
+|Alumno|Actividad|
+|-|-|
+|Guillen Luna, Paolo César|Integrar el proyecto entre el frontend y backend, de igual forma desarrollar el back del bc de sowings, además de desplegar la versión final de la aplicación web frontend |
+|Carrasco Fernando|Implementación de profiles y su create respectivo, a partir de una serie de pasos|
+|Amner Llamno |Elboración total del foro, tanto back como front así como su integración y comunicación entre ellas|
+|Cantoral, Diego|Mejora del backend con relacion a los crops, además de comunicacion entre sus cares, diseases y pests, además de integración parcial con el frontend|
+|Quispe Fernando|Elaboración del backend, principalmente de la parte de productos del bc sowings, además de su integración completa así como haber mejorado el aspecto visual de la sección de estadísticas|
+
+**Landing Page**
+<img src="resources/trabajoFinalFotosEvidencias/5.png">
+<img src="resources/trabajoFinalFotosEvidencias/6.png">
+<img src="resources/trabajoFinalFotosEvidencias/7.png">
+
+
+**Web Application**
+<img src="resources/trabajoFinalFotosEvidencias/8.png">
+<img src="resources/trabajoFinalFotosEvidencias/9.png">
+<img src="resources/trabajoFinalFotosEvidencias/10.png">
+
+
+**Web Services**
+<img src="resources/trabajoFinalFotosEvidencias/11.png">
+<img src="resources/trabajoFinalFotosEvidencias/12.png">
+<img src="resources/trabajoFinalFotosEvidencias/13.png">
+
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 
