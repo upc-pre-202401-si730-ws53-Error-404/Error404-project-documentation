@@ -4379,6 +4379,8 @@ Al finalizar e inegrar el backend, se decidió hacer pruebas en formato gherkin,
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
+Para este trabajo final se acabo todo lo relacionado a la aplicacion web tanto front y back como su integracion y despliegue, se adjunta video respectivo y sus capturas: [https://youtu.be/htY62oq1im8]
+
 * **TS01**
 
 <img src="resources/evidenceSprint4/TS01.png">
@@ -4752,6 +4754,39 @@ Al finalizar e inegrar el backend, se decidió hacer pruebas en formato gherkin,
 </table>
 
 <div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+**Landing Page**
+<img src="resources/trabajoFinalCarpetaFinalFinal/1.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/2.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/3.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/4.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/5.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/6.png">
+
+
+
+**Frontend Web Application**
+<img src="resources/trabajoFinalCarpetaFinalFinal/7.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/8.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/9.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/10.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/11.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/12.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/13.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/14.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/15.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/16.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/17.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/18.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/19.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/20.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/21.png">
+<img src="resources/trabajoFinalCarpetaFinalFinal/22.png">
+
+
+**Web Service**
+
+
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
 
