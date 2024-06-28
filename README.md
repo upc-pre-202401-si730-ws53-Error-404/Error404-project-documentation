@@ -4240,6 +4240,357 @@ Link a Trello: [https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca707cd7d1998a00e
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
+
+| Endpoint | Detalles |
+| :--: | :--: |
+| subscriptions | Este endpoint proporciona información sobre los planes de suscripción disponibles. Cada plan tiene un id, nombre, descripción y precio. Por ejemplo, el plan "Básico" (id: 1) permite el registro de 5 cultivos y cuesta 9.99. |
+| users | Se implementaron las operaciones CRUD desde base.service.ts, logrando el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de los usuarios. |
+| /crops-management/sowings | CRUD para las siembras. Se implemento con ayuda del base.service.ts. Se obtienen datos como id, fechas, área, usuario, cultivo, fase fenológica y controles. Por ejemplo, la siembra de "Lemon" (id: 1) inició el 19/07/2024 en 500m². |
+| /crops-management/crops | CRUD para los cultivos. Se obtienen id, nombre, imagen, descripción y tipo. Por ejemplo, "Lemon" (id: 1) es un cítrico usado medicinalmente. |
+| /crops-management/crops/cares | CRUD para los cuidados. Se obtienen id, siembra, fecha y sugerencia. Por ejemplo, para la siembra 1, el 25/07/2024 se recomendó regar por 30 minutos. |
+| /crops-management/crops/diseases | CRUD para las enfermedades asociados con cultivos. Se obtienen id, cultivo, nombre, descripción y solución. Por ejemplo, "Bacterial stain" (id: 1) afecta a "Rice" y se controla con fungicidas de cobre. |
+| /crops-management/sowings/products | CRUD para los productos. Se obtienen id, siembra, fecha, tipo, nombre y cantidad. Por ejemplo, para la siembra 1, el 25/07/2024 se usaron 10 kg de "Aminofol Plus". |
+| forum/questions | Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", además del getQuestions desde el Placeholder Json para la tabla de las preguntas que se han registrado dentro de la sección de forum. |
+| forum/answers | Se implementaron las opciones de CRUD de las cuáles se puede evidenciar el funcionamiento de estos de de manera local, así como desde un json-server almacenado en "my-json-server.typicode", además de los getAnswers desde el Placeholder Json para la tabla de las respuestas de acuerdo a la pregunta que el usuario se encuentre interesado en saber más información. |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Operaciones</th>
+      <th>Parametros</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Answers</td>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/forum/answers</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>No tiene</td>
+      <td>/api/v1/forum/answers</td>
+    </tr>
+    <tr>
+      <td>PUT</td>
+      <td>{answerId}</td>
+      <td>/api/v1/forum/answers/{answerId}</td>
+    </tr>
+    <tr>
+      <td>DELETE</td>
+      <td>{answerId}</td>
+      <td>/api/v1/forum/answers/{answerId}</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{answerId}</td>
+      <td>/api/v1/forum/answers/{answerId}</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{questionId}</td>
+      <td>/api/v1/forum/question/{questionId}/answers</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Authentication</td>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/authentication/sign-up</td>
+    </tr>
+    <tr>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/authentication/sign-in</td>
+    </tr>
+    <tr>
+      <td rowspan="5">Categories</td>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/forum/categories</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>No tiene</td>
+      <td>/api/v1/forum/categories</td>
+    </tr>
+    <tr>
+      <td>PUT</td>
+      <td>{categoryId}</td>
+      <td>/api/v1/forum/categories/{categoryId}</td>
+    </tr>
+    <tr>
+      <td>DELETE</td>
+      <td>{categoryId}</td>
+      <td>/api/v1/forum/categories/{categoryId}</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{categoryId}</td>
+      <td>/api/v1/forum/categories/{categoryId}</td>
+    </tr>
+    <tr>
+      <td rowspan="3">CropCares</td>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/crops-management/crops/cares</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{id}</td>
+      <td>/api/v1/crops-management/crops/cares/{id}</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{cropId}</td>
+      <td>/api/v1/crops-management/crops/{cropId}/cares</td>
+    </tr>
+    <tr>
+      <td rowspan="4">CropDiseases</td>
+      <td>POST</td>
+      <td>No tiene</td>
+      <td>/api/v1/crops-management/crops/diseases</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>No tiene</td>
+      <td>/api/v1/crops-management/crops/diseases</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{id}</td>
+      <td>/api/v1/crops-management/crops/diseases/{id}</td>
+    </tr>
+    <tr>
+      <td>GET</td>
+      <td>{cropId}</td>
+      <td>/api/v1/crops-management/crops/{cropId}/diseases</td>
+    </tr>
+<tr>
+  <td rowspan="4">CropPests</td>
+  <td>POST</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/crops/pests</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/crops/pests</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/crops/pests/{id}</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{cropId}</td>
+  <td>/api/v1/crops-management/crops/{cropId}/pests</td>
+</tr>
+<tr>
+  <td rowspan="6">Crops</td>
+  <td>POST</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/crops</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/crops</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/crops/{id}</td>
+</tr>
+<tr>
+  <td>PUT</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/crops/{id}</td>
+</tr>
+<tr>
+  <td>DELETE</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/crops/{id}</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/crops/sowings/{id}</td>
+</tr>
+<tr>
+  <td rowspan="4">Profiles</td>
+  <td>POST</td>
+  <td>No tiene</td>
+  <td>/api/v1/profiles</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/profiles</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{profileId}</td>
+  <td>/api/v1/profiles/{profileId}</td>
+</tr>
+<tr>
+  <td>PUT</td>
+  <td>{profileId}</td>
+  <td>/api/v1/profiles/{profileId}</td>
+</tr>
+<tr>
+  <td rowspan="5">Questions</td>
+  <td>POST</td>
+  <td>No tiene</td>
+  <td>/api/v1/forum/questions</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/forum/questions</td>
+</tr>
+<tr>
+  <td>PUT</td>
+  <td>{questionId}</td>
+  <td>/api/v1/forum/questions/{questionId}</td>
+</tr>
+<tr>
+  <td>DELETE</td>
+  <td>{questionId}</td>
+  <td>/api/v1/forum/questions/{questionId}</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{questionId}</td>
+  <td>/api/v1/forum/questions/{questionId}</td>
+</tr>
+<tr>
+  <td rowspan="5">SowingControls</td>
+  <td>GET</td>
+  <td>{sowingId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/controls</td>
+</tr>
+<tr>
+  <td>POST</td>
+  <td>{sowingId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/controls</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{sowingId}, {controlId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/controls/{controlId}</td>
+</tr>
+<tr>
+  <td>DELETE</td>
+  <td>{sowingId}, {controlId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/controls/{controlId}</td>
+</tr>
+<tr>
+  <td>PUT</td>
+  <td>{sowingId}, {controlId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/controls/{controlId}</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/sowings/controls</td>
+</tr>
+<tr>
+  <td rowspan="7">SowingProducts</td>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/sowings/products</td>
+</tr>
+<tr>
+  <td>POST</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/sowings/products</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{type}</td>
+  <td>/api/v1/crops-management/sowings/products/{type}</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{productId}</td>
+  <td>/api/v1/crops-management/sowings/products/{productId}</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{sowingId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/products</td>
+</tr>
+<tr>
+  <td>POST</td>
+  <td>{sowingId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/products</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{sowingId}, {productId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/products/{productId}</td>
+</tr>
+<tr>
+  <td>DELETE</td>
+  <td>{sowingId}, {productId}</td>
+  <td>/api/v1/crops-management/sowings/{sowingId}/products/{productId}</td>
+</tr>
+<tr>
+  <td rowspan="6">Sowings</td>
+  <td>POST</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/sowings</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/crops-management/sowings</td>
+</tr>
+<tr>
+  <td>PUT</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/sowings/{id}</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/sowings/{id}</td>
+</tr>
+<tr>
+  <td>DELETE</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/sowings/{id}</td>
+</tr>
+<tr>
+  <td>PUT</td>
+  <td>{id}</td>
+  <td>/api/v1/crops-management/sowings/{id}/phenologicalphase</td>
+</tr>
+<tr>
+  <td>Subscription</td>
+  <td>POST</td>
+  <td>No tiene</td>
+  <td>/api/v1/subscription</td>
+</tr>
+<tr>
+  <td rowspan="2">Users</td>
+  <td>GET</td>
+  <td>No tiene</td>
+  <td>/api/v1/users</td>
+</tr>
+<tr>
+  <td>GET</td>
+  <td>{id}</td>
+  <td>/api/v1/users/{id}</td>
+</tr>
+  </tbody>
+</table>
+
 <div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review</h5></div>
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint</h5></div>
