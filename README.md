@@ -1825,6 +1825,54 @@ A continuación se presentarán la serie de pasos a seguir:
 ![stepFive](/resources/firebase/webDeploymentFirebaseFive.png)
 ![stepSix](/resources/firebase/webDeploymentFirebaseSix.png)
 
+## Backend-Web-Application Deployment
+
+Para desplegar nuestro backend, hemos optado por utilizar Azure junto con Docker para asegurar la disponibilidad y escalabilidad de nuestros servicios en la nube. Azure nos proporciona un entorno robusto para alojar nuestras aplicaciones, mientras que Docker facilita la creación y administración de contenedores que encapsulan nuestro código y sus dependencias.
+
+**Link de Azure**: https://azure.microsoft.com/es-es/get-started/azure-portal
+
+1. Se crea en el Microsoft Azure un Azure Database For MySQL Servers
+2. Definición de appsettings
+3. Definición de appsettings.Development
+4. Definición de appsettings.Production
+5. Se crea un Docker-compose para Development de chaquitaclla
+6. Se define Docker-compose para Production de chaquitaclla
+7. Definición de Dockerfile
+8. Se crea un Docker-compose con el backend creado
+9. Se crea la imagen del backend
+10. Se crea el Docker-compose de chaquitaclla en Docker
+11. Se levanta el contenedor relacionado a Developer 
+12. Se levanta el contenedor relacionado a Production
+13. Se realiza un login mediante Azure CLI con el user de la universidad. Gracias a esto se puede crear un Registro de contenedor
+14. Se realiza el login del container y se asigna un tag a la imagen para su mejor manejo
+15. Visualización de la imagen creada dentro de Registro de Contenedores de Azure
+16. Visualización de la creación adecuada del Registro de contenedor
+17. Se realiza un push al Docker del contenedor del backend
+18. Se crea una aplicación web con la imagen generada mediante consola del backend
+19. Se genera un dominio predeterminado a partir de la imagen creada
+20. Verifica que el enlace esté correctamente visible y funcional.
+
+![Step 1](resources/deployBackend/1.png)
+![Step 2](resources/deployBackend/2.png)
+![Step 3](resources/deployBackend/3.png)
+![Step 4](resources/deployBackend/4.png)
+![Step 5](resources/deployBackend/5.png)
+![Step 6](resources/deployBackend/6.png)
+![Step 7](resources/deployBackend/7.png)
+![Step 8](resources/deployBackend/8.png)
+![Step 9](resources/deployBackend/9.png)
+![Step 10](resources/deployBackend/10.png)
+![Step 11](resources/deployBackend/11.png)
+![Step 12](resources/deployBackend/12.png)
+![Step 13](resources/deployBackend/13.png)
+![Step 14](resources/deployBackend/14.png)
+![Step 15](resources/deployBackend/15.png)
+![Step 16](resources/deployBackend/16.png)
+![Step 17](resources/deployBackend/17.png)
+![Step 18](resources/deployBackend/18.png)
+![Step 19](resources/deployBackend/19.png)
+![Step 20](resources/deployBackend/20.png)
+
 
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
