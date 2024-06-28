@@ -96,7 +96,7 @@ Todos los integrantes del grupo "Error 404" tomaron parte en la realización de 
 |            Carrasco Godos, Juan Fernando               | Desarrollo del frontend, la parte de login y registro, dentro del backend, participación en el desarrollo del bounded context de users con sus respectivos aggregates, entities y value objects|
 |              Llamo Sánchez, Amner Levi                 | Desarrollo completo del backend de forum con sus endpoints funcionales, mejora del frontend con correcciones de bugs y realizar documentación de las evaluaciones segun heurísticas|
 
-***TF Github***
+***TB2 Github***
 
 
 
@@ -105,23 +105,22 @@ Todos los integrantes del grupo "Error 404" tomaron parte en la realización de 
 <img src="resources/TB2Commits.png">
 
 
-**TB2**
+**TF**
 
 |                       Integrante                       |                                 Tareas Asignadas                                 |
 |:------------------------------------------------------:|:--------------------------------------------------------------------------------:|
-|               Guillen Luna, Paolo César                ||
-|            Quispe Condori, Fernando Daniel             ||
-|            Cantoral Paredes, Diego André               ||
-|            Carrasco Godos, Juan Fernando               ||
-|              Llamo Sánchez, Amner Levi                 ||
+|               Guillen Luna, Paolo César                |Elaboración de la integración casi completa entre frontend y backend respecto al dominio de negocio|
+|            Quispe Condori, Fernando Daniel             |Haber elaborado la relación de productos con sowings, así cmo su integración entre el backend y el frontend de esta|
+|            Cantoral Paredes, Diego André               |Elaboré la forma en que los crops se relacionan con enfermedades y pestes en el negocio y como esto es integrado con el frontend|
+|            Carrasco Godos, Juan Fernando               |Elaboré la sección de perfiles del trabajo final y su creación de estos desde el frontend|
+|              Llamo Sánchez, Amner Levi                 |Elaboración completa de la sección del foro, y su integración garantizando un MVP (Minimum VIable Product) para esa sección del negocio|
 
 ***TF Github***
 
 
-
-<img src="resources/TB2Insights.png">
-<img src="resources/TB2Timeline.png">
-<img src="resources/TB2Commits.png">
+<img src="resources/trabajoFinalFotosEvidencias/2.png">
+<img src="resources/trabajoFinalFotosEvidencias/3.png">
+<img src="resources/trabajoFinalFotosEvidencias/4.png">
 
 ## Contenido 
 1. [**Capítulo I: Introducción.**](#1.) <br>
@@ -3988,6 +3987,11 @@ Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se a
 
 <div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4</h5></div>
 
+Siendo este es el último sprint, el enfoque que se tomó fue de terminar el backend por completo, al menos lo que respecta la sección de negocio, esto tomó aproximadamente dos semanas, puesto que había correciones que hacer en lo que respeta a la enttrega del sprint 3, así como que tareas para el sprint previo se trasladaron a esta por estar incompletas y considerarlas cruciales para el negocio. De igual forma este sprint se trabajo con la herramienta de trello donde se muestra la captura y su enlace respectivo.
+
+<img src="resources/trabajoFinalFotosEvidencias/1.png">
+
+Link a Trello: [https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca707cd7d1998a00eea3deed9aE11F440C/sprint-backlogs]
 
 <table>
   <thead>
@@ -4012,116 +4016,221 @@ Esta sección es enfocada a demostrar la evidencia del desarrollo de lo que se a
   </thead>
   <tbody>
     <tr>
-      <th rowspan="2">TS01</th>
-      <td rowspan="2">Visualización de informes</td>
+      <th rowspan="11">TS01</th>
+      <td rowspan="11">Get user</td>
+      <td>TK01</td>
+      <td>Crear y definir los aggragates</td>
+      <td>Crear y definir los aggragates</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr>
+    <tr>
       <td>TK02</td>
-      <td>Diseñar interfaz para informes</td>
-      <td>Crear la interfaz gráfica para visualizar informes y datos estadísticos.</td>
-      <td>3</td>
-      <td>Fernando Quispe</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TK03</td>
-      <td>Implementar funcionalidad para informes</td>
-      <td>Agregar lógica para generar y mostrar datos estadísticos en la interfaz de informes.</td>
-      <td>5</td>
-      <td>Paolo Guillen</td>
-      <td>In-process</td>
-    </tr>
-    <tr>
-      <th rowspan="2">TS02</th>
-      <td rowspan="2">Registrar cultivo</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr><tr>
       <td>TK04</td>
-      <td>Diseñar formulario para registrar cultivo</td>
-      <td>Crear un formulario para que el usuario pueda registrar un nuevo cultivo.</td>
-      <td>3</td>
-      <td>Amner Llamno</td>
+      <td>Crear y definir los entitys</td>
+      <td>Crear y definir los entitys</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr><tr>
+      <td>TK05</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>Crear y definir los ValueObject</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr><tr>
+      <td>TK06</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>Crear y definir los CommandServices</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr><tr>
+      <td>TK07</td>
+      <td>Crear y definir los QueryService</td>
+      <td>Crear y definir los QueryService</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr><tr>
+      <td>TK08</td>
+      <td>Crear y definir los Repositories</td>
+      <td>Crear y definir los Repositories</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr><tr>
+      <td>TK09</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>TK05</td>
-      <td>Implementar funcionalidad para registrar cultivo</td>
-      <td>Agregar lógica para guardar el cultivo registrado por el usuario.</td>
-      <td>5</td>
-      <td>Amner Llamno</td>
+      <td>TK10</td>
+      <td>Crear e implementa los QueryServiceImpls </td>
+      <td>Crear e implementa los QueryServiceImpls </td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr><tr>
+      <td>TK11</td>
+      <td>Crear e implementar los Controllers </td>
+      <td>Crear e implementar los Controllers </td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS02</th>
+      <td rowspan="3">Delete user</td>
+      <td>TK12</td>
+      <td>Crear los Comamands</td>
+      <td>Crear los Comamands.</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK13</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Crear e implementa los CommandServicesImpls </td>
+      <td>Crear e implementa los CommandServicesImpls .</td>
+      <td>1</td>
+      <td>Juan Carrasco</td>
       <td>Done</td>
     </tr>
       <tr>
-      <th rowspan="2">TS11</th>
-      <td rowspan="2">Eliminar registro de cultivo</td>
-      <td>TK06</td>
-      <td>Diseñar interfaz para eliminación de cultivo</td>
-      <td>Crear la interfaz con opciones para seleccionar y eliminar registros de cultivos.</td>
+      <th rowspan="3">TS09</th>
+      <td rowspan="3">Get Sowings</td>
+      <td>TK15</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
       <td>3</td>
-      <td>Amner Llamno</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK07</td>
-      <td>Implementar funcionalidad para eliminar cultivo</td>
-      <td>Agregar lógica para eliminar cultivos de la base de datos y mostrar mensajes de confirmación.</td>
-      <td>5</td>
-      <td>Amner Llamno</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="2">TS09</th>
-      <td rowspan="2">Visualización de registros</td>
-      <td>TK08</td>
-      <td>Diseñar interfaz para visualización de cultivos</td>
-      <td>Crear la interfaz para mostrar la lista de cultivos registrados con información adicional.</td>
-      <td>3</td>
-      <td>Diego Cantoral</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK09</td>
-      <td>Implementar funcionalidad para visualizar registros</td>
-      <td>Agregar lógica para recuperar y mostrar datos de cultivos desde la base de datos.</td>
-      <td>5</td>
-      <td>Diego Cantoral</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="2">TS13</th>
-      <td rowspan="2">Editar registro de cultivo</td>
-      <td>TK10</td>
-      <td>Diseñar interfaz para editar cultivo</td>
-      <td>Crear la interfaz para editar registros de cultivos previamente guardados.</td>
-      <td>3</td>
-      <td>Amner Llamno</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>TK11</td>
-      <td>Implementar funcionalidad para editar cultivo</td>
-      <td>Agregar lógica para modificar cultivos existentes y guardar los cambios.</td>
-      <td>5</td>
-      <td>Amner LLamno</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <th rowspan="2">TS12</th>
-      <td rowspan="2">Comunidad y foros</td>
-      <td>TK12</td>
-      <td>Diseñar interfaz para foros</td>
-      <td>Crear la sección de foros con opciones para ver, crear y responder a temas relacionados con cultivos.</td>
-      <td>3</td>
-      <td>Fernando Quispe</td>
+      <td>Paolo Guillen</td>
       <td>Done</td>
     </tr>
     <tr>
       <td>TK16</td>
-      <td>Implementar funcionalidad para foros</td>
-      <td>Agregar lógica para permitir interacciones en el foro, como crear, editar y eliminar temas y respuestas.</td>
-      <td>5</td>
-      <td>Fernando Quispe</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
       <td>Done</td>
     </tr>
-</tr>
+     <tr>
+      <td>TK17</td>
+      <td>Crear e implementa los QueryServicesImpls  </td>
+      <td>Crear e implementa los QueryServicesImpls </td>
+      <td>1</td>
+      <td>Paolo Guillen</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS11</th>
+      <td rowspan="3">Get Cares</td>
+      <td>TK18</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>3</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK19</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td>TK20</td>
+      <td>Crear e implementa los QueryServicesImpls  </td>
+      <td>Crear e implementa los QueryServicesImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS13</th>
+      <td rowspan="3">Get Diseases</td>
+      <td>TK15</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>3</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td>TK17</td>
+      <td>Crear e implementa los QueryServicesImpls  </td>
+      <td>Crear e implementa los QueryServicesImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="3">TS12</th>
+      <td rowspan="3">Get Pests</td>
+      <td>TK15</td>
+      <td>Crear los Queries</td>
+      <td>Crear los Queries</td>
+      <td>3</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Crear y definir los CommandServices </td>
+      <td>Crear y definir los CommandServices </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td>TK17</td>
+      <td>Crear e implementa los QueryServicesImpls  </td>
+      <td>Crear e implementa los QueryServicesImpls </td>
+      <td>1</td>
+      <td>Diego Cantoral</td>
+      <td>Done</td>
+    </tr>
   </tbody>
 </table>
+
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review</h5></div>
 
