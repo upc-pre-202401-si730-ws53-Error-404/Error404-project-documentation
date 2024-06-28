@@ -412,35 +412,37 @@ El producto debe contar con una interfaz sencilla, dinámica e inclusiva. Debe s
 
 * **Hypothesis Statement 01:**
     
-    **Creemos que** tanto los agricultores principiantes como los profesionales estarán dispuestos a adoptar nuestra aplicación de gestión de cultivos e interactuar con el foro de comunidad para aprender más sobre agricultura
-    
-    **Sabremos** que hemos tenido éxito
-    
-    **Cuando** observemos que hay un promedio de 600 usuarios en los dos primeros meses que interactuen continuamente en el foro de preguntas y respuestas.
+    **Creemos** que los agricultores principiantes y profesionales necesitan una comunidad de apoyo para resolver dudas y compartir conocimientos sobre         prácticas agrícolas.
+  
+    **Sabremos** que hemos tenido éxito cuando observemos 300 usuarios nuevos se registran en el foro en los primeros dos meses, y al menos el 50% de ellos 
+    participan activamente con al menos 5 interacciones cada uno.
+
 
 * **Hypothesis Statement 02:**
     
-    **Creemos que** al proporcionar datos históricos sobre qué cultivo prospera mejor en cada temporada específica y brindar información sobre los cuidados necesarios, nuestra aplicación permitirá a los agricultores profesionales tomar decisiones informadas sobre qué cultivar en la temporada actual
-    
-    **Sabremos** que hemos tenido éxito
-    
-    **Cuando** observemos en los registros que los cultivos más comunes durante la presente temporada son precisamente aquellos que nuestra aplicación recomendó. Esto indicará que estamos influyendo positivamente en las decisiones de cultivo y en la calidad de las cosechas.
+    **Creemos** que los agricultores profesionales necesitan acceso a datos históricos sobre cultivos para tomar decisiones informadas sobre la     
+    planificación de cultivos de temporada.
+
+    **Sabremos** que hemos tenido éxito cuando observemos que el 60% de los usuarios que acceden a los datos históricos reportan haber ajustado sus 
+    cultivos en base a nuestras recomendaciones y muestran un incremento en el rendimiento de los cultivos en la temporada actual.
+
   
 * **Hypothesis Statement 03:**
 
-    **Creemos que** al proporcionar datos sobre enferemedades que podrían tener los cultivos, nuestra aplicación permitirá a tomas más preocupaciones a los usuarios al momento de cuidar sus cultivos con el fin de que sean de mejor calidad.
+    **Creemos** que los agricultores necesitan información detallada sobre plagas y enfermedades para mejorar la calidad de sus cultivos y reducir pérdidas.
 
-    **Sabremos que** hemos tenido éxito
+    **Sabremos** que hemos tenido éxito cuando observemos que 400 usuarios visitan la sección de plagas y enfermedades en el primer mes y al menos el 50% 
+    de ellos reportan una disminución en los problemas de cultivo y una mejora en la calidad de sus cosechas.
 
-    **Cuando** observemos unas  400  visitas usuarios en el primer mes hacia la sección de plagas y enfermedades de cultivos y sus cultivos hayan sido constantes en ese tiempo. 
 
 * **Hypothesis Statement 04:**
     
-    **Creemos que** nuestra aplicación reducirá significativamente la pérdida de datos y proporcionará información más precisa en comparación con los métodos de registro manuales
-    
-    **Sabremos** que hemos tenido éxito
-    
-    **Cuando** comencemos a recibir reseñas positivas de los usuarios. En particular, si destacan nuestra capacidad para mantener la información respaldada de manera efectiva, consideraremos que estamos en el camino correcto.
+   **Creemos** que los agricultores necesitan una herramienta de registro digital que reduzca la pérdida de datos y ofrezca una forma más precisa y 
+   accesible de gestionar la información de los cultivos.
+
+   **Sabremos** que hemos tenido éxito cuando observemos que el 70% de los usuarios que anteriormente usaban métodos manuales reportan que la aplicación ha 
+   eliminado la pérdida de datos y que prefieren usar la aplicación para la gestión de sus cultivos después de tres meses de uso.
+
   
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
