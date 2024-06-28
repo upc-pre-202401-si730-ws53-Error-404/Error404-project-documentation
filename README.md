@@ -40,8 +40,13 @@
 |29/05/2024| 2.6| Paolo Guillen, Fernando Quispe | Desarrollo del bounded context relacionado con crops, especialmente la seccion de sus productos y controles|
 |01/06/2024| 2.7| Diego Cantoral, Paolo Guillen | Desarrollo del bounded context relacionado con crops, la seccion de los crops|
 |04/06/2024| 2.8| Juan Carrasco | Desarrollo del bounded context relacionado con users, y documentacion|
-|08/06/2024| 2.9|Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Revisiones finales y documentación del sprint numero 3|
+|08/06/2024| 2.9|Carrasco Juan| Realizar bc users y documentarlo un poco|
 |09/06/2024|3.0| Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Correccion de errores en la documentacion y añadir technical stories nuevas que se relacionan con el backend|
+|16/06/2024|3.1| Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Documentacion del sprint 4 un poco mejor|
+|20/06/2024|3.2| Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Terminar la documentación hasta la seccion del desarrollo de backend|
+|28/06/2024|3.3|Diego Cantoral , Amner Llamo|Implementacion de la documentacion del despliegue del backend|
+|28/06/2024|3.4| Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Actividad colaborativa para comprobar que el student outcome este correcto|
+|28/06/2024|3.5| Carrasco Juan, Guillen Paolo, Fernando Quispe, Diego Cantoral , Amner Llamo| Correccion de errores en la documentacion y finalizacion del proyecto|
 
 ## Project Report Collaboration Insights
 
