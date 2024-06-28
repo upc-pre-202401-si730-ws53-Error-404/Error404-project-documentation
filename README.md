@@ -4284,10 +4284,17 @@ Link a Trello: [https://trello.com/invite/b/HBEhHK7G/ATTI67ec33ca707cd7d1998a00e
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review</h5></div>
 
+Al finalizar e inegrar el backend, se decidió hacer pruebas en formato gherkin, además de esto se realizó pruebas de integración con el framework de Playwright, estas pruebas están más orientadas al backend, es decir al API
+
+| Repository | Branch | CommitID | Commit Message | Commit Message Body | Commited on (Date) |
+| :--: | :--: | :--: | :--:  |   :--: |  :--: |
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/ChaquitacllaAPIUnitTests|main|7ce5852|feat: added more tests||28/06/2024|
+|https://github.com/upc-pre-202401-si730-ws53-Error-404/ChaquitacllaAPIUnitTests|main|e7c5c32|feat: added gherkin tests||28/06/2024|
+
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
-<div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
+<div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
 | Endpoint | Detalles |
 | :--: | :--: |
