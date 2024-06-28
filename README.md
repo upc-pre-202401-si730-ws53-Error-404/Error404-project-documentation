@@ -4379,6 +4379,8 @@ Al finalizar e inegrar el backend, se decidió hacer pruebas en formato gherkin,
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review</h5></div>
 
+Para este trabajo final se acabo todo lo relacionado a la aplicacion web tanto front y back como su integracion y despliegue, se adjunta video respectivo y sus capturas: [https://youtu.be/htY62oq1im8]
+
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review</h5></div>
 
