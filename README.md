@@ -5008,6 +5008,8 @@ Muhammad Usman. (2022, 19 de abril). Deployment/Hosting of Vue.js app using Fire
 * **LandingPage:** [https://upc-pre-202401-si730-ws53-error-404.github.io/LandingPageAplicacionesWeb/]
 
 * **Frontend Web application:** [chaquitaclla-app-web-tp.web.app]
+  
+* **Backend Web application:** [https://chaquitacllaerror404-wa.azurewebsites.net/swagger/index.html] 
 
 * **Entrevistas:**[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124343_upc_edu_pe/EcrGfeuMWm5HvPQFkc32dcMBvwGlSwemAq_NGnT44LcnEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=I7dtHo]
 * **UserFlow LucidChart:**:[https://lucid.app/lucidchart/a11c0732-8774-47f6-8b55-f74a227a27c4/edit?invitationId=inv_9bab7fc8-1e72-45dc-baa2-04f6a4585a01]
